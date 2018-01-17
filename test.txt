@@ -1,0 +1,4000 @@
+﻿100001 	向#1香港#2特别#1行政区#1同胞#4澳门#2和#1台湾#1同胞#4海外#1侨胞
+	向_p#1 香港_ns#2 特别_a#1 行政区_n#1 同胞_n#4 澳门_ns#2 和_c#1 台湾_ns#1 同胞_n#4 海外_nl#1 侨胞_n#4
+	xiang4 xiang1 gang3 te4 bie2 xing2 zheng4 qv1 tong2 bao1 ao4 men2 he2 tai2 wan1 tong2 bao1 hai3 wai4 qiao2 bao1
+
+100002 	致以#2诚挚的#1问候#4和#1良好的#1祝愿
+	致以_v#2 诚挚_a#0 的_u#1 问候_v#4 和_c#1 良好_a#0 的_u#1 祝愿_v#4
+	zhi4 yi3 cheng2 zhi4 de5 wen4 hou4 he2 liang2 hao3 de5 zhu4 yvan4
+
+100003 	是#1中国#1发展#1历史上#3非常#1重要的#3很不#1平凡的#1一年
+	是_v#1 中国_ns#1 发展_v#1 历史_n#0 上_nd#3 非常_d#1 重要_a#0 的_u#3 很_d#0 不_d#1 平凡_a#0 的_u#1 一_m#0 年_q#4
+	shi4 zhong1 guo2 fa1 zhan3 li4 shi3 shang4 fei1 chang2 zhong4 yao4 de5 hen3 bu4 ping2 fan2 de5 yi4 nian2
+
+100004 	中国#1人民#3决心#2继承#3邓小平#1同志的#1遗志
+	中国_ns#1 人民_n#3 决心_d#2 继承_v#3 邓小平_nh#1 同志_n#0 的_u#1 遗志_n#4
+	zhong1 guo2 ren2 min2 jve2 xin1 ji4 cheng2 deng4 xiao3 ping2 tong2 zhi4 de5 yi2 zhi4
+
+100005 	继续#1把#1建设#2有#1中国#1特色#3社会#1主义#1事业#4推向#1前进
+	继续_v#1 把_p#1 建设_v#2 有_v#1 中国_ns#1 特色_n#3 社会主义_n#1 事业_n#4 推向_v#1 前进_v#4
+	ji4 xv4 ba3 jian4 she4 you3 zhong1 guo2 te4 se4 she4 hui4 zhu3 yi4 shi4 ye4 tui1 xiang4 qian2 jin4
+
+100006 	中国#1政府#3顺利#1恢复#2对#1香港#3行使#1主权
+	中国_ns#1 政府_n#3 顺利_a#1 恢复_v#2 对_p#1 香港_ns#3 行使_v#1 主权_n#4
+	zhong1 guo2 zheng4 fu3 shun4 li4 hui1 fu4 dui4 xiang1 gang3 xing2 shi2 zhu3 qvan2
+
+100007 	中国#1共产党#3成功地#2召开了#3第#1十五次#3全国#1代表#1大会
+	中国_ns#1 共产党_n#3 成功_a#0 地_u#2 召开_v#0 了_u#3 第十五_m#1 次_q#3 全国_n#1 代表大会_n#4
+	zhong1 guo2 gong4 chan2 dang3 cheng2 gong1 de5 zhao4 kai1 le5 di4 shi2 wu3 ci4 qvan2 guo2 dai4 biao3 da4 hui4
+
+100008 	制定了#3中国#2跨#1世纪#1发展的#3行动#1纲领
+	制定_v#0 了_u#3 中国_ns#2 跨_v#1 世纪_n#1 发展_v#0 的_u#3 行动_v#1 纲领_n#4
+	zhi4 ding4 le5 zhong1 guo2 kua4 shi4 ji4 fa1 zhan3 de5 xing2 dong4 gang1 ling3
+
+100009 	中国的#1改革#1开放#3和#1现代化#1建设#4继续#2向前#1迈进
+	中国_ns#0 的_u#1 改革_v#1 开放_v#3 和_c#1 现代化_v#1 建设_v#4 继续_v#2 向_p#0 前_nd#1 迈进_v#4
+	zhong1 guo2 de5 gai3 ge2 kai1 fang4 he2 xian4 dai4 hua4 jian4 she4 ji4 xv4 xiang4 qian2 mai4 jin4
+
+100010 	国民#1经济#2保持了#3高增长#3低#1通胀的#3良好#1发展#1态势
+	国民经济_n#2 保持_v#0 了_u#3 高_a#0 增长_v#3 低_a#1 通胀_j#0 的_u#3 良好_a#1 发展_v#1 态势_n#4
+	guo2 min2 jing1 ji4 bao3 chi2 le5 gao1 zeng1 zhang3 di1 tong1 zhang4 de5 liang2 hao3 fa1 zhan3 tai4 shi4
+
+100011 	对外#2经济#1技术#1合作#1与#1交流#3不断#1扩大
+	对外_v#2 经济_n#1 技术_n#1 合作_v#1 与_c#1 交流_v#3 不断_d#1 扩大_v#4
+	dui4 wai4 jing1 ji5 ji4 shu5 he2 zuo4 yv3 jiao1 liu2 bu2 duan4 kuo4 da4
+
+100012 	中国的#1外交#1工作#3取得了#1重要#1成果
+	中国_ns#0 的_u#1 外交_n#1 工作_v#3 取得_v#0 了_u#1 重要_a#1 成果_n#4
+	zhong1 guo2 de5 wai4 jiao1 gong1 zuo4 qv3 de2 le5 zhong4 yao4 cheng2 guo3
+
+100013 	中国#2积极#1参与#3亚太#2经合#1组织的#1活动
+	中国_ns#2 积极_a#1 参与_v#3 亚_j#0 太_j#2 经合_j#1 组织_n#0 的_u#1 活动_v#4
+	zhong1 guo2 ji1 ji2 can1 yv4 ya4 tai4 jing1 he2 zu3 zhi1 de5 huo2 dong4
+
+100014 	参加了#2东盟#2中日韩#3和#2中国#1东盟#1首脑#3非正式#1会晤
+	参加_v#0 了_u#2 东盟_ns#2 中_j#0 日_j#0 韩_j#3 和_c#2 中国_ns#1 东盟_ns#1 首脑_n#3 非正式_b#1 会晤_v#4
+	can1 jia1 le5 dong1 meng2 zhong1 ri4 han2 he2 zhong1 guo2 dong1 meng2 shou2 nao3 fei1 zheng4 shi4 hui4 wu4
+
+100015 	符合#2和平#1与#1发展的#3时代#1主题
+	符合_v#2 和平_n#1 与_c#1 发展_v#0 的_u#3 时代_n#1 主题_n#4
+	fu2 he2 he2 ping2 yv3 fa1 zhan3 de5 shi2 dai4 zhu3 ti2
+
+100016 	顺应#2世界#1走向#3多极化的#1趋势
+	顺应_v#2 世界_n#1 走向_v#3 多极化_v#0 的_u#1 趋势_n#4
+	shun4 ying4 shi4 jie4 zou3 xiang4 duo1 ji2 hua4 de5 qv1 shi4
+
+100017 	中国#1人民#3将#1满怀#1信心地#3开创#2新的#1业绩
+	中国_ns#1 人民_n#3 将_d#1 满怀信心_i#1 地_u#3 开创_v#2 新_a#0 的_u#1 业绩_n#4
+	zhong1 guo2 ren2 min2 jiang1 man3 huai2 xin4 xin1 de5 kai1 chuang4 xin1 de5 ye4 ji4
+
+100018 	尽管#2我们#1在#3经济#1社会#1发展中#3还#1面临#2不少#1困难
+	尽管_c#2 我们_r#1 在_p#3 经济_n#1 社会_n#1 发展_v#0 中_nd#3 还_d#1 面临_v#2 不少_m#1 困难_a#4
+	jin2 guan2 wo3 men5 zai4 jing1 ji4 she4 hui4 fa1 zhan3 zhong1 hai2 mian4 lin2 bu4 shao3 kun4 nan5
+
+100019 	但#1我们#1有#3邓小平#2理论的#1指引
+	但_c#1 我们_r#1 有_v#3 邓小平理论_n#2 的_u#1 指引_v#4
+	dan4 wo3 men2 you3 deng4 xiao3 ping2 li3 lun4 de5 zhi2 yin3
+
+100020 	是#1海内外#3全体#1中国人的#3共同#1心愿
+	是_v#1 海内外_nl#3 全体_n#1 中国_ns#0 人_n#0 的_u#3 共同_b#1 心愿_n#4
+	shi4 hai3 nei4 wai4 qvan2 ti3 zhong1 guo2 ren2 de5 gong4 tong2 xin1 yvan4
+
+100021 	通过#2中葡#1双方的#1合作#3和#1努力
+	通过_p#2 中_j#0 葡_j#1 双方_n#0 的_u#1 合作_v#3 和_c#1 努力_a#4
+	tong1 guo4 zhong1 pu2 shuang1 fang1 de5 he2 zuo4 he2 nu3 li4
+
+100022 	按照#2一国#1两制的#1方针#3和#1澳门#1基本法
+	按照_p#2 一国两制_j#1 的_u#1 方针_n#3 和_c#1 澳门_ns#1 基本法_n#4
+	an4 zhao4 yi4 guo2 liang3 zhi4 de5 fang1 zhen1 he2 ao4 men2 ji1 ben2 fa3
+
+100023 	一九#1九九年#2十二月#3澳门的#1回归#4一定#1能够#2顺利#1实现
+	一九九九年_nt#2 十二月_nt#3 澳门_ns#0 的_u#1 回归_v#4 一定_d#1 能够_v#2 顺利_a#1 实现_v#4
+	yi1 jiu3 jiu2 jiu3 nian2 shi2 er4 yve4 ao4 men2 de5 hui2 gui1 yi2 ding4 neng2 gou4 shun4 li4 shi2 xian4
+
+100024 	台湾#1是#1中国#1领土#3不可#1分割的#1一部分
+	台湾_ns#1 是_v#1 中国_ns#1 领土_n#3 不可分割_i#1 的_u#1 一_m#0 部分_n#4
+	tai2 wan1 shi4 zhong1 guo2 ling2 tu3 bu4 ke3 fen1 ge1 de5 yi2 bu4 fen5
+
+100025 	任何#2企图#1制造#3两个#1中国#3一中#1一台#3台湾#1独立的#1图谋
+	任何_r#2 企图_v#1 制造_v#3 两_m#0 个_q#1 中国_ns#3 一中一台_j#3 台湾_ns#1 独立_a#0 的_u#1 图谋_n#4
+	ren4 he2 qi3 tu2 zhi4 zao4 liang3 ge5 zhong1 guo2 yi4 zhong1 yi4 tai2 tai2 wan1 du2 li4 de5 tu2 mou2
+
+100026 	希望#2台湾#1当局#3以#1民族#1大义#1为重
+	希望_v#2 台湾_ns#1 当局_n#3 以_p#1 民族_n#1 大义_n#1 为重_v#4
+	xi1 wang4 tai2 wan1 dang1 jv2 yi3 min2 zu2 da4 yi4 wei2 zhong4
+
+100027 	推动#1两岸#3经济#1文化#1交流#4和#1人员#1往来
+	推动_v#1 两岸_n#3 经济_n#1 文化_n#1 交流_v#4 和_c#1 人员_n#1 往来_v#4
+	tui1 dong4 liang3 an4 jing1 ji4 wen2 hua4 jiao1 liu2 he2 ren2 yvan2 wang3 lai2
+
+100028 	促进#1两岸#3直接#1通邮#3通航#2通商的#3早日#1实现
+	促进_v#1 两岸_n#3 直接_a#1 通邮_v#3 通航_v#2 通商_v#0 的_u#3 早日_d#1 实现_v#4
+	cu4 jin4 liang3 an4 zhi2 jie1 tong1 you2 tong1 hang2 tong1 shang1 de5 zao3 ri4 shi2 xian4
+
+100029 	正在#1为#2各国#1经济的#1发展#3提供#2历史#1机遇
+	正在_d#1 为_p#2 各国_r#1 经济_n#0 的_u#1 发展_v#3 提供_v#2 历史_n#1 机遇_n#4
+	zheng4 zai4 wei4 ge4 guo2 jing1 ji4 de5 fa1 zhan3 ti2 gong1 li4 shi3 ji1 yv4
+
+100030 	南北#1之间的#2贫富#1差距#3继续#1扩大
+	南北_n#1 之间_nd#0 的_u#2 贫富_n#1 差距_n#3 继续_v#1 扩大_v#4
+	nan2 bei3 zhi1 jian1 de5 pin2 fu4 cha1 jv4 ji4 xv4 kuo4 da4
+
+100031 	人类的#1生存#3与#1发展#4还#1面临#2种种#1威胁#3和#1挑战
+	人类_n#0 的_u#1 生存_v#3 与_c#1 发展_v#4 还_d#1 面临_v#2 种种_q#1 威胁_v#3 和_c#1 挑战_v#4
+	ren2 lei4 de5 sheng1 cun2 yv3 fa1 zhan3 hai2 mian4 lin2 zhong2 zhong3 wei1 xie2 he2 tiao3 zhan4
+
+100032 	和平#2与#1发展的#1前景#3是#1光明的
+	和平_n#2 与_c#1 发展_v#0 的_u#1 前景_n#3 是_v#1 光明_a#0 的_u#4
+	he2 ping2 yv3 fa1 zhan3 de5 qian2 jing3 shi4 guang1 ming2 de5
+
+100033 	二十一#1世纪#3将是#1充满#2希望的#1世纪
+	二十一_m#1 世纪_n#3 将_d#0 是_v#1 充满_v#2 希望_n#0 的_u#1 世纪_n#4
+	er4 shi2 yi1 shi4 ji4 jiang1 shi4 chong1 man3 xi1 wang4 de5 shi4 ji4
+
+100034 	但#2前进的#1道路#3不会#3也#1不可能#3一帆#1风顺
+	但_c#2 前进_v#0 的_u#1 道路_n#3 不_d#0 会_v#3 也_d#1 不_d#0 可能_v#3 一帆风顺_i#4
+	dan4 qian2 jin4 de5 dao4 lu4 bu2 hui4 ye3 bu4 ke3 neng2 yi4 fan1 feng1 shun4
+
+100035 	关键#1是#3世界#1各国#1人民#3要#1进一步#1团结#1起来
+	关键_n#1 是_v#3 世界_n#1 各国_r#1 人民_n#3 要_v#1 进一步_d#1 团结_v#1 起来_v#4
+	guan1 jian4 shi4 shi4 jie4 ge4 guo2 ren2 min2 yao4 jin4 yi2 bu4 tuan2 jie2 qi3 lai2
+
+100036 	共同#1推动#3早日#1建立#4公正#1合理的#3国际#1政治#2经济#2新秩序
+	共同_d#1 推动_v#3 早日_d#1 建立_v#4 公正_a#1 合理_a#0 的_u#3 国际_n#1 政治_n#2 经济_n#2 新_a#0 秩序_n#4
+	gong4 tong2 tui1 dong4 zao3 ri4 jian4 li4 gong1 zheng4 he2 li3 de5 guo2 ji4 zheng4 zhi4 jing1 ji4 xin1 zhi4 xv4
+
+100037 	中国#1政府#3将#2继续#1坚持#1奉行#3独立#1自主的#3和平#1外交#1政策
+	中国_ns#1 政府_n#3 将_d#2 继续_v#1 坚持_v#1 奉行_v#3 独立自主_i#1 的_u#3 和平_n#1 外交_n#1 政策_n#4
+	zhong1 guo2 zheng4 fu3 jiang1 ji4 xv4 jian1 chi2 feng4 xing2 du2 li4 zi4 zhu3 de5 he2 ping2 wai4 jiao1 zheng4 ce4
+
+100038 	中国#2愿意#1加强#3同#1联合国#3和#1其他#1国际#1组织的#1协调
+	中国_ns#2 愿意_v#1 加强_v#3 同_p#1 联合国_ni#3 和_c#1 其他_r#1 国际_n#1 组织_n#0 的_u#1 协调_v#4
+	zhong1 guo2 yvan4 yi5 jia1 qiang2 tong2 lian2 he2 guo2 he2 qi2 ta1 guo2 ji4 zu3 zhi1 de5 xie2 tiao2
+
+100039 	中国#1永远#1是#3维护#2世界#1和平#2与#1稳定的#3重要#1力量
+	中国_ns#1 永远_d#1 是_v#3 维护_v#2 世界_n#1 和平_n#2 与_c#1 稳定_a#0 的_u#3 重要_a#1 力量_n#4
+	zhong1 guo2 yong2 yvan3 shi4 wei2 hu4 shi4 jie4 he2 ping2 yv2 wen3 ding4 de5 zhong4 yao4 li4 liang4
+
+100040 	为#1开创#2持久#2和平#3共同#1发展的#1新世纪#3而#2不懈#1努力
+	为_p#1 开创_v#2 持久_a#2 和平_n#3 共同_d#1 发展_v#0 的_u#1 新_a#0 世纪_n#3 而_c#2 不懈努力_i#4
+	wei4 kai1 chuang4 chi2 jiu3 he2 ping2 gong4 tong2 fa1 zhan3 de5 xin1 shi4 ji4 er2 bu2 xie4 nu3 li4
+
+100041 	我们#1伟大#1祖国#3在#1新的#1一年
+	我们_r#1 伟大_a#1 祖国_n#3 在_p#1 新_a#0 的_u#1 一_m#0 年_q#4
+	wo3 men2 wei3 da4 zu3 guo2 zai4 xin1 de5 yi4 nian2
+
+100042 	在#1国际#1金融#1危机的#1风浪#3波及#2许多#1国家的#1情况下
+	在_p#1 国际_n#1 金融_n#1 危机_n#0 的_u#1 风浪_n#3 波及_v#2 许多_m#1 国家_n#0 的_u#1 情况_n#0 下_nd#4
+	zai4 guo2 ji4 jin1 rong2 wei1 ji1 de5 feng1 lang4 bo1 ji2 xv3 duo1 guo2 jia1 de5 qing2 kuang4 xia4
+
+100043 	我国#1保持了#2金融#1形势#4和#1整个#2经济#1形势的#3稳定#1发展
+	我国_n#1 保持_v#0 了_u#2 金融_n#1 形势_n#4 和_c#1 整个_b#2 经济_n#1 形势_n#0 的_u#3 稳定_a#1 发展_v#4
+	wo3 guo2 bao3 chi2 le5 jin1 rong2 xing2 shi4 he2 zheng3 ge4 jing1 ji4 xing2 shi4 de5 wen3 ding4 fa1 zhan3
+
+100044 	我国的#1国际#1地位#3和#1国际#1威望#3进一步#1提高
+	我国_n#0 的_u#1 国际_n#1 地位_n#3 和_c#1 国际_n#1 威望_n#3 进一步_d#1 提高_v#4
+	wo3 guo2 de5 guo2 ji4 di4 wei4 he2 guo2 ji4 wei1 wang4 jin4 yi2 bu4 ti2 gao1
+
+100045 	实践#2使#1亿万#1人民#3对#1邓小平#1理论#3更加#2信仰
+	实践_v#2 使_v#1 亿万_m#1 人民_n#3 对_p#1 邓小平理论_n#3 更加_d#2 信仰_v#4
+	shi2 jian4 shi3 yi4 wan4 ren2 min2 dui4 deng4 xiao3 ping2 li3 lun4 geng4 jia1 xin4 yang3
+
+100046 	对#2以#1江泽民#1同志#3为#1核心的#1党中央#4更加#1信赖
+	对_p#2 以_p#1 江泽民_nh#1 同志_n#3 为_v#1 核心_n#0 的_u#1 党中央_ni#4 更加_d#1 信赖_v#4
+	dui4 yi3 jiang1 ze2 min2 tong2 zhi4 wei2 he2 xin1 de5 dang3 zhong1 yang1 geng4 jia1 xin4 lai4
+
+100047 	对#2伟大#1祖国的#1光辉#1前景#3更加#1充满#1信心
+	对_p#2 伟大_a#1 祖国_n#0 的_u#1 光辉_n#1 前景_n#3 更加_d#1 充满_v#1 信心_n#4
+	dui4 wei3 da4 zu3 guo2 de5 guang1 hui1 qian2 jing3 geng4 jia1 chong1 man3 xin4 xin1
+
+100048 	各条#1战线#2改革#3和#1发展的#1任务#3都#1十分#1繁重
+	各_r#0 条_q#1 战线_n#2 改革_v#3 和_c#1 发展_v#0 的_u#1 任务_n#3 都_d#1 十分_m#1 繁重_a#4
+	ge4 tiao2 zhan4 xian4 gai3 ge2 he2 fa1 zhan3 de5 ren4 wu4 dou1 shi2 fen1 fan2 zhong4
+
+100049 	有#1许多#2深#1层次的#1矛盾#3和#1问题#4有待#1克服#2和#1解决
+	有_v#1 许多_m#2 深_a#1 层次_n#0 的_u#1 矛盾_a#3 和_c#1 问题_n#4 有待_v#1 克服_v#2 和_c#1 解决_v#4
+	you2 xv3 duo1 shen1 ceng2 ci4 de5 mao2 dun4 he2 wen4 ti5 you3 dai4 ke4 fu2 he2 jie3 jve2
+
+100050 	特别#1是#3国有#1企业#1改革#4已经#2进入#2攻坚#1阶段
+	特别_d#1 是_v#3 国有_v#1 企业_n#1 改革_v#4 已经_d#2 进入_v#2 攻坚_v#1 阶段_n#4
+	te4 bie2 shi4 guo2 you2 qi3 ye4 gai3 ge2 yi3 jing1 jin4 ru4 gong1 jian1 jie1 duan4
+
+100051 	我们#1必须#3进一步#2深入#1学习#4和#1掌握#1党的#1十五大#1精神
+	我们_r#1 必须_d#3 进一步_d#2 深入_a#1 学习_v#4 和_c#1 掌握_v#1 党_n#0 的_u#1 十五大_j#1 精神_n#4
+	wo3 men2 bi4 xv1 jin4 yi2 bu4 shen1 ru4 xve2 xi2 he2 zhang3 wo4 dang3 de5 shi2 wu3 da4 jing1 shen5
+
+100052 	今年#2是#1党的#2十一届#1三中#1全会#4召开#2二十#1周年
+	今年_nt#2 是_v#1 党_n#0 的_u#2 十一_m#0 届_q#1 三中全会_j#4 召开_v#2 二十_m#1 周年_q#4
+	jin1 nian2 shi4 dang3 de5 shi2 yi1 jie4 san1 zhong1 qvan2 hui4 zhao4 kai1 er4 shi2 zhou1 nian2
+
+100053 	对于#2完成#1好#3今年的#1各项#1任务#3具有#2十分#1重要的#1意义
+	对于_p#2 完成_v#1 好_a#3 今年_nt#0 的_u#1 各项_r#1 任务_n#3 具有_v#2 十分_m#1 重要_a#0 的_u#1 意义_n#4
+	dui4 yv2 wan2 cheng2 hao3 jin1 nian2 de5 ge4 xiang4 ren4 wu4 jv4 you3 shi2 fen1 zhong4 yao4 de5 yi4 yi4
+
+100054 	我们#1要#2更好地#1坚持#3解放#1思想#3实事#1求是的#2思想#1路线
+	我们_r#1 要_v#2 更_d#0 好_a#0 地_u#1 坚持_v#3 解放思想_i#3 实事求是_i#1 的_u#2 思想_n#1 路线_n#4
+	wo3 men2 yao4 geng4 hao3 de5 jian1 chi2 jie3 fang4 si1 xiang3 shi2 shi4 qiu2 shi4 de5 si1 xiang3 lu4 xian4
+
+100055 	真正#1做到#3尊重#1认识#3和#1掌握#2客观#1规律
+	真正_d#1 做到_v#3 尊重_v#1 认识_n#3 和_c#1 掌握_v#2 客观_a#1 规律_n#4
+	zhen1 zheng4 zuo4 dao4 zun1 zhong4 ren4 shi5 he2 zhang3 wo4 ke4 guan1 gui1 lv4
+
+100056 	不断#1开创#3社会#1主义#3现代化#1建设的#3新#1局面
+	不断_d#1 开创_v#3 社会主义_n#3 现代化_v#1 建设_v#0 的_u#3 新_a#1 局面_n#4
+	bu2 duan4 kai1 chuang4 she4 hui4 zhu3 yi4 xian4 dai4 hua4 jian4 she4 de5 xin1 jv2 mian4
+
+100057 	各项#1工作#3必须#1以#2经济#2建设#3为#1中心
+	各项_r#1 工作_v#3 必须_d#1 以_p#2 经济_n#2 建设_v#3 为_v#1 中心_n#4
+	ge4 xiang4 gong1 zuo4 bi4 xv1 yi3 jing1 ji4 jian4 she4 wei2 zhong1 xin1
+
+100058 	关键#2仍然#1要看#3能否#1把#2经济#1工作#3搞#1上去
+	关键_n#2 仍然_d#1 要_v#0 看_v#3 能否_v#1 把_p#2 经济_n#1 工作_v#3 搞_v#1 上去_v#4
+	guan1 jian4 reng2 ran2 yao4 kan4 neng2 fou2 ba3 jing1 ji4 gong1 zuo4 gao3 shang4 qv4
+
+100059 	不断#1提高#3领导#2经济#2建设的#2能力#4和#1水平
+	不断_d#1 提高_v#3 领导_v#2 经济_n#2 建设_v#0 的_u#2 能力_n#4 和_c#1 水平_n#4
+	bu2 duan4 ti2 gao1 ling2 dao3 jing1 ji4 jian4 she4 de5 neng2 li4 he2 shui3 ping2
+
+100060 	我们#1要#2更好地#1坚持#3两手#1抓#4两手#2都要#1硬的#1方针
+	我们_r#1 要_v#2 更_d#0 好_a#0 地_u#1 坚持_v#3 两_m#0 手_n#1 抓_v#4 两_m#0 手_n#2 都_d#0 要_v#1 硬_a#0 的_u#1 方针_n#4
+	wo3 men2 yao4 geng4 hao3 de5 jian1 chi2 liang2 shou3 zhua1 liang2 shou3 dou1 yao4 ying4 de5 fang1 zhen1
+
+100061 	积极#1推进#3社会#1主义#2精神#1文明#1建设#4和#1民主#1法制#1建设
+	积极_a#1 推进_v#3 社会主义_n#2 精神文明_n#1 建设_v#4 和_c#1 民主_a#1 法制_n#1 建设_v#4
+	ji1 ji2 tui1 jin4 she4 hui4 zhu3 yi4 jing1 shen2 wen2 ming2 jian4 she4 he2 min2 zhu2 fa3 zhi4 jian4 she4
+
+100062 	为#1两手#1抓#3两手#1都要#1硬#4提供了#3新的#2理论#1根据
+	为_p#1 两_m#0 手_n#1 抓_v#3 两_m#0 手_n#1 都_d#0 要_v#1 硬_d#4 提供_v#0 了_u#3 新_a#0 的_u#2 理论_n#1 根据_n#4
+	wei4 liang2 shou3 zhua1 liang2 shou3 dou1 yao4 ying4 ti2 gong1 le5 xin1 de5 li3 lun4 gen1 jv4
+
+100063 	现在的#1关键#3是#2认真#2抓好#1落实
+	现在_nt#0 的_u#1 关键_n#3 是_v#2 认真_a#2 抓好_v#1 落实_v#4
+	xian4 zai4 de5 guan1 jian4 shi4 ren4 zhen1 zhua1 hao3 luo4 shi2
+
+100064 	使#1改革#1和#1建设#3取得#1胜利的#3重要#1保证
+	使_v#1 改革_v#1 和_c#1 建设_v#3 取得_v#1 胜利_v#0 的_u#3 重要_a#1 保证_n#4
+	shi2 gai3 ge2 he2 jian4 she4 qv3 de2 sheng4 li4 de5 zhong4 yao4 bao3 zheng4
+
+100065 	要#2大力#1倡导#3说#1实话#3办#1实事#3鼓#1实劲#3讲#1实效的#1作风
+	要_v#2 大力_d#1 倡导_v#3 说实话_i#3 办_v#1 实事_n#3 鼓_v#1 实_a#0 劲_n#3 讲_v#1 实效_n#0 的_u#1 作风_n#4
+	yao4 da4 li4 chang4 dao3 shuo1 shi2 hua4 ban4 shi2 shi4 gu3 shi2 jin4 jiang3 shi2 xiao4 de5 zuo4 feng1
+
+100066 	坚决#1杜绝#3脱离#1群众#3脱离#1实际#4浮躁#1虚夸#1等#3官僚#1主义
+	坚决_a#1 杜绝_v#3 脱离_v#1 群众_n#3 脱离_v#1 实际_n#4 浮躁_a#1 虚夸_v#1 等_u#3 官僚主义_n#4
+	jian1 jve2 du4 jve2 tuo1 li2 qvn2 zhong4 tuo1 li2 shi2 ji4 fu2 zao4 xv1 kua1 deng3 guan1 liao2 zhu3 yi4
+
+100067 	各级#2领导#1干部#3务必#1牢记#3全心#1全意#3为#1人民#1服务的#1宗旨
+	各级_r#2 领导_n#1 干部_n#3 务必_d#1 牢记_v#3 全心全意_i#3 为_p#1 人民_n#1 服务_v#0 的_u#1 宗旨_n#4
+	ge4 ji2 ling2 dao3 gan4 bu4 wu4 bi4 lao2 ji4 qvan2 xin1 qvan2 yi4 wei4 ren2 min2 fu2 wu4 de5 zong1 zhi3
+
+100068 	一定#1能够#2创造#1出#3更加#2辉煌的#1业绩
+	一定_d#1 能够_v#2 创造_v#1 出_v#3 更加_d#2 辉煌_a#0 的_u#1 业绩_n#4
+	yi2 ding4 neng2 gou4 chuang4 zao4 chu1 geng4 jia1 hui1 huang2 de5 ye4 ji4
+
+100069 	这是#2江泽民#1等#3在#1演出#1结束#1后#3同#2演出#1人员#2合影
+	这_r#0 是_v#2 江泽民_nh#1 等_u#3 在_p#1 演出_v#1 结束_v#1 后_nd#3 同_p#2 演出_v#1 人员_n#2 合影_v#4
+	zhe4 shi4 jiang1 ze2 min2 deng3 zai4 yan3 chu1 jie2 shu4 hou4 tong2 yan3 chu1 ren2 yvan2 he2 ying3
+
+100070 	在#1激昂#2奋进的#1音乐#1声中#3辞旧#2迎新
+	在_p#1 激昂_a#2 奋进_v#0 的_u#1 音乐声_n#1 中_nd#3 辞旧迎新_i#4
+	zai4 ji1 ang2 fen4 jin4 de5 yin1 yve4 sheng1 zhong1 ci2 jiu4 ying2 xin1
+
+100071 	音乐会#2在#1雄壮的#3管弦乐#1红旗颂中#3拉开#1帷幕
+	音乐会_n#2 在_p#1 雄壮_a#0 的_u#3 管弦乐_n#1 红旗_n#0 颂中_nl#3 拉开_v#1 帷幕_n#4
+	yin1 yve4 hui4 zai4 xiong2 zhuang4 de5 guan3 xian2 yve4 hong2 qi2 song4 zhong1 la1 kai1 wei2 mu4
+
+100072 	钢琴#2与#1管弦#1乐队#1作品#3东方#1之珠
+	钢琴_n#2 与_c#1 管弦乐队_n#1 作品_n#3 东方_nd#1 之_u#0 珠_n#4
+	gang1 qin2 yv2 guan3 xian2 yve4 dui4 zuo4 pin3 dong1 fang1 zhi1 zhu1
+
+100073 	把#1广大#1听众#3耳熟#1能详的#1歌曲#4改编#1为#2器乐曲
+	把_p#1 广大_b#1 听众_n#3 耳熟能详_i#1 的_u#1 歌曲_n#4 改编_v#1 为_v#2 器乐曲_n#4
+	ba2 guang3 da4 ting1 zhong4 er3 shu2 neng2 xiang2 de5 ge1 qv3 gai3 bian1 wei2 qi4 yve4 qv3
+
+100074 	把#1人们#2带到了#3万象#1更新的#1田野#3和#1山谷
+	把_p#1 人们_n#2 带_v#0 到_v#0 了_u#3 万象更新_i#1 的_u#1 田野_n#3 和_c#1 山谷_n#4
+	ba3 ren2 men5 dai4 dao4 le5 wan4 xiang4 geng1 xin1 de5 tian2 ye3 he2 shan1 gu3
+
+100075 	把#1人们#2带入#1迷人的#3艺术#1境地
+	把_p#1 人们_n#2 带入_v#1 迷人_a#0 的_u#3 艺术_n#1 境地_n#4
+	ba3 ren2 men5 dai4 ru4 mi2 ren2 de5 yi4 shu5 jing4 di4
+
+100076 	观众#2被#1艺术家们#3精湛的#1表演#3深深#1打动
+	观众_n#2 被_p#1 艺术家_n#0 们_k#3 精湛_a#0 的_u#1 表演_v#3 深深_d#1 打动_v#4
+	guan1 zhong4 bei4 yi4 shu5 jia1 men5 jing1 zhan4 de5 biao2 yan3 shen1 shen1 da3 dong4
+
+100077 	不断#1报以#2经久#1不息的#3热烈#1掌声
+	不断_d#1 报_v#0 以_p#2 经久不息_i#1 的_u#3 热烈_a#1 掌声_n#4
+	bu2 duan4 bao4 yi3 jing1 jiu3 bu4 xi1 de5 re4 lie4 zhang3 sheng1
+
+100078 	指挥家#2依次#1指挥#1演出#3返场#1曲目
+	指挥家_n#2 依次_d#1 指挥_v#1 演出_v#3 返场_v#1 曲目_n#4
+	zhi3 hui1 jia1 yi1 ci4 zhi3 hui1 yan3 chu1 fan2 chang2 qv3 mu4
+
+100079 	亲切#1会见了#3参加#1演出的#3全体#1人员
+	亲切_a#1 会见_v#0 了_u#3 参加_v#1 演出_v#0 的_u#3 全体_n#1 人员_n#4
+	qin1 qie4 hui4 jian4 le5 can1 jia1 yan3 chu1 de5 qvan2 ti3 ren2 yvan2
+
+100080 	向#1广大#1企业#1职工#3表示#2节日的#1祝贺
+	向_p#1 广大_b#1 企业_n#1 职工_n#3 表示_v#2 节日_n#0 的_u#1 祝贺_v#4
+	xiang4 guang3 da4 qi3 ye4 zhi2 gong1 biao3 shi4 jie2 ri4 de5 zhu4 he4
+
+100081 	向#1将要#1在#2节日#1期间#3坚守#2工作#1岗位的#1同志们#3表示#1慰问
+	向_p#1 将要_d#1 在_p#2 节日_n#1 期间_nd#3 坚守_v#2 工作_v#1 岗位_n#0 的_u#1 同志_n#0 们_k#3 表示_v#1 慰问_v#4
+	xiang4 jiang1 yao4 zai4 jie2 ri4 qi1 jian1 jian1 shou3 gong1 zuo4 gang3 wei4 de5 tong2 zhi4 men5 biao3 shi4 wei4 wen4
+
+100082 	李鹏#1总理#3在#1北京#1市委#1书记#3市长#2贾庆林的#1陪同下
+	李鹏_nh#1 总理_n#3 在_p#1 北京_ns#1 市委_n#1 书记_n#3 市长_n#2 贾庆林_nh#0 的_u#1 陪同_v#0 下_nd#4
+	li3 peng2 zong2 li3 zai4 bei3 jing1 shi4 wei3 shu1 ji4 shi4 zhang2 jia3 qing4 lin2 de5 pei2 tong2 xia4
+
+100083 	来到#2位于#2北京#1西郊的#3北京#2石景山#2发电总厂
+	来到_v#2 位于_v#2 北京_ns#1 西郊_nl#0 的_u#3 北京_ns#2 石景山_ns#2 发电_v#0 总厂_n#4
+	lai2 dao4 wei4 yv2 bei3 jing1 xi1 jiao1 de5 bei3 jing1 shi2 jing3 shan1 fa1 dian4 zong2 chang3
+
+100084 	承担着#1向#1首都#3供电#2供热#1任务
+	承担_v#0 着_u#1 向_p#1 首都_n#3 供电_v#2 供热_v#1 任务_n#4
+	cheng2 dan1 zhe5 xiang4 shou3 du1 gong1 dian4 gong1 re4 ren4 wu4
+
+100085 	装机#1总容量#3一百#1一十#1六点#2六万#1千瓦
+	装机_v#1 总_b#0 容量_n#3 一百一十六点六万_m#1 千瓦_q#4
+	zhuang1 ji1 zong3 rong2 liang4 yi4 bai3 yi1 shi2 liu4 dian3 liu4 wan4 qian1 wa3
+
+100086 	总厂#2年#1发电量#3四十#1五亿#1千瓦时
+	总厂_n#2 年发电量_n#3 四十五亿_m#1 千瓦时_q#4
+	zong2 chang3 nian2 fa1 dian4 liang4 si4 shi2 wu3 yi4 qian1 wa3 shi2
+
+100087 	供热#1能力#3八百#3百万#1大卡#1每小时
+	供热_v#1 能力_n#3 八百_m#3 百万_m#1 大卡_n#1 每_r#0 小时_n#4
+	gong1 re4 neng2 li4 ba1 bai3 bai3 wan4 da4 ka3 mei2 xiao3 shi2
+
+100088 	早在#1担任#3华北#2电管局#1领导时
+	早_a#0 在_p#1 担任_v#3 华北_ns#2 电管局_j#1 领导_n#0 时_n#4
+	zao3 zai4 dan1 ren4 hua2 bei3 dian4 guan3 jv2 ling2 dao3 shi2
+
+100089 	李鹏#2就曾#1多次#1到#3发电总厂#3检查#2指导#1工作
+	李鹏_nh#2 就_d#0 曾_d#1 多次_m#1 到_v#3 发电_v#0 总厂_n#3 检查_v#2 指导_v#1 工作_v#4
+	li3 peng2 jiu4 ceng2 duo1 ci4 dao4 fa1 dian4 zong2 chang2 jian3 cha2 zhi2 dao3 gong1 zuo4
+
+100090 	在#2一九#1九八年#3即将#2到来#1之际
+	在_p#2 一九九八年_nt#3 即将_d#2 到来之际_i#4
+	zai4 yi1 jiu2 jiu3 ba1 nian2 ji2 jiang1 dao4 lai2 zhi1 ji4
+
+100091 	新一代的#1年轻人#3成长#1起来了#4成熟#1起来了
+	新_a#0 一代_n#0 的_u#1 年轻人_n#3 成长_v#1 起来_v#0 了_u#4 成熟_a#1 起来_v#0 了_u#4
+	xin1 yi2 dai4 de5 nian2 qing1 ren2 cheng2 zhang2 qi3 lai2 le5 cheng2 shu2 qi3 lai2 le5
+
+100092 	李鹏#1说#3作为#1首都的#3电力#1工作者
+	李鹏_nh#1 说_v#3 作为_v#1 首都_n#0 的_u#3 电力_n#1 工作者_n#4
+	li3 peng2 shuo1 zuo4 wei2 shou3 du1 de5 dian4 li4 gong1 zuo4 zhe3
+
+100093 	你们#1为#1首都的#3各项#2重大#1活动的#3顺利#1进行
+	你们_r#1 为_p#1 首都_n#0 的_u#3 各项_r#2 重大_a#1 活动_v#0 的_u#3 顺利_a#1 进行_v#4
+	ni3 men2 wei4 shou3 du1 de5 ge4 xiang4 zhong4 da4 huo2 dong4 de5 shun4 li4 jin4 xing2
+
+100094 	为#1保障#2人民#1群众的#3工作#1生活#2和#1学习
+	为_p#1 保障_v#2 人民_n#1 群众_n#0 的_u#3 工作_v#1 生活_v#2 和_c#1 学习_v#4
+	wei4 bao3 zhang4 ren2 min2 qvn2 zhong4 de5 gong1 zuo4 sheng1 huo2 he2 xve2 xi2
+
+100095 	为#1促进#2首都#1经济的#1发展#3作出了#2自己的#1贡献
+	为_p#1 促进_v#2 首都_n#1 经济_n#0 的_u#1 发展_v#3 作出_v#0 了_u#2 自己_r#0 的_u#1 贡献_n#4
+	wei4 cu4 jin4 shou3 du1 jing1 ji4 de5 fa1 zhan3 zuo4 chu1 le5 zi4 ji3 de5 gong4 xian4
+
+100096 	我向#1你们#3向#2全体#1电力#1工作者#3表示#1感谢
+	我_r#0 向_p#1 你们_r#3 向_p#2 全体_n#1 电力_n#1 工作者_n#3 表示_v#1 感谢_v#4
+	wo3 xiang4 ni3 men2 xiang4 qvan2 ti3 dian4 li4 gong1 zuo4 zhe2 biao3 shi4 gan3 xie4
+
+100097 	与#1老伴#1一起#3抚养着#3身体#2欠佳的#1孙子
+	与_p#1 老伴_n#1 一起_nl#3 抚养_v#0 着_u#3 身体_n#2 欠佳_a#0 的_u#1 孙子_n#4
+	yv2 lao3 ban4 yi4 qi3 fu2 yang3 zhe5 shen1 ti3 qian4 jia1 de5 sun1 zi5
+
+100098 	李鹏#1对#1他们#3倾心#1照顾#1下一代#4表示#1肯定
+	李鹏_nh#1 对_p#1 他们_r#3 倾心_a#1 照顾_v#1 下一代_n#4 表示_v#1 肯定_v#4
+	li3 peng2 dui4 ta1 men5 qing1 xin1 zhao4 gu4 xia4 yi2 dai4 biao3 shi4 ken3 ding4
+
+100099 	照顾#1照顾#1后代#3也是#1一件#3可以#1带来#2快乐的#1事
+	照顾_v#1 照顾_v#1 后代_n#3 也_d#0 是_v#1 一_m#0 件_q#3 可以_v#1 带来_v#2 快乐_a#0 的_u#1 事_n#4
+	zhao4 gu5 zhao4 gu5 hou4 dai4 ye3 shi4 yi2 jian4 ke2 yi3 dai4 lai2 kuai4 le4 de5 shi4
+
+100100 	退休#1后#3仍然#2为#2改善#2职工的#1住房#3而#1奔波时
+	退休_v#1 后_nd#3 仍然_d#2 为_p#2 改善_v#2 职工_n#0 的_u#1 住房_n#3 而_c#1 奔波_v#0 时_n#4
+	tui4 xiu1 hou4 reng2 ran2 wei4 gai3 shan4 zhi2 gong1 de5 zhu4 fang2 er2 ben1 bo1 shi2
+
+100101 	但#1艰苦#1奋斗#3无私#1奉献的#1精神#3可#1不能#1丢
+	但_c#1 艰苦奋斗_i#3 无私奉献_i#1 的_u#1 精神_n#3 可_d#1 不_d#0 能_v#1 丢_v#4
+	dan4 jian1 ku3 fen4 dou4 wu2 si1 feng4 xian4 de5 jing1 shen5 ke3 bu4 neng2 diu1
+
+100102 	为#1节日#2营造#1出#3千盏#1灯笼#3凌空舞
+	为_p#1 节日_n#2 营造_v#1 出_v#3 千_m#0 盏_q#1 灯笼_n#3 凌空_v#0 舞_v#4
+	wei4 jie2 ri4 ying2 zao4 chu1 qian1 zhan3 deng1 long5 ling2 kong1 wu3
+
+100103 	必须#1依靠#2工人#1阶级#4和#1全体#1人民的#3长期#1奋斗
+	必须_d#1 依靠_v#2 工人阶级_n#4 和_c#1 全体_n#1 人民_n#0 的_u#3 长期_b#1 奋斗_v#4
+	bi4 xv1 yi1 kao4 gong1 ren2 jie1 ji5 he2 qvan2 ti3 ren2 min2 de5 chang2 qi1 fen4 dou4
+
+100104 	是#1先进#1生产力#3和#1生产#1关系的#1代表
+	是_v#1 先进_a#1 生产力_n#3 和_c#1 生产关系_i#1 的_u#1 代表_n#4
+	shi4 xian1 jin4 sheng1 chan3 li4 he2 sheng1 chan3 guan1 xi4 de5 dai4 biao3
+
+100105 	增强#2市场#1意识#3竞争#1意识#3和#1效益#1意识
+	增强_v#2 市场_n#1 意识_n#3 竞争_v#1 意识_n#3 和_c#1 效益_n#1 意识_n#4
+	zeng1 qiang2 shi4 chang3 yi4 shi5 jing4 zheng1 yi4 shi5 he2 xiao4 yi4 yi4 shi5
+
+100106 	以#1实际#1行动#3促进#2改革的#3不断#1深化
+	以_p#1 实际_a#1 行动_v#3 促进_v#2 改革_v#0 的_u#3 不断_d#1 深化_v#4
+	yi3 shi2 ji4 xing2 dong4 cu4 jin4 gai3 ge2 de5 bu2 duan4 shen1 hua4
+
+100107 	努力#1提高#1产品#1质量#3和#1经济#1效益
+	努力_a#1 提高_v#1 产品_n#1 质量_n#3 和_c#1 经济效益_n#4
+	nu3 li4 ti2 gao1 chan2 pin3 zhi4 liang4 he2 jing1 ji4 xiao4 yi4
+
+100108 	要#1正确#1对待#2企业#1改革#3和#1发展中的#1困难#4和#1问题
+	要_v#1 正确_a#1 对待_v#2 企业_n#1 改革_v#3 和_c#1 发展_v#0 中_nd#0 的_u#1 困难_a#4 和_c#1 问题_n#4
+	yao4 zheng4 qve4 dui4 dai4 qi3 ye4 gai3 ge2 he2 fa1 zhan3 zhong1 de5 kun4 nan5 he2 wen4 ti5
+
+100109 	树立起#3战胜#1困难的#1勇气#3和#1信心
+	树立_v#0 起_v#3 战胜_v#1 困难_a#0 的_u#1 勇气_n#3 和_c#1 信心_n#4
+	shu4 li4 qi3 zhan4 sheng4 kun4 nan2 de5 yong3 qi4 he2 xin4 xin1
+
+100110 	广大#1职工#3要以#1主人翁的#1姿态
+	广大_b#1 职工_n#3 要_v#0 以_p#1 主人翁_n#0 的_u#1 姿态_n#4
+	guang3 da4 zhi2 gong1 yao4 yi2 zhu3 ren2 weng1 de5 zi1 tai4
+
+100111 	发扬#2爱国#1奉献#3爱厂#1如家#3爱岗#1敬业的#1精神
+	发扬_v#2 爱国_a#1 奉献_v#3 爱_v#0 厂_n#1 如_v#0 家_n#3 爱岗敬业_i#1 的_u#1 精神_n#4
+	fa1 yang2 ai4 guo2 feng4 xian4 ai4 chang3 ru2 jia1 ai4 gang3 jing4 ye4 de5 jing1 shen5
+
+100112 	在#2两个#1文明#1建设中#3充分#1发挥#2工人#1阶级#3主力军#1作用
+	在_p#2 两_m#0 个_q#1 文明_n#1 建设_v#0 中_nd#3 充分_a#1 发挥_v#2 工人阶级_n#3 主力军_n#1 作用_n#4
+	zai4 liang3 ge5 wen2 ming2 jian4 she4 zhong1 chong1 fen4 fa1 hui1 gong1 ren2 jie1 ji5 zhu3 li4 jvn1 zuo4 yong4
+
+100113 	久经#1考验的#3无产#1阶级#2革命家
+	久经考验_i#1 的_u#3 无产阶级_n#2 革命家_n#4
+	jiu3 jing1 kao3 yan4 de5 wu2 chan3 jie1 ji2 ge2 ming4 jia1
+
+100114 	原#1中共#1中央#3顾问#1委员会#3常务#2委员会#1委员
+	原_b#1 中共中央_ni#3 顾问_n#1 委员会_n#3 常务_b#2 委员会_n#1 委员_n#4
+	yvan2 zhong1 gong4 zhong1 yang1 gu4 wen4 wei3 yvan2 hui4 chang2 wu4 wei3 yvan2 hui4 wei3 yvan2
+
+100115 	根据#2刘澜涛#1同志#3生前#1遗愿#3和#1家属的#1意见
+	根据_p#2 刘澜涛_nh#1 同志_n#3 生前_nt#1 遗愿_n#3 和_c#1 家属_n#0 的_u#1 意见_n#4
+	gen1 jv4 liu2 lan2 tao1 tong2 zhi4 sheng1 qian2 yi2 yvan4 he2 jia1 shu3 de5 yi4 jian4
+
+100116 	西藏#2部分#1地区#3发生#2特大#1雪灾后
+	西藏_ns#2 部分_m#1 地区_n#3 发生_v#2 特大_b#1 雪灾_n#0 后_nd#4
+	xi1 zang4 bu4 fen5 di4 qv1 fa1 sheng1 te4 da4 xve3 zai1 hou4
+
+100117 	党中央#1国务院#3十分#1关心#3西藏的#1灾情#3和#1救灾#1工作
+	党中央_ni#1 国务院_ni#3 十分_m#1 关心_v#3 西藏_ns#0 的_u#1 灾情_n#3 和_c#1 救灾_v#1 工作_v#4
+	dang3 zhong1 yang1 guo2 wu4 yvan4 shi2 fen1 guan1 xin1 xi1 zang4 de5 zai1 qing2 he2 jiu4 zai1 gong1 zuo4
+
+100118 	自治区#2各级#1政府#3正在#2全力#1组织#1抗灾
+	自治区_n#2 各级_r#1 政府_n#3 正在_d#2 全力_d#1 组织_v#1 抗灾_v#4
+	zi4 zhi4 qv1 ge4 ji2 zheng4 fu3 zheng4 zai4 qvan2 li4 zu3 zhi1 kang4 zai1
+
+100119 	力争#2降低#3特大#1雪灾#2造成的#1损失
+	力争_v#2 降低_v#3 特大_b#1 雪灾_n#2 造成_v#0 的_u#1 损失_n#4
+	li4 zheng1 jiang4 di1 te4 da4 xve3 zai1 zao4 cheng2 de5 sun3 shi1
+
+100120 	受#2南#1支槽#1云系#3和#1北部#1冷空气的#3共同#1影响
+	受_v#2 南_nd#1 支槽_n#1 云系_n#3 和_c#1 北部_nd#1 冷空气_n#0 的_u#3 共同_b#1 影响_v#4
+	shou4 nan2 zhi1 cao2 yvn2 xi4 he2 bei3 bu4 leng3 kong1 qi4 de5 gong4 tong2 ying2 xiang3
+
+100121 	有的#1县#3二十四#1小时#3降雪#2九十五#1毫米
+	有的县_ns#3 二十四_m#1 小时_n#3 降雪_v#2 九十五_m#1 毫米_q#4
+	you3 de5 xian4 er4 shi2 si4 xiao3 shi2 jiang4 xve2 jiu3 shi2 wu3 hao2 mi3
+
+100122 	大部分#1干部#3现已#1深入到#3抗救灾#2第一线
+	大部分_m#1 干部_n#3 现_nt#0 已_d#1 深入_v#0 到_v#3 抗救灾_v#2 第一线_n#4
+	da4 bu4 fen5 gan4 bu5 xian4 yi3 shen1 ru4 dao4 kang4 jiu4 zai1 di4 yi1 xian4
+
+100123 	全区#1已#1形成#3党政#1军民#2总动员#4支援#1灾区的#1局面
+	全区_n#1 已_d#1 形成_v#3 党政军民_j#2 总动员_v#4 支援_v#1 灾区_n#0 的_u#1 局面_n#4
+	qvan2 qv1 yi3 xing2 cheng2 dang3 zheng4 jvn1 min2 zong3 dong4 yvan2 zhi1 yvan2 zai1 qv1 de5 jv2 mian4
+
+100124 	灾区#2没有#1一人#3因#1冻#2因饿#2死亡
+	灾区_n#2 没有_v#1 一_m#0 人_n#3 因_p#1 冻_v#2 因_p#0 饿_a#2 死亡_v#4
+	zai1 qv1 mei2 you3 yi4 ren2 yin1 dong4 yin1 e4 si3 wang2
+
+100125 	向#1受灾#1地区#3调运#1各种#2急需的#3救助#1物资
+	向_p#1 受灾_v#1 地区_n#3 调运_v#1 各种_r#2 急需_v#0 的_u#3 救助_v#1 物资_n#4
+	xiang4 shou4 zai1 di4 qv1 diao4 yvn4 ge4 zhong3 ji2 xv1 de5 jiu4 zhu4 wu4 zi1
+
+100126 	贵州#1南部#4江南#1华南#1西部#2和#1北部#3将有#1小到#1中雨
+	贵州_ns#1 南部_nd#4 江南_ns#1 华南_ns#1 西部_nd#2 和_c#1 北部_nd#3 将_d#0 有_v#1 小到中雨_i#4
+	gui4 zhou1 nan2 bu4 jiang1 nan2 hua2 nan2 xi1 bu4 he2 bei3 bu4 jiang1 you2 xiao3 dao4 zhong1 yv3
+
+100127 	内蒙古#1东部#3黑龙江#1西北部#3有#1小雪
+	内蒙古_ns#1 东部_nd#3 黑龙江_ns#1 西北部_nd#3 有_v#1 小雪_n#4
+	nei4 meng2 gu3 dong1 bu4 hei1 long2 jiang1 xi1 bei3 bu4 you3 xiao2 xve3
+
+100128 	国务院#3侨务#1办公室#1主任#3郭东坡#4今天#2通过#2新闻#1媒介
+	国务院_ni#3 侨务_n#1 办公室_n#1 主任_n#3 郭东坡_nh#4 今天_nt#2 通过_p#2 新闻_n#1 媒介_n#4
+	guo2 wu4 yvan4 qiao2 wu4 ban4 gong1 shi4 zhu3 ren4 guo1 dong1 po1 jin1 tian1 tong1 guo4 xin1 wen2 mei2 jie4
+
+100129 	饱受#2屈辱的#1香港#3终于#1又#1回到了#3祖国的#1怀抱
+	饱受_v#2 屈辱_n#0 的_u#1 香港_ns#3 终于_d#1 又_d#1 回到_v#0 了_u#3 祖国_n#0 的_u#1 怀抱_n#4
+	bao3 shou4 qv1 ru3 de5 xiang1 gang3 zhong1 yv2 you4 hui2 dao4 le5 zu3 guo2 de5 huai2 bao4
+
+100130 	为#1促进#1中国#3与#1所在国的#3友好#2合作#1交流
+	为_p#1 促进_v#1 中国_ns#3 与_p#1 所在国_n#0 的_u#3 友好_a#2 合作_v#1 交流_v#4
+	wei4 cu4 jin4 zhong1 guo2 yv3 suo3 zai4 guo2 de5 you2 hao3 he2 zuo4 jiao1 liu2
+
+100131 	表示#1崇高的#1敬意#3和#1衷心的#1感谢
+	表示_v#1 崇高_a#0 的_u#1 敬意_n#3 和_c#1 衷心_b#0 的_u#1 感谢_v#4
+	biao3 shi4 chong2 gao1 de5 jing4 yi4 he2 zhong1 xin1 de5 gan3 xie4
+
+100132 	促进#2语言#1文字#3走向#2标准化#3规范化的#3重要#1举措
+	促进_v#2 语言_n#1 文字_n#3 走向_v#2 标准化_v#3 规范化_v#0 的_u#3 重要_a#1 举措_n#4
+	cu4 jin4 yv3 yan2 wen2 zi4 zou3 xiang4 biao1 zhun3 hua4 gui1 fan4 hua4 de5 zhong4 yao4 jv3 cuo4
+
+100133 	到#1本#1世纪末#3基本#1解决#3农村#3贫困#1人口的#3温饱#1问题
+	到_p#1 本世纪_nt#1 末_nd#3 基本_a#1 解决_v#3 农村_n#3 贫困_a#1 人口_n#0 的_u#3 温饱_n#1 问题_n#4
+	dao4 ben3 shi4 ji4 mo4 ji1 ben2 jie3 jve2 nong2 cun1 pin2 kun4 ren2 kou3 de5 wen1 bao3 wen4 ti2
+
+100134 	切实#1加强#3对#1扶贫#1工作的#1领导
+	切实_a#1 加强_v#3 对_p#1 扶贫_v#1 工作_v#0 的_u#1 领导_n#4
+	qie4 shi2 jia1 qiang2 dui4 fu2 pin2 gong1 zuo4 de5 ling2 dao3
+
+100135 	十二月#2二十七日#3至#1三十一日
+	十二月_nt#2 二十七日_nt#3 至_p#1 三十一日_nt#4
+	shi2 er4 yve4 er4 shi2 qi1 ri4 zhi4 san1 shi2 yi1 ri4
+
+100136 	转达#1党中央#2国务院的#3亲切#1关怀#2和#1问候
+	转达_v#1 党中央_ni#2 国务院_ni#0 的_u#3 亲切_a#1 关怀_v#2 和_c#1 问候_v#4
+	zhuan3 da2 dang3 zhong1 yang1 guo2 wu4 yvan4 de5 qin1 qie4 guan1 huai2 he2 wen4 hou4
+
+100137 	温家宝#2在#1农民#1家中#3详细#1询问#1他们#3生产#1生活#1情况
+	温家宝_nh#2 在_p#1 农民_n#1 家中_nl#3 详细_a#1 询问_v#1 他们_r#3 生产_v#1 生活_v#1 情况_n#4
+	wen1 jia1 bao3 zai4 nong2 min2 jia1 zhong1 xiang2 xi4 xvn2 wen4 ta1 men5 sheng1 chan3 sheng1 huo2 qing2 kuang4
+
+100138 	同#2干部#1群众#1一起#3研究#2扶贫#2开发的#1路子
+	同_p#2 干部_n#1 群众_n#1 一起_nl#3 研究_v#2 扶贫_v#2 开发_v#0 的_u#1 路子_n#4
+	tong2 gan4 bu5 qvn2 zhong4 yi4 qi3 yan2 jiu1 fu2 pin2 kai1 fa1 de5 lu4 zi5
+
+100139 	使#1脱贫#1建立#1在#3比较#1坚实的#3物质#1技术#2基础#1之上
+	使_v#1 脱贫_v#1 建立_v#1 在_p#3 比较_d#1 坚实_a#0 的_u#3 物质_n#1 技术_n#2 基础_n#1 之上_nd#4
+	shi3 tuo1 pin2 jian4 li4 zai4 bi3 jiao4 jian1 shi2 de5 wu4 zhi4 ji4 shu4 ji1 chu3 zhi1 shang4
+
+100140 	必须#1从#1根本上#3改变#2教育#2科技#1文化#3落后的#1状况
+	必须_d#1 从_p#1 根本_n#0 上_nd#3 改变_v#2 教育_v#2 科技_n#1 文化_n#3 落后_a#0 的_u#1 状况_n#4
+	bi4 xv1 cong2 gen1 ben3 shang4 gai3 bian4 jiao4 yv4 ke1 ji4 wen2 hua4 luo4 hou4 de5 zhuang4 kuang4
+
+100141 	贫困#1地区的#1广大#1干部#3要#1落实#1责任
+	贫困_a#1 地区_n#0 的_u#1 广大_b#1 干部_n#3 要_v#1 落实_v#1 责任_n#4
+	pin2 kun4 di4 qv1 de5 guang3 da4 gan4 bu5 yao4 luo4 shi2 ze2 ren4
+
+100142 	有#1扶贫#1任务的#3地方#1部门#3和#1单位
+	有_v#1 扶贫_v#1 任务_n#0 的_u#3 地方_n#1 部门_n#3 和_c#1 单位_n#4
+	you3 fu2 pin2 ren4 wu5 de5 di4 fang1 bu4 men2 he2 dan1 wei4
+
+100143 	要#1发扬#2扶贫#2济困的#3优良#1传统
+	要_v#1 发扬_v#2 扶贫济困_i#2 的_u#3 优良_z#1 传统_n#4
+	yao4 fa1 yang2 fu2 pin2 ji4 kun4 de5 you1 liang2 chuan2 tong3
+
+100144 	特别#1要#2安排#1好#3灾区#2和#1贫困#1地区#3群众的#2生产#2和#1生活
+	特别_d#1 要_v#2 安排_v#1 好_a#3 灾区_n#2 和_c#1 贫困_a#1 地区_n#3 群众_n#0 的_u#2 生产_v#2 和_c#1 生活_v#4
+	te4 bie2 yao4 an1 pai2 hao3 zai1 qv1 he2 pin2 kun4 di4 qv1 qvn2 zhong4 de5 sheng1 chan3 he2 sheng1 huo2
+
+100145 	省委#1常委#2副省长#3袁荣贵#4也#1参加了#1考察
+	省委_n#1 常委_n#2 副_b#0 省长_n#3 袁荣贵_nh#4 也_d#1 参加_v#0 了_u#1 考察_v#4
+	sheng2 wei3 chang2 wei3 fu4 sheng2 zhang3 yvan2 rong2 gui4 ye3 can1 jia1 le5 kao3 cha2
+
+100146 	形成#2学习#1邓小平#1理论的#3新高潮
+	形成_v#2 学习_v#1 邓小平理论_n#1 的_u#3 新_a#0 高潮_n#4
+	xing2 cheng2 xve2 xi2 deng4 xiao3 ping2 li3 lun4 de5 xin1 gao1 chao2
+
+100147 	进一步#2加强#1军队的#3革命化#3现代化#3正规化#1建设
+	进一步_d#2 加强_v#1 军队_n#0 的_u#3 革命化_v#3 现代化_v#3 正规化_v#1 建设_v#4
+	jin4 yi2 bu4 jia1 qiang2 jvn1 dui4 de5 ge2 ming4 hua4 xian4 dai4 hua4 zheng4 gui1 hua4 jian4 she4
+
+100148 	我军#2是#1一支#3英雄#1模范#2辈出的#1军队
+	我军_n#2 是_v#1 一_m#0 支_q#3 英雄_n#1 模范_n#2 辈出_v#0 的_u#1 军队_n#4
+	wo3 jvn1 shi4 yi4 zhi1 ying1 xiong2 mo2 fan4 bei4 chu1 de5 jvn1 dui4
+
+100149 	要#1充分#1发挥#3先进#1典型的#3示范#1激励#2感召#1作用
+	要_v#1 充分_a#1 发挥_v#3 先进_a#1 典型_n#0 的_u#3 示范_v#1 激励_v#2 感召_v#1 作用_n#4
+	yao4 chong1 fen4 fa1 hui1 xian1 jin4 dian3 xing2 de5 shi4 fan4 ji1 li4 gan3 zhao4 zuo4 yong4
+
+100150 	在#1部队#2营造#2学习#1先进#3奋发#1向上的#3良好#1风气
+	在_p#1 部队_n#2 营造_v#2 学习_v#1 先进_n#3 奋发向上_i#1 的_u#3 良好_a#1 风气_n#4
+	zai4 bu4 dui4 ying2 zao4 xve2 xi2 xian1 jin4 fen4 fa1 xiang4 shang4 de5 liang2 hao3 feng1 qi4
+
+100151 	削减#2污染#1负荷#3百分之#2四十#1以上
+	削减_v#2 污染_v#1 负荷_n#3 百分之四十_m#1 以上_nd#4
+	xve1 jian3 wu1 ran3 fu4 he4 bai3 fen1 zhi1 si4 shi2 yi3 shang4
+
+100152 	二百#1一十#1五家#3正在#2施工#2停产#1治理
+	二百一十五_m#1 家_q#3 正在_d#2 施工_v#2 停产_v#1 治理_v#4
+	er4 bai3 yi1 shi2 wu3 jia1 zheng4 zai4 shi1 gong1 ting2 chan3 zhi4 li3
+
+100153 	一百#1九十家#3由于#1其他#1原因#3停产#3破产#3转产
+	一百九十_m#1 家_q#3 由于_p#1 其他_r#1 原因_n#3 停产_v#3 破产_v#3 转产_v#4
+	yi4 bai2 jiu3 shi2 jia1 you2 yv2 qi2 ta1 yvan2 yin1 ting2 chan3 po4 chan3 zhuan2 chan3
+
+100154 	据#2中国#1环境#1监测#1总站#1公布的#3最新#1数据#1表明
+	据_p#2 中国_ns#1 环境_n#1 监测_v#1 总站_n#1 公布_v#0 的_u#3 最新_a#1 数据_n#1 表明_v#4
+	jv4 zhong1 guo2 huan2 jing4 jian1 ce4 zong3 zhan4 gong1 bu4 de5 zui4 xin1 shu4 jv4 biao3 ming2
+
+100155 	淮河#1干流#3和#1一些#1支流#1水质#3已有#2明显#1改善
+	淮河_ns#1 干流_n#3 和_c#1 一些_m#1 支流_n#1 水质_n#3 已_d#0 有_v#2 明显_a#1 改善_v#4
+	huai2 he2 gan4 liu2 he2 yi4 xie1 zhi1 liu2 shui3 zhi4 yi2 you3 ming2 xian2 gai3 shan4
+
+100156 	但#2支流的#1一些#1断面#1污染#3仍较#1严重
+	但_c#2 支流_n#0 的_u#1 一些_m#1 断面_n#1 污染_v#3 仍_d#0 较_d#1 严重_a#4
+	dan4 zhi1 liu2 de5 yi4 xie1 duan4 mian4 wu1 ran3 reng2 jiao4 yan2 zhong4
+
+100157 	十二艘#2水质#1监测船#3穿梭#1在#2淮河的#3各个#1断面
+	十二_m#0 艘_q#2 水质_n#1 监测船_n#3 穿梭_v#1 在_p#2 淮河_ns#0 的_u#3 各个_r#1 断面_n#4
+	shi2 er4 sou1 shui3 zhi4 jian1 ce4 chuan2 chuan1 suo1 zai4 huai2 he2 de5 ge4 ge5 duan4 mian4
+
+100158 	目睹了#3污染#1车间#3被#1贴上#2封条的#1情景
+	目睹_v#0 了_u#3 污染_v#1 车间_n#3 被_p#1 贴_v#0 上_v#2 封条_n#0 的_u#1 情景_n#4
+	mu4 du3 le5 wu1 ran3 che1 jian1 bei4 tie1 shang4 feng1 tiao2 de5 qing2 jing3
+
+100159 	治理#1淮河#2今后的#1任务#3仍很#1艰巨
+	治理_v#1 淮河_ns#2 今后_nt#0 的_u#1 任务_n#3 仍_d#0 很_d#1 艰巨_a#4
+	zhi4 li3 huai2 he2 jin1 hou4 de5 ren4 wu5 reng2 hen3 jian1 jv4
+
+100160 	随着#3苏州#1寒山寺#1钟声#3撞响#2第一百#1零八下
+	随着_p#3 苏州_ns#1 寒山寺_ns#1 钟声_n#3 撞_v#0 响_v#2 第一百零八_m#1 下_q#4
+	sui2 zhe5 su1 zhou1 han2 shan1 si4 zhong1 sheng1 zhuang4 xiang3 di4 yi1 bai3 ling2 ba1 xia4
+
+100161 	九八#2华夏#1城乡游#3正式#1开幕
+	九八_m#2 华夏_nz#1 城乡游_n#3 正式_a#1 开幕_v#4
+	jiu3 ba1 hua2 xia4 cheng2 xiang1 you2 zheng4 shi4 kai1 mu4
+
+100162 	一九#1九七年#1一月#3至#2十一月份
+	一九九七年_nt#1 一月_nt#3 至_p#2 十一月份_nt#4
+	yi1 jiu2 jiu3 qi1 nian2 yi1 yve4 zhi4 shi2 yi1 yve4 fen4
+
+100163 	来华#1旅游#1人数#3达#2五千#1二百#2三十#1六万#1多人次
+	来华_v#1 旅游_v#1 人数_n#3 达_v#2 五千二百三十六万_m#1 多_m#0 人次_q#4
+	lai2 hua2 lv3 you2 ren2 shu4 da2 wu3 qian1 er4 bai3 san1 shi2 liu4 wan4 duo1 ren2 ci4
+
+100164 	国际#1旅游#1收入#3达#2一百#1一十点#2八亿#1多美元
+	国际_n#1 旅游_v#1 收入_n#3 达_v#2 一百一十点八亿_m#1 多_m#0 美元_q#4
+	guo2 ji4 lv3 you2 shou1 ru4 da2 yi4 bai3 yi1 shi2 dian3 ba1 yi4 duo1 mei3 yvan2
+
+100165 	国内#1旅游#1人数#3及#1收入#3也比#2上年#2有#1大幅#1增长
+	国内_nl#1 旅游_v#1 人数_n#3 及_c#1 收入_n#3 也_d#0 比_p#2 上年_nt#2 有_v#1 大幅_b#1 增长_v#4
+	guo2 nei4 lv3 you2 ren2 shu4 ji2 shou1 ru4 ye2 bi3 shang4 nian2 you3 da4 fu2 zeng1 zhang3
+
+100166 	这里#1包括#3未来#1世界#4世界#1奇观#1迷宫#1等#3十大#1景区
+	这里_r#1 包括_v#3 未来_nt#1 世界_n#4 世界_n#1 奇观_n#1 迷宫_n#1 等_u#3 十_m#0 大_a#1 景区_n#4
+	zhe4 li3 bao1 kuo4 wei4 lai2 shi4 jie4 shi4 jie4 qi2 guan1 mi2 gong1 deng3 shi2 da4 jing3 qv1
+
+100167 	在#1今天#1下午的#3记者#1招待会上
+	在_p#1 今天_nt#1 下午_nt#0 的_u#3 记者_n#1 招待会_n#0 上_nd#4
+	zai4 jin1 tian1 xia4 wu3 de5 ji4 zhe3 zhao1 dai4 hui4 shang4
+
+100168 	深化#2与#1东盟的#3面向#2二十一#1世纪#3睦邻#2互信#2伙伴#1关系
+	深化_v#2 与_p#1 东盟_ns#0 的_u#3 面向_v#2 二十一_m#1 世纪_n#3 睦邻_n#2 互信_v#2 伙伴_n#1 关系_n#4
+	shen1 hua4 yv3 dong1 meng2 de5 mian4 xiang4 er4 shi2 yi1 shi4 ji4 mu4 lin2 hu4 xin4 huo3 ban4 guan1 xi4
+
+100169 	中国#2和#1西欧#1各国#3也将#1保持#2高层#1互访的#1势头
+	中国_ns#2 和_c#1 西欧_ns#1 各国_r#3 也_d#0 将_d#1 保持_v#2 高层_n#1 互访_v#0 的_u#1 势头_n#4
+	zhong1 guo2 he2 xi1 ou1 ge4 guo2 ye3 jiang1 bao3 chi2 gao1 ceng2 hu4 fang3 de5 shi4 tou2
+
+100170 	上述#1互访#3必将#1推动#3我与#2这些#1国家#1关系的#3进一步#1发展
+	上述_b#1 互访_v#3 必将_d#1 推动_v#3 我_r#0 与_p#2 这些_r#1 国家_n#1 关系_n#0 的_u#3 进一步_b#1 发展_v#4
+	shang4 shu4 hu4 fang3 bi4 jiang1 tui1 dong4 wo2 yv3 zhe4 xie1 guo2 jia1 guan1 xi4 de5 jin4 yi2 bu4 fa1 zhan3
+
+100171 	做好#2澳门#1回归前的#3准备#1工作
+	做好_v#2 澳门_ns#1 回归_v#0 前_nd#0 的_u#3 准备_v#1 工作_v#4
+	zuo4 hao3 ao4 men2 hui2 gui1 qian2 de5 zhun3 bei4 gong1 zuo4
+
+100172 	坚决#1维护#1我国的#3独立#1主权#3和#1领土#1完整
+	坚决_a#1 维护_v#1 我国_n#0 的_u#3 独立_a#1 主权_n#3 和_c#1 领土_n#1 完整_a#4
+	jian1 jve2 wei2 hu4 wo3 guo2 de5 du2 li4 zhu3 qvan2 he2 ling2 tu3 wan2 zheng3
+
+100173 	胜利#1海上#1油田#3全年#1共#1生产#1原油#3一百#1五十万#2零#1一百吨
+	胜利_nz#1 海上_nl#1 油田_n#3 全年_n#1 共_d#1 生产_v#1 原油_n#3 一百五十万零一百_m#2 吨_q#4
+	sheng4 li4 hai3 shang4 you2 tian2 qvan2 nian2 gong4 sheng1 chan3 yvan2 you2 yi4 bai2 wu3 shi2 wan4 ling2 yi4 bai3 dun1
+
+100174 	海上#1油田的#2年产#1能力#3增加了#2五十万吨
+	海上_nl#1 油田_n#0 的_u#2 年产_v#1 能力_n#3 增加_v#0 了_u#2 五十万_m#0 吨_q#4
+	hai3 shang4 you2 tian2 de5 nian2 chan3 neng2 li4 zeng1 jia1 le5 wu3 shi2 wan4 dun1
+
+100175 	革命#1圣地#1延安#3供水#1工程#3正式#2建成#1通水
+	革命_v#1 圣地_n#1 延安_ns#3 供水_v#1 工程_n#3 正式_a#2 建成_v#1 通_v#0 水_n#4
+	ge2 ming4 sheng4 di4 yan2 an1 gong1 shui3 gong1 cheng2 zheng4 shi4 jian4 cheng2 tong1 shui3
+
+100176 	延安#1市区的#2缺水#1问题#3得到#2根本#1解决
+	延安_ns#1 市区_nl#0 的_u#2 缺水_v#1 问题_n#3 得到_v#2 根本_a#1 解决_v#4
+	yan2 an1 shi4 qv1 de5 qve1 shui3 wen4 ti2 de2 dao4 gen1 ben2 jie3 jve2
+
+100177 	而日#1平均#1需水量#1为#3四点#1九三万吨
+	而_c#0 日_q#1 平均_a#1 需水量_n#1 为_p#3 四点九三万_m#1 吨_q#4
+	er2 ri4 ping2 jvn1 xv1 shui3 liang4 wei2 si4 dian2 jiu3 san1 wan4 dun1
+
+100178 	可#1基本#1满足#3城市#1建设#2中长期的#3需水#1要求
+	可_v#1 基本_a#1 满足_v#3 城市_n#1 建设_n#2 中长期_j#0 的_u#3 需水_n#1 要求_v#4
+	ke3 ji1 ben2 man3 zu2 cheng2 shi4 jian4 she4 zhong1 chang2 qi1 de5 xv1 shui3 yao1 qiu2
+
+100179 	大连港#2年#1吞吐量#3突破#2七千万吨
+	大连港_ns#2 年_q#1 吞吐量_n#3 突破_v#2 七千万_m#0 吨_q#4
+	da4 lian2 gang3 nian2 tun1 tu3 liang4 tu1 po4 qi1 qian1 wan4 dun1
+
+100180 	开通#1至#1北美洲#3东南亚#1欧洲#3等#1八条#2集装箱#3班轮#1航线
+	开通_v#1 至_v#1 北美洲_ns#3 东南亚_ns#1 欧洲_ns#3 等_u#1 八_m#0 条_q#2 集装箱_n#3 班轮_n#1 航线_n#4
+	kai1 tong1 zhi4 bei2 mei3 zhou1 dong1 nan2 ya4 ou1 zhou1 deng3 ba1 tiao2 ji2 zhuang1 xiang1 ban1 lun2 hang2 xian4
+
+100181 	开通#1至#1哈尔滨#3延吉#3沈阳#3三条#1集装箱#1班列
+	开通_v#1 至_v#1 哈尔滨_ns#3 延吉_ns#3 沈阳_ns#3 三_m#0 条_q#1 集装箱_n#1 班列_n#4
+	kai1 tong1 zhi4 ha1 er3 bin1 yan2 ji2 shen3 yang2 san1 tiao2 ji2 zhuang1 xiang1 ban1 lie4
+
+100182 	联合国#2会费#1分摊#3仍然#1遵循着#3能力#1支付#1原则
+	联合国_ni#2 会费_n#1 分摊_v#3 仍然_d#1 遵循_v#0 着_u#3 能力_n#1 支付_v#1 原则_n#4
+	lian2 he2 guo2 hui4 fei4 fen1 tan1 reng2 ran2 zun1 xvn2 zhe5 neng2 li4 zhi1 fu4 yvan2 ze2
+
+100183 	但#1会费#1委员会#3为#1防止#1一国#3负担#1过重
+	但_c#1 会费_n#1 委员会_n#3 为_p#1 防止_v#1 一_m#0 国_n#3 负担_n#1 过_d#0 重_a#4
+	dan4 hui4 fei4 wei3 yvan2 hui4 wei4 fang2 zhi3 yi4 guo2 fu4 dan1 guo4 zhong4
+
+100184 	美国#1会费#1分摊#1比例#3为#1百分之#1二十五
+	美国_ns#1 会费_n#1 分摊_v#1 比例_n#3 为_v#1 百分之二十五_m#4
+	mei3 guo2 hui4 fei4 fen1 tan1 bi3 li4 wei2 bai3 fen1 zhi1 er4 shi2 wu3
+
+100185 	不利于#1联合国#3财政#1基础的#1稳定
+	不_d#0 利于_v#1 联合国_ni#3 财政_n#1 基础_n#0 的_u#1 稳定_a#4
+	bu2 li4 yv2 lian2 he2 guo2 cai2 zheng4 ji1 chu3 de5 wen3 ding4
+
+100186 	并且#1提出#3联合国#2改革#1尺度#1法案
+	并且_c#1 提出_v#3 联合国_ni#2 改革_v#1 尺度_n#1 法案_n#4
+	bing4 qie3 ti2 chu1 lian2 he2 guo2 gai3 ge2 chi3 du4 fa3 an4
+
+100187 	把#1付清#1欠款#3同#2联合国#1改革#1挂钩
+	把_p#1 付清_v#1 欠款_n#3 同_p#2 联合国_ni#1 改革_v#1 挂钩_v#4
+	ba3 fu4 qing1 qian4 kuan3 tong2 lian2 he2 guo2 gai3 ge2 gua4 gou1
+
+100188 	即#1安理会#2常任#1理事国#3在#1联合国#2承担的#1责任#2最大
+	即_v#1 安理会_j#2 常任_b#1 理事国_n#3 在_p#1 联合国_ni#2 承担_v#0 的_u#1 责任_n#2 最_d#0 大_a#4
+	ji2 an1 li3 hui4 chang2 ren4 li3 shi4 guo2 zai4 lian2 he2 guo2 cheng2 dan1 de5 ze2 ren4 zui4 da4
+
+100189 	企图#1把#1安理会#3变成#2富人#1俱乐部
+	企图_v#1 把_p#1 安理会_j#3 变成_v#2 富人_n#1 俱乐部_n#4
+	qi3 tu2 ba3 an1 li3 hui4 bian4 cheng2 fu4 ren2 jv4 le4 bu4
+
+100190 	负责#1会费#1谈判的#3美国#1代表#3斯卡拉#1表示
+	负责_v#1 会费_n#1 谈判_v#0 的_u#3 美国_ns#1 代表_n#3 斯卡拉_nh#1 表示_v#4
+	fu4 ze2 hui4 fei4 tan2 pan4 de5 mei3 guo2 dai4 biao3 si1 ka3 la1 biao3 shi4
+
+100191 	一九#1七四年#3供职于#2拉合尔#2高等#1法院
+	一九七四年_nt#3 供职_v#0 于_p#2 拉合尔_ns#2 高等_b#1 法院_n#4
+	yi1 jiu3 qi1 si4 nian2 gong1 zhi2 yv2 la1 he2 er3 gao1 deng2 fa3 yvan4
+
+100192 	高度#1评价#3中国#2和#1南非#3建立#2外交#1关系的#3重大#1意义
+	高度_d#1 评价_v#3 中国_ns#2 和_c#1 南非_ns#3 建立_v#2 外交_n#1 关系_n#0 的_u#3 重大_a#1 意义_n#4
+	gao1 du4 ping2 jia4 zhong1 guo2 he2 nan2 fei1 jian4 li4 wai4 jiao1 guan1 xi4 de5 zhong4 da4 yi4 yi4
+
+100193 	数万名#2华人#1劳工#4远涉#1重洋#3来到#1南非
+	数万_m#0 名_q#2 华人_n#1 劳工_n#4 远涉重洋_i#3 来到_v#1 南非_ns#4
+	shu4 wan4 ming2 hua2 ren2 lao2 gong1 yvan3 she4 chong2 yang2 lai2 dao4 nan2 fei1
+
+100194 	今年#2双边#1贸易额#3则#1可望#1达到#3十六亿#1美元
+	今年_nt#2 双边_n#1 贸易额_n#3 则_d#1 可望_v#1 达到_v#3 十六亿_m#1 美元_q#4
+	jin1 nian2 shuang1 bian1 mao4 yi4 e2 ze2 ke3 wang4 da2 dao4 shi2 liu4 yi4 mei3 yvan2
+
+100195 	仅#1这一#1项目#1投资#3就逾#2七千万#1美元
+	仅_d#1 这_r#0 一_m#1 项目_n#1 投资_n#3 就_d#0 逾_v#2 七千万_m#1 美元_q#4
+	jin3 zhe4 yi2 xiang4 mu4 tou2 zi1 jiu4 yv2 qi1 qian1 wan4 mei3 yvan2
+
+100196 	又#1分别#1是#2亚洲#2和#1非洲#3有#1影响的#1大国
+	又_d#1 分别_d#1 是_v#2 亚洲_ns#2 和_c#1 非洲_ns#3 有_v#1 影响_v#0 的_u#1 大国_n#4
+	you4 fen1 bie2 shi4 ya4 zhou1 he2 fei1 zhou1 you3 ying2 xiang3 de5 da4 guo2
+
+100197 	这样的#1情况#3继续#1下去#4将是#2毫无#1道理的
+	这样_r#0 的_u#1 情况_n#3 继续_v#1 下去_v#4 将_d#0 是_v#2 毫无道理_i#1 的_u#4
+	zhe4 yang4 de5 qing2 kuang4 ji4 xv4 xia4 qv4 jiang1 shi4 hao2 wu2 dao4 li3 de5
+
+100198 	南非#1和#1中国#3如果#2迟迟#1不能#3建立#2外交#1关系
+	南非_ns#1 和_c#1 中国_ns#3 如果_c#2 迟迟_d#1 不能_v#3 建立_v#2 外交_n#1 关系_n#4
+	nan2 fei1 he2 zhong1 guo2 ru2 guo3 chi2 chi2 bu4 neng2 jian4 li4 wai4 jiao1 guan1 xi4
+
+100199 	要不是受#3种族#2隔离#2制度的#1影响
+	要不是_c#0 受_v#3 种族_n#2 隔离_v#2 制度_n#0 的_u#1 影响_v#4
+	yao4 bu2 shi4 shou4 zhong3 zu2 ge2 li2 zhi4 du4 de5 ying2 xiang3
+
+100200 	南非#2同#1中国#1建交#3是#1两国#2三百多年#2交往的#3自然#1结果
+	南非_ns#2 同_p#1 中国_ns#1 建交_v#3 是_v#1 两_m#0 国_n#2 三百_m#0 多_m#0 年_q#2 交往_v#0 的_u#3 自然_a#1 结果_n#4
+	nan2 fei1 tong2 zhong1 guo2 jian4 jiao1 shi4 liang3 guo2 san1 bai3 duo1 nian2 jiao1 wang3 de5 zi4 ran2 jie2 guo3
+
+100201 	中国#1人民#3和#1非洲#1人民#4都#1遭受过#3殖民#1主义的#1欺凌
+	中国_ns#1 人民_n#3 和_c#1 非洲_ns#1 人民_n#4 都_d#1 遭受_v#0 过_u#3 殖民主义_n#1 的_u#1 欺凌_v#4
+	zhong1 guo2 ren2 min2 he2 fei1 zhou1 ren2 min2 dou1 zao1 shou4 guo4 zhi2 min2 zhu3 yi4 de5 qi1 ling2
+
+100202 	如今#3中国#1又给#2非洲#1国家#3发展#1经济#3树立了#1榜样
+	如今_nt#3 中国_ns#1 又_d#0 给_p#2 非洲_ns#1 国家_n#3 发展_v#1 经济_n#3 树立_v#0 了_u#1 榜样_n#4
+	ru2 jin1 zhong1 guo2 you4 gei3 fei1 zhou1 guo2 jia1 fa1 zhan3 jing1 ji4 shu4 li4 le5 bang3 yang4
+
+100203 	中国#1赢得了#3在#1世界上#3应有的#1地位
+	中国_ns#1 赢得_v#0 了_u#3 在_p#1 世界_n#0 上_nd#3 应有_v#0 的_u#1 地位_n#4
+	zhong1 guo2 ying2 de2 le5 zai4 shi4 jie4 shang5 ying1 you3 de5 di4 wei4
+
+100204 	受到#2国际#1社会的#1普遍#1尊敬#3和#1关注
+	受到_v#2 国际_n#1 社会_n#0 的_u#1 普遍_a#1 尊敬_v#3 和_c#1 关注_v#4
+	shou4 dao5 guo2 ji4 she4 hui4 de5 pu3 bian4 zun1 jing4 he2 guan1 zhu4
+
+100205 	两国#1经贸#1往来#3已经#2相当#1频繁
+	两_m#0 国_n#1 经贸_j#1 往来_v#3 已经_d#2 相当_d#1 频繁_a#4
+	liang3 guo2 jing1 mao4 wang3 lai2 yi3 jing1 xiang1 dang1 pin2 fan2
+
+100206 	在#1许多#1国际#1问题上#3拥有#2一致的#1观点#3和#1看法
+	在_p#1 许多_m#1 国际_n#1 问题_n#0 上_nd#3 拥有_v#2 一致_a#0 的_u#1 观点_n#3 和_c#1 看法_n#4
+	zai4 xv3 duo1 guo2 ji4 wen4 ti2 shang4 yong1 you3 yi2 zhi4 de5 guan1 dian3 he2 kan4 fa3
+
+100207 	南非#2作为#2奉行#2不结盟#3和#1独立#1外交#1政策的#1国家
+	南非_ns#2 作为_v#2 奉行_v#2 不结盟_v#3 和_c#1 独立_a#1 外交_n#1 政策_n#0 的_u#1 国家_n#4
+	nan2 fei1 zuo4 wei2 feng4 xing2 bu4 jie2 meng2 he2 du2 li4 wai4 jiao1 zheng4 ce4 de5 guo2 jia1
+
+100208 	他同#2钱其琛#2在#1会谈中#3进行了#2深入#2广泛的#1讨论
+	他_r#0 同_p#2 钱其琛_nh#2 在_p#1 会谈_v#0 中_nd#3 进行_v#0 了_u#2 深入_a#2 广泛_a#0 的_u#1 讨论_v#4
+	ta1 tong2 qian2 qi2 chen1 zai4 hui4 tan2 zhong1 jin4 xing2 le5 shen1 ru4 guang3 fan4 de5 tao3 lun4
+
+100209 	两国#1建交#3为#2双方#1未来的#1合作#3打下了#2坚实的#1基础
+	两_m#0 国_n#1 建交_v#3 为_p#2 双方_n#1 未来_nt#0 的_u#1 合作_v#3 打下_v#0 了_u#2 坚实_a#0 的_u#1 基础_n#4
+	liang3 guo2 jian4 jiao1 wei4 shuang1 fang1 wei4 lai2 de5 he2 zuo4 da3 xia4 le5 jian1 shi2 de5 ji1 chu3
+
+100210 	中国#2与#1南非#1方面#3已经#2达成了#3很好的#1谅解
+	中国_ns#2 与_c#1 南非_ns#1 方面_n#3 已经_d#2 达成_v#0 了_u#3 很_d#0 好_a#0 的_u#1 谅解_v#4
+	zhong1 guo2 yv3 nan2 fei1 fang1 mian4 yi3 jing1 da2 cheng2 le5 hen2 hao3 de5 liang4 jie3
+
+100211 	台湾#1当局#3对#2开始#1两岸#1谈判#3顾虑#1重重
+	台湾_ns#1 当局_n#3 对_p#2 开始_v#1 两岸_n#1 谈判_v#3 顾虑重重_i#4
+	tai2 wan1 dang1 jv2 dui4 kai1 shi2 liang3 an4 tan2 pan4 gu4 lv4 chong2 chong2
+
+100212 	然后#2在#1这个#1原则下#3发展#2海峡#2两岸#1关系
+	然后_c#2 在_p#1 这个_r#1 原则_n#0 下_nd#3 发展_v#2 海峡_n#2 两岸_n#1 关系_n#4
+	ran2 hou4 zai4 zhe4 ge5 yvan2 ze2 xia4 fa1 zhan2 hai3 xia2 liang3 an4 guan1 xi4
+
+100213 	南非#1同#2中国#1建交#3并#1不是#2南非#1政府#3突然#1转变#1态度
+	南非_ns#1 同_p#2 中国_ns#1 建交_v#3 并_d#1 不_d#0 是_v#2 南非_ns#1 政府_n#3 突然_a#1 转变_v#1 态度_n#4
+	nan2 fei1 tong2 zhong1 guo2 jian4 jiao1 bing4 bu2 shi4 nan2 fei1 zheng4 fu3 tu1 ran2 zhuan3 bian4 tai4 du4
+
+100214 	南非#2不主张#3以#1人权#1问题#3干涉#2别国#1内政
+	南非_ns#2 不_d#0 主张_v#3 以_p#1 人权_n#1 问题_n#3 干涉_v#2 别国_r#1 内政_n#4
+	nan2 fei1 bu4 zhu3 zhang1 yi3 ren2 qvan2 wen4 ti5 gan1 she4 bie2 guo2 nei4 zheng4
+
+100215 	它#1标志着#3俄罗斯#1经济#3终于#1摆脱了#3停滞#1状态
+	它_r#1 标志_v#0 着_u#3 俄罗斯_ns#1 经济_n#3 终于_d#1 摆脱_v#0 了_u#3 停滞_v#1 状态_n#4
+	ta1 biao1 zhi4 zhe5 e2 luo2 si1 jing1 ji4 zhong1 yv2 bai3 tuo1 le5 ting2 zhi4 zhuang4 tai4
+
+100216 	社会#1向#1和睦#2与#1和解#3迈出了#2重要#1步伐
+	社会_n#1 向_p#1 和睦_a#2 与_c#1 和解_v#3 迈出_v#0 了_u#2 重要_a#1 步伐_n#4
+	she4 hui4 xiang4 he2 mu4 yv3 he2 jie3 mai4 chu1 le5 zhong4 yao4 bu4 fa2
+
+100217 	俄罗斯#3与#1白#1俄罗斯#3建立了#1联盟
+	俄罗斯_ns#3 与_p#1 白俄罗斯_ns#3 建立_v#0 了_u#1 联盟_n#4
+	e2 luo2 si1 yv3 bai2 e2 luo2 si1 jian4 li4 le5 lian2 meng2
+
+100218 	完全#1符合#3乌克兰#1国家的#3民族#1利益
+	完全_a#1 符合_v#3 乌克兰_ns#1 国家_n#0 的_u#3 民族_n#1 利益_n#4
+	wan2 qvan2 fu2 he2 wu1 ke4 lan2 guo2 jia1 de5 min2 zu2 li4 yi4
+
+100219 	尽管#2近年来#3一些#1国家的#3人口#1出生率#3有所#1下降
+	尽管_c#2 近年来_i#3 一些_m#1 国家_n#0 的_u#3 人口_n#1 出生率_n#3 有所_v#1 下降_v#4
+	jin2 guan3 jin4 nian2 lai2 yi4 xie1 guo2 jia1 de5 ren2 kou3 chu1 sheng1 lv4 you2 suo3 xia4 jiang4
+
+100220 	由于#2实施了#2计划#1生育#3和#1晚婚#1等#1措施
+	由于_c#2 实施_v#0 了_u#2 计划生育_i#3 和_c#1 晚婚_n#1 等_u#1 措施_n#4
+	you2 yv2 shi2 shi1 le5 ji4 hua4 sheng1 yv4 he2 wan3 hun1 deng3 cuo4 shi1
+
+100221 	世界#1人口#2增长#1速度#3要比#2原先#1预料的#1低
+	世界_n#1 人口_n#2 增长_v#1 速度_n#3 要_v#0 比_v#2 原先_d#1 预料_v#0 的_u#1 低_a#4
+	shi4 jie4 ren2 kou3 zeng1 zhang3 su4 du4 yao4 bi3 yvan2 xian1 yv4 liao4 de5 di1
+
+100222 	至今#3仍#1保留着#3祖鲁#1王国的#1传统#1文化#3和#1风俗#1习惯
+	至今_d#3 仍_d#1 保留_v#0 着_u#3 祖鲁王国_ns#1 的_u#1 传统_a#1 文化_n#3 和_c#1 风俗_n#1 习惯_n#4
+	zhi4 jin1 reng2 bao3 liu2 zhe5 zu2 lu3 wang2 guo2 de5 chuan2 tong3 wen2 hua4 he2 feng1 su2 xi2 guan4
+
+100223 	先后#2建立了#3家电#3五金#3搪瓷#1文具#1等#1企业
+	先后_d#2 建立_v#0 了_u#3 家电_j#3 五金_n#3 搪瓷_n#1 文具_n#1 等_u#1 企业_n#4
+	xian1 hou4 jian4 li4 le5 jia1 dian4 wu3 jin1 tang2 ci2 wen2 jv4 deng2 qi3 ye4
+
+100224 	对#1中国#2始终#1坚持#3高举#2邓小平#1理论#1旗帜#4感到#1高兴
+	对_p#1 中国_ns#2 始终_d#1 坚持_v#3 高举_v#2 邓小平理论_n#1 旗帜_n#4 感到_v#1 高兴_a#4
+	dui4 zhong1 guo2 shi3 zhong1 jian1 chi2 gao1 jv3 deng4 xiao3 ping2 li3 lun4 qi2 zhi4 gan3 dao5 gao1 xing4
+
+100225 	中老#1两国#3是#1山水#1相连的#3友好#1邻邦
+	中_j#0 老_j#1 两_m#0 国_n#3 是_v#1 山水_n#1 相连_v#0 的_u#3 友好_a#1 邻邦_n#4
+	zhong1 lao2 liang3 guo2 shi4 shan1 shui3 xiang1 lian2 de5 you2 hao3 lin2 bang1
+
+100226 	两国#1人民#3是#1可以#2相互#2信赖的#1朋友
+	两_m#0 国_n#1 人民_n#3 是_v#1 可以_v#2 相互_d#2 信赖_v#0 的_u#1 朋友_n#4
+	liang3 guo2 ren2 min2 shi4 ke2 yi3 xiang1 hu4 xin4 lai4 de5 peng2 you5
+
+100227 	二百多件#2灯饰#1作品#4以#1卡通#1人物#1和#1动物#3为#1主要#1造型
+	二百_m#0 多_m#0 件_q#2 灯饰_n#1 作品_n#4 以_p#1 卡通_n#1 人物_n#1 和_c#1 动物_n#3 为_v#1 主要_b#1 造型_n#4
+	er4 bai3 duo1 jian4 deng1 shi4 zuo4 pin3 yi2 ka3 tong1 ren2 wu4 he2 dong4 wu4 wei2 zhu3 yao4 zao4 xing2
+
+100228 	为#1寒冷的#1冬夜#3增添了#1几分#2暖意
+	为_p#1 寒冷_a#0 的_u#1 冬夜_n#3 增添_v#0 了_u#1 几_m#0 分_q#2 暖意_n#4
+	wei4 han2 leng3 de5 dong1 ye4 zeng1 tian1 le5 ji3 fen1 nuan3 yi4
+
+100229 	经济#2社会#1形势#3出现了#1一些#3不正常的#1变化
+	经济_n#2 社会_n#1 形势_n#3 出现_v#0 了_u#1 一些_m#3 不_d#0 正常_a#0 的_u#1 变化_v#4
+	jing1 ji4 she4 hui4 xing2 shi4 chu1 xian4 le5 yi4 xie1 bu2 zheng4 chang2 de5 bian4 hua4
+
+100230 	一些#1生产#3和#1服务#1行业的#3增幅#1减小
+	一些_m#1 生产_v#3 和_c#1 服务_v#1 行业_n#0 的_u#3 增幅_n#1 减_v#0 小_a#4
+	yi4 xie1 sheng1 chan3 he2 fu2 wu4 hang2 ye4 de5 zeng1 fu2 jian2 xiao3
+
+100231 	财政#1金融#1系统#3不够#1健康#2和#1安全
+	财政_n#1 金融_n#1 系统_n#3 不_d#0 够_v#1 健康_a#2 和_c#1 安全_a#4
+	cai2 zheng4 jin1 rong2 xi4 tong3 bu2 gou4 jian4 kang1 he2 an1 qvan5
+
+100232 	既#1存在#3继续#1迅速#1发展的#1可能
+	既_c#1 存在_v#3 继续_v#1 迅速_a#1 发展_v#0 的_u#1 可能_n#4
+	ji4 cun2 zai4 ji4 xv4 xvn4 su4 fa1 zhan3 de5 ke3 neng2
+
+100233 	苏丹#1政府#3努力#1消除#1各种#3不利于#2实现#3全国#2和解的#1障碍
+	苏丹_ns#1 政府_n#3 努力_a#1 消除_v#1 各种_r#3 不_d#0 利于_v#2 实现_v#3 全国_n#2 和解_v#0 的_u#1 障碍_n#4
+	su1 dan1 zheng4 fu2 nu3 li4 xiao1 chu2 ge4 zhong3 bu2 li4 yv2 shi2 xian4 qvan2 guo2 he2 jie3 de5 zhang4 ai4
+
+100234 	争取#1把#1苏丹#1变成#3阿拉伯#2和#2非洲的#3面包#1篮子
+	争取_v#1 把_p#1 苏丹_ns#1 变成_v#3 阿拉伯_ns#2 和_c#2 非洲_ns#0 的_u#3 面包_n#1 篮子_n#4
+	zheng1 qv2 ba3 su1 dan1 bian4 cheng2 a1 la1 bo2 he2 fei1 zhou1 de5 mian4 bao1 lan2 zi5
+
+100235 	巴希尔#1强烈#1抨击#3美国#1干涉#1苏丹的#3内部#1事务
+	巴希尔_nh#1 强烈_a#1 抨击_v#3 美国_ns#1 干涉_v#1 苏丹_ns#0 的_u#3 内部_nd#1 事务_n#4
+	ba1 xi1 er3 qiang2 lie4 peng1 ji1 mei3 guo2 gan1 she4 su1 dan1 de5 nei4 bu4 shi4 wu4
+
+100236 	阻碍#1和#1破坏#2苏丹#1政府#3实现#2全国#1和平的#1努力
+	阻碍_v#1 和_c#1 破坏_v#2 苏丹_ns#1 政府_n#3 实现_v#2 全国_n#1 和平_n#0 的_u#1 努力_a#4
+	zu3 ai4 he2 po4 huai4 su1 dan1 zheng4 fu3 shi2 xian4 qvan2 guo2 he2 ping2 de5 nu3 li4
+
+100237 	每年#1都向#2马方#3赠送#1药品#3和#2医疗#1器械
+	每年_r#1 都_d#0 向_p#2 马方_n#3 赠送_v#1 药品_n#3 和_c#2 医疗_n#1 器械_n#4
+	mei3 nian2 dou1 xiang4 ma3 fang1 zeng4 song4 yao4 pin3 he2 yi1 liao2 qi4 xie4
+
+100238 	开始#1在#2坦赞#1铁路线上#3投入#1使用
+	开始_v#1 在_p#2 坦_j#0 赞_j#1 铁路线_n#0 上_nd#3 投入_v#1 使用_v#4
+	kai1 shi3 zai4 tan3 zan4 tie3 lu4 xian4 shang4 tou2 ru4 shi3 yong4
+
+100239 	二期#1工程#3进入#2攻坚#1阶段的#2里程碑
+	二期_b#1 工程_n#3 进入_v#2 攻坚_v#1 阶段_n#0 的_u#2 里程碑_n#4
+	er4 qi1 gong1 cheng2 jin4 ru4 gong1 jian1 jie1 duan4 de5 li3 cheng2 bei1
+
+100240 	正为#2宏伟的#1三峡#1工程#3再续#2新篇章
+	正_d#0 为_p#2 宏伟_a#0 的_u#1 三峡_ns#1 工程_n#3 再_d#0 续_v#2 新篇章_n#4
+	zheng4 wei4 hong2 wei3 de5 san1 xia2 gong1 cheng2 zai4 xv4 xin1 pian1 zhang1
+
+100241 	吉林省#2去年#2粮食#1总产#3超过#2二百亿#1公斤
+	吉林省_ns#2 去年_nt#2 粮食_n#1 总产_n#3 超过_v#2 二百亿_m#1 公斤_q#4
+	ji2 lin2 sheng3 qv4 nian2 liang2 shi5 zong2 chan3 chao1 guo4 er4 bai3 yi4 gong1 jin1
+
+100242 	图为#2东方红牌#3履带#1拖拉机#2生产线
+	图_n#0 为_v#2 东方红牌_nz#3 履带_n#1 拖拉机_n#2 生产线_n#4
+	tu2 wei2 dong1 fang1 hong2 pai2 lv3 dai4 tuo1 la1 ji1 sheng1 chan3 xian4
+
+100243 	在#1该县#1形成了#3人人#2自觉#1敬老#1养老的#3良好#1社会#1风尚
+	在_p#1 该县_r#1 形成_v#0 了_u#3 人人_n#2 自觉_a#1 敬老_v#1 养老_v#0 的_u#3 良好_a#1 社会_n#1 风尚_n#4
+	zai4 gai1 xian4 xing2 cheng2 le5 ren2 ren2 zi4 jve2 jing4 lao3 yang2 lao3 de5 liang2 hao3 she4 hui4 feng1 shang4
+
+100244 	常#1跟随#1国歌#3闭目#1哼唱#3休息#1脑子
+	常_d#1 跟随_v#1 国歌_n#3 闭目_v#1 哼唱_v#3 休息_v#1 脑子_n#4
+	chang2 gen1 sui2 guo2 ge1 bi4 mu4 heng1 chang4 xiu1 xi5 nao3 zi5
+
+100245 	咀嚼#1起来#3它是#1一篇#3精品#1杂文
+	咀嚼_v#1 起来_v#3 它_r#0 是_v#1 一_m#0 篇_q#3 精品_n#1 杂文_n#4
+	jv3 jve2 qi3 lai2 ta1 shi4 yi4 pian1 jing1 pin3 za2 wen2
+
+100246 	是#1靠什么#3激发#1人们的#1凝聚力
+	是_v#1 靠_p#0 什么_r#3 激发_v#1 人们_n#0 的_u#1 凝聚力_n#4
+	shi4 kao4 shen2 me5 ji1 fa1 ren2 men5 de5 ning2 jv4 li4
+
+100247 	含有#1强烈的#2时代#1危机感#3历史#1使命感#4和#1社会#1责任感
+	含有_v#1 强烈_a#0 的_u#2 时代_n#1 危机感_n#3 历史使命感_n#4 和_c#1 社会_n#1 责任感_n#4
+	han2 you3 qiang2 lie4 de5 shi2 dai4 wei1 ji1 gan3 li4 shi2 shi3 ming4 gan3 he2 she4 hui4 ze2 ren4 gan3
+
+100248 	我国#2现代#1杂文的#3开创#1导师#3鲁迅
+	我国_n#2 现代_nt#1 杂文_n#0 的_u#3 开创_v#1 导师_n#3 鲁迅_nh#4
+	wo3 guo2 xian4 dai4 za2 wen2 de5 kai1 chuang4 dao3 shi1 lu3 xvn4
+
+100249 	成立#2杂文#1学会#3和#1出版#2杂文#1报刊
+	成立_v#2 杂文_n#1 学会_n#3 和_c#1 出版_v#2 杂文_n#1 报刊_n#4
+	cheng2 li4 za2 wen2 xve2 hui4 he2 chu1 ban3 za2 wen2 bao4 kan1
+
+100250 	都是#1受到#3当地#1党政#1领导的#2支持#3才#1立定#1脚跟的
+	都_d#0 是_v#1 受到_v#3 当地_nl#1 党政_j#1 领导_n#0 的_u#2 支持_v#3 才_d#1 立定_v#1 脚跟_n#0 的_u#4
+	dou1 shi4 shou4 dao4 dang1 di4 dang3 zheng4 ling2 dao3 de5 zhi1 chi2 cai2 li4 ding4 jiao3 gen1 de5
+
+100251 	同时#1应当#3努力#1争取#3更多的#1人的#1理解#3和#1支持
+	同时_c#1 应当_v#3 努力_a#1 争取_v#3 更_d#0 多_a#0 的_u#1 人_n#0 的_u#1 理解_v#3 和_c#1 支持_v#4
+	tong2 shi2 ying1 dang1 nu3 li4 zheng1 qv3 geng4 duo1 de5 ren2 de5 li2 jie3 he2 zhi1 chi2
+
+100252 	蒲公英#2就#1开放了
+	蒲公英_n#2 就_d#1 开放_v#0 了_u#4
+	pu2 gong1 ying1 jiu4 kai1 fang4 le5
+
+100253 	我#1明明#1知道#3自己#1从中#3获得了#1什么
+	我_r#1 明明_d#1 知道_v#3 自己_r#1 从中_d#3 获得_v#0 了_u#1 什么_r#4
+	wo3 ming2 ming2 zhi1 dao4 zi4 ji3 cong2 zhong1 huo4 de2 le5 shen2 me5
+
+100254 	可#1一时#2又#1说不清#3获得的#3究竟#2是些什么
+	可_c#1 一时_nt#2 又_d#1 说不清_i#3 获得_v#0 的_u#3 究竟_d#2 是_v#0 些_q#0 什么_r#4
+	ke3 yi4 shi2 you4 shuo1 bu5 qing1 huo4 de2 de5 jiu1 jing4 shi4 xie1 shen2 me5
+
+100255 	我的#1生命#3在#1岁月的#1抚爱#2与#1鞭策下#3逐渐#1成长#2成熟
+	我_r#0 的_u#1 生命_n#3 在_p#1 岁月_n#0 的_u#1 抚爱_v#2 与_c#1 鞭策_v#0 下_nd#3 逐渐_d#1 成长_v#2 成熟_a#4
+	wo3 de5 sheng1 ming4 zai4 sui4 yve4 de5 fu3 ai4 yv3 bian1 ce4 xia4 zhu2 jian4 cheng2 zhang3 cheng2 shu2
+
+100256 	岁月#1曾经#3给予#1我#1一颗#3烂漫#1天真的#1童心
+	岁月_n#1 曾经_d#3 给予_v#1 我_r#1 一_m#0 颗_q#3 烂漫_z#1 天真_a#0 的_u#1 童心_n#4
+	sui4 yve4 ceng2 jing1 ji2 yv2 wo3 yi4 ke1 lan4 man4 tian1 zhen1 de5 tong2 xin1
+
+100257 	岁月的#1流逝#3显得#1凄美#2而#1沉毅
+	岁月_n#0 的_u#1 流逝_v#3 显得_v#1 凄美_a#2 而_c#1 沉毅_a#4
+	sui4 yve4 de5 liu2 shi4 xian3 de5 qi1 mei3 er2 chen2 yi4
+
+100258 	就如#1一只#1飞鸟#3在#1空中#2滑翔的#1痕迹
+	就_d#0 如_v#1 一_m#0 只_q#1 飞鸟_n#3 在_p#1 空中_nl#2 滑翔_v#0 的_u#1 痕迹_n#4
+	jiu4 ru2 yi4 zhi1 fei1 niao3 zai4 kong1 zhong1 hua2 xiang2 de5 hen2 ji4
+
+100259 	就如#2春夏#1秋冬#4抑或#2晨昏#1昼夜的#3有序#1更迭
+	就_p#0 如_v#2 春_nt#0 夏_nt#1 秋_nt#0 冬_nt#4 抑或_c#2 晨_nt#0 昏_v#1 昼夜_n#0 的_u#3 有序_a#1 更迭_v#4
+	jiu4 ru2 chun1 xia4 qiu1 dong1 yi4 huo4 chen2 hun1 zhou4 ye4 de5 you3 xv4 geng1 die2
+
+100260 	驱赶着#1我们#3从#1天真#1烂漫的#1童年#3走向#2朝气#1蓬勃的#1少年
+	驱赶_v#0 着_u#1 我们_r#3 从_p#1 天真烂漫_i#1 的_u#1 童年_nt#3 走向_v#2 朝气蓬勃_i#1 的_u#1 少年_n#4
+	qv1 gan3 zhe5 wo3 men2 cong2 tian1 zhen1 lan4 man4 de5 tong2 nian2 zou3 xiang4 zhao1 qi4 peng2 bo2 de5 shao4 nian2
+
+100261 	从#1热血#1沸腾的#1青年#3走向#3理智#1沉静的#2中年
+	从_p#1 热血_n#1 沸腾_v#0 的_u#1 青年_n#3 走向_v#3 理智_a#1 沉静_a#0 的_u#2 中年_nt#4
+	cong2 re4 xve4 fei4 teng2 de5 qing1 nian2 zou3 xiang4 li3 zhi4 chen2 jing4 de5 zhong1 nian2
+
+100262 	谁#2都#1不可能#3放浪于#1岁月#3疏懒于#1岁月#4而#1有所#1收获
+	谁_r#2 都_d#1 不_d#0 可能_v#3 放浪_v#0 于_p#1 岁月_n#3 疏懒_a#0 于_p#1 岁月_n#4 而_c#1 有所_v#1 收获_v#4
+	shei2 dou1 bu4 ke3 neng2 fang4 lang4 yv2 sui4 yve4 shu1 lan3 yv2 sui4 yve4 er2 you2 suo3 shou1 huo4
+
+100263 	面对#1这些#2印刷#1精美#3色彩#1斑斓的#1贺卡
+	面对_v#1 这些_r#2 印刷_v#1 精美_a#3 色彩斑斓_i#1 的_u#1 贺卡_n#4
+	mian4 dui4 zhe4 xie1 yin4 shua1 jing1 mei3 se4 cai3 ban1 lan2 de5 he4 ka3
+
+100264 	细腻#1绵长
+	细腻_a#1 绵长_z#4
+	xi4 ni4 mian2 chang2
+
+100265 	在#1饱览了#1大理的#1苍山#1洱海#3秀丽#1风光后
+	在_p#1 饱览_v#0 了_u#1 大理_ns#0 的_u#1 苍山_ns#1 洱海_ns#3 秀丽_a#1 风光_n#0 后_nd#4
+	zai4 bao2 lan3 le5 da4 li3 de5 cang1 shan1 er2 hai3 xiu4 li4 feng1 guang1 hou4
+
+100266 	萌发了#3要写#1一篇#2游记的#1念头
+	萌发_v#0 了_u#3 要_v#0 写_v#1 一_m#0 篇_q#2 游记_n#0 的_u#1 念头_n#4
+	meng2 fa1 le5 yao4 xie3 yi4 pian1 you2 ji4 de5 nian4 tou5
+
+100267 	但#1因对#3当地的#1一些#2历史#1传说#3了解#1甚少
+	但_c#1 因_c#0 对_p#3 当地_nl#0 的_u#1 一些_m#2 历史_n#1 传说_n#3 了解_v#1 甚_d#0 少_a#4
+	dan4 yin1 dui4 dang1 di4 de5 yi4 xie1 li4 shi3 chuan2 shuo1 liao2 jie3 shen4 shao3
+
+100268 	在#2宾馆#2苦思#1两天#3都#1没有#1下笔
+	在_p#2 宾馆_n#2 苦思_v#1 两_m#0 天_q#3 都_d#1 没有_d#1 下笔_v#4
+	zai4 bin1 guan2 ku3 si1 liang3 tian1 dou1 mei2 you3 xia4 bi3
+
+100269 	宾馆#2白族#1服务员#3阿朵#1姑娘#4知道#1我的#1苦衷后
+	宾馆_n#2 白族_nz#1 服务员_n#3 阿朵_nh#1 姑娘_n#4 知道_v#1 我_r#0 的_u#1 苦衷_n#0 后_nd#4
+	bin1 guan3 bai2 zu2 fu2 wu4 yvan2 a1 duo3 gu1 niang5 zhi1 dao4 wo3 de5 ku3 zhong1 hou4
+
+100270 	不巧#2她回#1乡下#3看#1外婆#1去了
+	不巧_d#2 她_r#0 回_v#1 乡下_nl#3 看_v#1 外婆_n#1 去_v#0 了_u#4
+	bu4 qiao3 ta1 hui2 xiang1 xia4 kan4 wai4 po2 qv4 le5
+
+100271 	给我#2寄#1贺卡的#3多为#2师长#2朋友#3和#1战友
+	给_p#0 我_r#2 寄_v#1 贺卡_n#0 的_u#3 多_d#0 为_v#2 师长_n#2 朋友_n#3 和_c#1 战友_n#4
+	gei2 wo3 ji4 he4 ka3 de5 duo1 wei2 shi1 zhang3 peng2 you5 he2 zhan4 you3
+
+100272 	近年#3兴起#1一种#3贺年#1有奖#2明信片
+	近年_nt#3 兴起_v#1 一_m#0 种_q#3 贺年_n#1 有_v#0 奖_n#2 明信片_n#4
+	jin4 nian2 xing1 qi3 yi4 zhong3 he4 nian2 you2 jiang3 ming2 xin4 pian4
+
+100273 	许多#1朋友的#1祝愿#3总在#2中奖上#3做#1文章
+	许多_m#1 朋友_n#0 的_u#1 祝愿_v#3 总_d#0 在_p#2 中奖_v#0 上_nd#3 做文章_v#4
+	xv3 duo1 peng2 you5 de5 zhu4 yvan4 zong3 zai4 zhong4 jiang3 shang4 zuo4 wen2 zhang1
+
+100274 	我曾#2帮助过#1一位#3苗族#1小姑娘
+	我_r#0 曾_d#2 帮助_v#0 过_u#1 一_m#0 位_q#3 苗族_nz#1 小姑娘_n#4
+	wo3 ceng2 bang1 zhu4 guo4 yi2 wei4 miao2 zu2 xiao3 gu1 niang5
+
+100275 	画面#2是#1两把#3富有#2抽象#1意味的#1雨伞
+	画面_n#2 是_v#1 两_m#0 把_q#3 富有_a#2 抽象_a#1 意味_n#0 的_u#1 雨伞_n#4
+	hua4 mian4 shi4 liang2 ba3 fu4 you3 chou1 xiang4 yi4 wei4 de5 yv2 san3
+
+100276 	大概#1是我#2为着#1生活#3而#1操持#1家务
+	大概_d#1 是_v#0 我_r#2 为着_p#1 生活_v#3 而_c#1 操持_v#1 家务_n#4
+	da4 gai4 shi4 wo3 wei4 zhe5 sheng1 huo2 er2 cao1 chi2 jia1 wu4
+
+100277 	蔬菜#3瓜果#3家禽#3水产#3日用#1工业品#3都有
+	蔬菜_n#3 瓜果_n#3 家禽_n#3 水产_n#3 日用_b#1 工业品_n#3 都_d#0 有_v#4
+	shu1 cai4 gua1 guo3 jia1 qin2 shui2 chan3 ri4 yong4 gong1 ye4 pin3 dou1 you3
+
+100278 	映入#1你#1眼帘的#3竟是#1那#3绿茵茵的#1芹菜#3油菜#3菠菜
+	映入_v#1 你_r#1 眼帘_n#0 的_u#3 竟是_v#1 那_r#3 绿茵茵_z#0 的_u#1 芹菜_n#3 油菜_n#3 菠菜_n#4
+	ying4 ru4 ni2 yan3 lian2 de5 jing4 shi4 na4 lv4 yin1 yin1 de5 qin2 cai4 you2 cai4 bo1 cai4
+
+100279 	红澄澄的#1西红柿#3红辣椒#3胡萝卜
+	红澄澄_z#0 的_u#1 西红柿_n#3 红_a#0 辣椒_n#3 胡萝卜_n#4
+	hong2 cheng2 cheng2 de5 xi1 hong2 shi4 hong2 la4 jiao1 hu2 luo2 bo5
+
+100280 	水灵灵的#2白萝卜#3大白菜#3大柿椒
+	水灵灵_z#0 的_u#2 白萝卜_n#3 大白菜_n#3 大_a#0 柿椒_n#4
+	shui3 ling2 ling2 de5 bai2 luo2 bo5 da4 bai2 cai4 da4 shi4 jiao1
+
+100281 	还有#1那#3紫蓝蓝的#1茄子#3洋葱
+	还有_v#1 那_r#3 紫蓝蓝_z#0 的_u#1 茄子_n#3 洋葱_n#4
+	hai2 you3 na4 zi3 lan2 lan2 de5 qie2 zi5 yang2 cong1
+
+100282 	是#1画家#2调色板上的#1色彩#4无法#1与之#1相比的
+	是_v#1 画家_n#2 调色板_n#0 上_nd#0 的_u#1 色彩_n#4 无法_v#1 与_p#0 之_r#1 相比_v#0 的_u#4
+	shi4 hua4 jia1 tiao2 se4 ban3 shang4 de5 se4 cai3 wu2 fa2 yv3 zhi1 xiang1 bi3 de5
+
+100283 	它们#1在#1水中#3是#1那样#2自由#1欢快
+	它们_r#1 在_p#1 水中_nl#3 是_v#1 那样_r#2 自由_a#1 欢快_a#4
+	ta1 men5 zai4 shui3 zhong1 shi4 na4 yang4 zi4 you2 huan1 kuai4
+
+100284 	有#1两位#1卖主#3是#1一对#2四川#1夫妇
+	有_v#1 两_m#0 位_q#1 卖主_n#3 是_v#1 一_m#0 对_q#2 四川_ns#1 夫妇_n#4
+	you2 liang3 wei4 mai4 zhu3 shi4 yi2 dui4 si4 chuan1 fu1 fu4
+
+100285 	由于#2气候#2水土#3和#1饲料#2等#1因素
+	由于_c#2 气候_n#2 水土_n#3 和_c#1 饲料_n#2 等_u#1 因素_n#4
+	you2 yv2 qi4 hou4 shui2 tu3 he2 si4 liao4 deng3 yin1 su4
+
+100286 	同一#1物种的#1味道#3南北#2是有#1差异的
+	同一_b#1 物种_n#0 的_u#1 味道_n#3 南北_nd#2 是_v#0 有_v#1 差异_n#0 的_u#4
+	tong2 yi2 wu4 zhong3 de5 wei4 dao5 nan2 bei3 shi4 you3 cha1 yi4 de5
+
+100287 	上市的#1羊肉#4一块块的#3钩挂#1起来#4一溜#1排开
+	上市_v#0 的_u#1 羊肉_n#4 一块块_m#0 的_u#3 钩挂_v#1 起来_v#4 一_m#0 溜_q#1 排_v#0 开_v#4
+	shang4 shi4 de5 yang2 rou4 yi2 kuai4 kuai4 de5 gou1 gua4 qi3 lai2 yi2 liu4 pai2 kai1
+
+100288 	如#1腮的#1颜色#1发白#3就#1欠佳了
+	如_v#1 腮_n#0 的_u#1 颜色_n#1 发_v#0 白_a#3 就_d#1 欠佳_v#0 了_u#4
+	ru2 sai1 de5 yan2 se4 fa1 bai2 jiu4 qian4 jia1 le5
+
+100289 	也可#1从#1一个#2小小的#1市场#3引发#1思考
+	也_d#0 可_v#1 从_p#1 一个_m#2 小小的_z#1 市场_n#3 引发_v#1 思考_v#4
+	ye2 ke3 cong2 yi2 ge4 xiao2 xiao3 de5 shi4 chang3 yin3 fa1 si1 kao3
+
+100290 	那#1农民的#1形象#3不就是#1当今#2中国#1农民的#3一个#1缩影
+	那_r#1 农民_n#0 的_u#1 形象_n#3 不_d#0 就是_v#1 当今_nt#2 中国_ns#1 农民_n#0 的_u#3 一个_m#1 缩影_n#4
+	na4 nong2 min2 de5 xing2 xiang4 bu2 jiu4 shi4 dang1 jin1 zhong1 guo2 nong2 min2 de5 yi2 ge5 suo1 ying3
+
+100291 	将#1一大麻袋#3还#1带着#1泥土#1芳香的#1花生#4倒了#1出来
+	将_p#1 一_m#0 大_a#0 麻袋_n#3 还_d#1 带_v#0 着_u#1 泥土_n#1 芳香_n#0 的_u#1 花生_n#4 倒_v#0 了_u#1 出来_v#4
+	jiang1 yi2 da4 ma2 dai4 hai2 dai4 zhe5 ni2 tu3 fang1 xiang1 de5 hua1 sheng1 dao4 le5 chu1 lai2
+
+100292 	妻子#2称了#1一下#3竟#1短了#1半斤
+	妻子_n#2 称_v#0 了_u#1 一下_m#3 竟_d#1 短_a#0 了_u#1 半_m#0 斤_q#4
+	qi1 zi3 cheng1 le5 yi2 xia4 jing4 duan3 le5 ban4 jin1
+
+100293 	生活的#1启迪#3和那#1深藏#1在#3劳动者#2心底的#1美
+	生活_v#0 的_u#1 启迪_v#3 和_c#0 那_r#1 深_d#0 藏_v#1 在_p#3 劳动者_n#2 心底_n#0 的_u#1 美_n#4
+	sheng1 huo2 de5 qi3 di2 he2 na4 shen1 cang2 zai4 lao2 dong4 zhe3 xin1 di3 de5 mei3
+
+100294 	向#1各民主#1党派#3全国#1工商联#3和#2无党派#2爱国#1人士
+	向_p#1 各_r#0 民主党派_n#3 全国_n#1 工商联_j#3 和_c#2 无党派_n#2 爱国人士_n#4
+	xiang4 ge4 min2 zhu2 dang3 pai4 qvan2 guo2 gong1 shang1 lian2 he2 wu2 dang3 pai4 ai4 guo2 ren2 shi4
+
+100295 	向#1人民#1解放军#2指战员#3武警#1官兵#3公安#1干警
+	向_p#1 人民_n#1 解放军_n#2 指战员_n#3 武警_n#1 官兵_n#3 公安_n#1 干警_n#4
+	xiang4 ren2 min2 jie3 fang4 jvn1 zhi3 zhan4 yvan2 wu2 jing3 guan1 bing1 gong1 an1 gan4 jing3
+
+100296 	敬爱的#1邓小平#1同志#3离开了#1我们
+	敬爱_v#0 的_u#1 邓小平_nh#1 同志_n#3 离开_v#0 了_u#1 我们_r#4
+	jing4 ai4 de5 deng4 xiao3 ping2 tong2 zhi4 li2 kai1 le5 wo3 men5
+
+100297 	全党#3全军#3全国#1各族#1人民#4紧密#1团结#1在#3党中央#1周围
+	全党_n#3 全军_n#3 全国_n#1 各族_r#1 人民_n#4 紧密_a#1 团结_v#1 在_p#3 党中央_ni#1 周围_nd#4
+	qvan2 dang3 qvan2 jvn1 qvan2 guo2 ge4 zu2 ren2 min2 jin3 mi4 tuan2 jie2 zai4 dang3 zhong1 yang1 zhou1 wei2
+
+100298 	主要#1经济#1指标#3基本#1达到#3宏观#1调控的#3预期#1目标
+	主要_b#1 经济_n#1 指标_n#3 基本_a#1 达到_v#3 宏观_n#1 调控_v#0 的_u#3 预期_v#1 目标_n#4
+	zhu3 yao4 jing1 ji4 zhi3 biao1 ji1 ben3 da2 dao4 hong2 guan1 tiao2 kong4 de5 yv4 qi1 mu4 biao1
+
+100299 	九五#1计划的#2良好#1开局#3得到#1巩固#2和#1发展
+	九五_m#1 计划_n#0 的_u#2 良好_a#1 开局_n#3 得到_v#1 巩固_v#2 和_c#1 发展_v#4
+	jiu2 wu3 ji4 hua4 de5 liang2 hao3 kai1 jv2 de2 dao4 gong3 gu4 he2 fa1 zhan3
+
+100300 	抓住#1影响#2经济#1工作的#3关键#1环节
+	抓住_v#1 影响_v#2 经济_n#1 工作_v#0 的_u#3 关键_a#1 环节_n#4
+	zhua1 zhu4 ying2 xiang3 jing1 ji4 gong1 zuo4 de5 guan1 jian4 huan2 jie2
+
+100301 	加快#2国有#1企业#2为#1重点的#3各项#1改革
+	加快_v#2 国有_v#1 企业_n#2 为_v#1 重点_n#0 的_u#3 各项_r#1 改革_v#4
+	jia1 kuai4 guo2 you2 qi3 ye4 wei2 zhong4 dian3 de5 ge4 xiang4 gai3 ge2
+
+100302 	是#1海内外#2一切#1爱国的#3中华#1儿女的#3共同#1心愿
+	是_v#1 海内外_nl#2 一切_r#1 爱国_a#0 的_u#3 中华_nz#1 儿女_n#0 的_u#3 共同_b#1 心愿_n#4
+	shi4 hai3 nei4 wai4 yi2 qie4 ai4 guo2 de5 zhong1 hua2 er2 nv3 de5 gong4 tong2 xin1 yvan4
+
+100303 	人民#1政协#3在#1过去的#1一年中
+	人民_n#1 政协_j#3 在_p#1 过去_nt#0 的_u#1 一_m#0 年_q#0 中_nd#4
+	ren2 min2 zheng4 xie2 zai4 guo4 qv4 de5 yi4 nian2 zhong1
+
+100304 	使之#1成为#2我们党#3团结#1各界的#3重要#1渠道
+	使_v#0 之_r#1 成为_v#2 我们_r#0 党_n#3 团结_v#1 各界_r#0 的_u#3 重要_a#1 渠道_n#4
+	shi3 zhi1 cheng2 wei2 wo3 men5 dang3 tuan2 jie2 ge4 jie4 de5 zhong4 yao4 qv2 dao4
+
+100305 	实现#2中华#1振兴#3和#1完成#1祖国#1统一
+	实现_v#2 中华_nz#1 振兴_v#3 和_c#1 完成_v#1 祖国_n#1 统一_v#4
+	shi2 xian4 zhong1 hua2 zhen4 xing1 he2 wan2 cheng2 zu3 guo2 tong3 yi1
+
+100306 	马文瑞#3汪锋#1等#1老同志#3也#1出席了#1茶话会
+	马文瑞_nh#3 汪锋_nh#1 等_u#1 老_a#0 同志_n#3 也_d#1 出席_v#0 了_u#1 茶话会_n#4
+	ma3 wen2 rui4 wang1 feng1 deng2 lao3 tong2 zhi4 ye3 chu1 xi2 le5 cha2 hua4 hui4
+
+100307 	自发地#2聚集到了#3祖国的#1心脏#4天安门#1广场
+	自发_d#0 地_u#2 聚集_v#0 到_v#0 了_u#3 祖国_n#0 的_u#1 心脏_n#4 天安门_ns#1 广场_n#4
+	zi4 fa1 de5 jv4 ji2 dao4 le5 zu3 guo2 de5 xin1 zang4 tian1 an1 men2 guang2 chang3
+
+100308 	参加了#2庄严的#3元旦#2天安门#1广场#3升国旗#1仪式
+	参加_v#0 了_u#2 庄严_a#0 的_u#3 元旦_nt#2 天安门_ns#1 广场_n#3 升_v#0 国旗_n#1 仪式_n#4
+	can1 jia1 le5 zhuang1 yan2 de5 yvan2 dan4 tian1 an1 men2 guang2 chang3 sheng1 guo2 qi2 yi2 shi4
+
+100309 	哈尔滨市的#3最低#1气温#4达到#1零下#2二十五#1摄氏度
+	哈尔滨市_ns#0 的_u#3 最低_a#1 气温_n#4 达到_v#1 零下_nl#2 二十五_m#1 摄氏度_q#4
+	ha1 er3 bing1 shi4 de5 zui4 di1 qi4 wen1 da2 dao4 ling2 xia4 er4 shi2 wu3 she4 shi4 du4
+
+100310 	刚刚#1开放的#3江上#1游乐园#4成了#1人们#3游玩的#1好去处
+	刚刚_d#1 开放_v#0 的_u#3 江_n#0 上游_nd#1 乐园_n#4 成_v#0 了_u#1 人们_n#3 游玩_v#0 的_u#1 好_a#0 去处_n#4
+	gang1 gang1 kai1 fang4 de5 jiang1 shang4 you2 le4 yvan2 cheng2 le5 ren2 men5 you2 wan2 de5 hao3 qv4 chu4
+
+100311 	尽情地#1享受#3冰雪#1带来的#3无穷#1乐趣
+	尽情_d#0 地_u#1 享受_v#3 冰雪_n#1 带来_v#0 的_u#3 无穷_z#1 乐趣_n#4
+	jin4 qing2 de5 xiang3 shou4 bing1 xve3 dai4 lai2 de5 wu2 qiong2 le4 qv4
+
+100312 	充满了#2欢乐#1祥和的#3节日#1气氛
+	充满_v#0 了_u#2 欢乐_a#1 祥和_a#0 的_u#3 节日_n#1 气氛_n#4
+	chong1 man3 le5 huan1 le4 xiang2 he2 de5 jie2 ri4 qi4 fen5
+
+100313 	位于#2市中心的#1钟楼#2和#1鼓楼#3相映#1成辉
+	位于_v#2 市中心_nl#0 的_u#1 钟楼_n#2 和_c#1 鼓楼_n#3 相映成辉_i#4
+	wei4 yv2 shi4 zhong1 xin1 de5 zhong1 lou2 he2 gu3 lou2 xiang1 ying4 cheng2 hui1
+
+100314 	引起#1周围#3众多#2豫剧#1爱好者的#3阵阵#1喝彩
+	引起_v#1 周围_nd#3 众多_m#2 豫剧_n#1 爱好者_n#0 的_u#3 阵阵_q#1 喝彩_v#4
+	yin2 qi3 zhou1 wei2 zhong4 duo1 yv4 jv4 ai4 hao4 zhe3 de5 zhen4 zhen4 he4 cai3
+
+100315 	冬季#2难得的#1阳光#3透过#1薄雾#3将#1重庆#1照耀得#3一片#1灿烂
+	冬季_nt#2 难得_a#0 的_u#1 阳光_n#3 透过_v#1 薄雾_n#3 将_p#1 重庆_ns#1 照耀_v#0 得_u#3 一_m#0 片_q#1 灿烂_a#4
+	dong1 ji4 nan2 de2 de5 yang2 guang1 tou4 guo4 bao2 wu4 jiang1 chong2 qing4 zhao4 yao4 de5 yi2 pian4 can4 lan4
+
+100316 	北京#1大学#3二十多个#1院系的#3一千多名#1大学生
+	北京大学_ni#3 二十_m#0 多_m#0 个_q#1 院_n#0 系_n#0 的_u#3 一千_m#0 多_m#0 名_q#1 大学生_n#4
+	bei3 jing1 da4 xve2 er4 shi2 duo1 ge5 yvan4 xi4 de5 yi4 qian1 duo1 ming2 da4 xve2 sheng1
+
+100317 	飞扬的#1青春#3昭示着#1祖国#2灿烂的#1明天
+	飞扬_v#0 的_u#1 青春_n#3 昭示_v#0 着_u#1 祖国_n#2 灿烂_a#0 的_u#1 明天_nt#4
+	fei1 yang2 de5 qing1 chun1 zhao1 shi4 zhe5 zu3 guo2 can4 lan4 de5 ming2 tian1
+
+100318 	挖掘#1整理#1出#3失传#1多年的#3临川#2民间#2地方#1曲调#4五部
+	挖掘_v#1 整理_v#1 出_v#3 失传_v#1 多年_m#0 的_u#3 临川_ns#2 民间_n#2 地方_n#1 曲调_n#4 五_m#0 部_q#4
+	wa1 jve2 zheng2 li3 chu1 shi1 chuan2 duo1 nian2 de5 lin2 chuan1 min2 jian1 di4 fang1 qv3 diao4 wu3 bu4
+
+100319 	第一次#1来到#2首都#1北京的#3五十多名#2香港#1大学生
+	第一_m#0 次_q#1 来到_v#2 首都_n#1 北京_ns#0 的_u#3 五十_m#0 多_m#0 名_q#2 香港_ns#1 大学生_n#4
+	di4 yi1 ci4 lai2 dao4 shou3 du1 bei3 jing1 de5 wu3 shi2 duo1 ming2 xiang1 gang3 da4 xve2 sheng1
+
+100320 	黑龙江省#3各级#1领导#3组成#1若干#2慰问#1小组
+	黑龙江省_ns#3 各级_r#1 领导_n#3 组成_v#1 若干_m#2 慰问_v#1 小组_n#4
+	hei1 long2 jiang1 sheng3 ge4 ji2 ling2 dao3 zu3 cheng2 ruo4 gan1 wei4 wen4 xiao2 zu3
+
+100321 	六十二岁的#1李升#3已患#2脑血栓#2瘫痪#1在床#3十二年
+	六十二_m#0 岁_q#0 的_u#1 李升_nh#3 已_d#0 患_v#2 脑血栓_n#2 瘫痪_v#1 在_p#0 床_n#3 十二_m#0 年_q#4
+	liu4 shi2 er4 sui4 de5 li3 sheng1 yi3 huan4 nao3 xve4 shuan1 tan1 huan4 zai4 chuang2 shi2 er4 nian2
+
+100322 	省长#2和#1下岗#1职工#3一起#1探讨#3择业#1观念的#1转变
+	省长_n#2 和_c#1 下岗_v#1 职工_n#3 一起_nl#1 探讨_v#3 择业_v#1 观念_n#0 的_u#1 转变_v#4
+	sheng2 zhang3 he2 xia4 gang3 zhi2 gong1 yi4 qi3 tan4 tao3 ze2 ye4 guan1 nian4 de5 zhuan3 bian4
+
+100323 	探讨#2如何#1多方面#3开辟#2就业#1渠道
+	探讨_v#2 如何_r#1 多_a#0 方面_n#3 开辟_v#2 就业_v#1 渠道_n#4
+	tan4 tao3 ru2 he2 duo1 fang1 mian4 kai1 pi4 jiu4 ye4 qv2 dao4
+
+100324 	共同#1度过了#3一个#1欢乐#2愉快的#1节日
+	共同_d#1 度过_v#0 了_u#3 一个_m#1 欢乐_a#2 愉快_a#0 的_u#1 节日_n#4
+	gong4 tong2 du4 guo4 le5 yi2 ge4 huan1 le4 yv2 kuai4 de5 jie2 ri4
+
+100325 	图为#2八达岭#3登山#1活动的#1场面
+	图_n#0 为_v#2 八达岭_ns#3 登山_v#1 活动_v#0 的_u#1 场面_n#4
+	tu2 wei2 ba1 da2 ling3 deng1 shan1 huo2 dong4 de5 chang3 mian4
+
+100326 	普遍#1在#2行业#1区县#2建立了#3再就业#2服务#1管理#1中心
+	普遍_a#1 在_p#2 行业_n#1 区_n#0 县_n#2 建立_v#0 了_u#3 再_d#0 就业_v#2 服务_v#1 管理_v#1 中心_n#4
+	pu3 bian4 zai4 hang2 ye4 qv1 xian4 jian4 li4 le5 zai4 jiu4 ye4 fu2 wu4 guan2 li3 zhong1 xin1
+
+100327 	满载#2捐赠#1物品的#1卡车#3披红#1挂彩
+	满载_v#2 捐赠_v#1 物品_n#0 的_u#1 卡车_n#3 披红挂彩_i#4
+	man3 zai4 jvan1 zeng4 wu4 pin3 de5 ka3 che1 pi1 hong2 gua4 cai3
+
+100328 	渤海#2和#1黄海#1大部#3有#2六级#1八级#2偏北风
+	渤海_ns#2 和_c#1 黄海_ns#1 大部_m#3 有_v#2 六_m#0 级_q#1 八_m#0 级_q#2 偏_a#0 北风_n#4
+	bo2 hai3 he2 huang2 hai3 da4 bu4 you3 liu4 ji2 ba1 ji2 pian1 bei3 feng1
+
+100329 	黄浦#1江畔的#3东方#1明珠#1电视塔#1前#3热闹#1非凡
+	黄浦江畔_ns#1 的_u#3 东方_nl#1 明珠_n#1 电视塔_n#1 前_nd#3 热闹非凡_i#4
+	huang2 pu3 jiang1 pan4 de5 dong1 fang1 ming2 zhu1 dian4 shi4 ta3 qian2 re4 nao4 fei1 fan2
+
+100330 	欢迎#2广大#2海外#1朋友#3来华#2游览#1观光
+	欢迎_v#2 广大_b#2 海外_nl#1 朋友_n#3 来华_v#2 游览_v#1 观光_v#4
+	huan1 ying2 guang3 da4 hai3 wai4 peng2 you5 lai2 hua2 you2 lan3 guan1 guang1
+
+100331 	领略#1一下#3中国的#2瑰丽#1风光#3和#1灿烂#1文化
+	领略_v#1 一下_m#3 中国_ns#0 的_u#2 瑰丽_z#1 风光_n#3 和_c#1 灿烂_a#1 文化_n#4
+	ling3 lve4 yi2 xia4 zhong1 guo2 de5 gui1 li4 feng1 guang1 he2 can4 lan4 wen2 hua4
+
+100332 	保持#1原有#3税制#1独立#1关税区#1地位#3和#1公务员#1制度#1等
+	保持_v#1 原有_v#3 税制_n#1 独立_v#1 关税区_nl#1 地位_n#3 和_c#1 公务员_n#1 制度_n#1 等_u#4
+	bao3 chi2 yvan2 you3 shui4 zhi4 du2 li4 guan1 shui4 qv1 di4 wei4 he2 gong1 wu4 yvan2 zhi4 du4 deng3
+
+100333 	报告#1重申了#2特区#1政府#3维持#1联系#2汇率#1制度的#1决心
+	报告_n#1 重申_v#0 了_u#2 特区_n#1 政府_n#3 维持_v#1 联系汇率_n#1 制度_n#0 的_u#1 决心_n#4
+	bao4 gao4 chong2 shen1 le5 te4 qv1 zheng4 fu3 wei2 chi2 lian2 xi4 hui4 lv4 zhi4 du4 de5 jve2 xin1
+
+100334 	澳门#2中文#1报纸#3纷纷#1发表#2社论#1评论
+	澳门_ns#2 中文_nz#1 报纸_n#3 纷纷_d#1 发表_v#2 社论_n#1 评论_v#4
+	ao4 men2 zhong1 wen2 bao4 zhi3 fen1 fen1 fa1 biao3 she4 lun4 ping2 lun4
+
+100335 	祝贺#1中国#3在#1过去的#1一年中#3取得的#2辉煌#1成就
+	祝贺_v#1 中国_ns#3 在_p#1 过去_nt#0 的_u#1 一_m#0 年_q#0 中_nd#3 取得_v#0 的_u#2 辉煌_a#1 成就_n#4
+	zhu4 he4 zhong1 guo2 zai4 guo4 qv4 de5 yi4 nian2 zhong1 qv3 de2 de5 hui1 huang2 cheng2 jiu4
+
+100336 	是#1中国#1人民#3无比#1喜悦#3开拓#2划时代#1事业的#3历史性#1年头
+	是_v#1 中国_ns#1 人民_n#3 无比_z#1 喜悦_a#3 开拓_v#2 划时代_b#1 事业_n#0 的_u#3 历史性_n#1 年头_n#4
+	shi4 zhong1 guo2 ren2 min2 wu2 bi2 xi3 yve4 kai1 tuo4 hua4 shi2 dai4 shi4 ye4 de5 li4 shi3 xing4 nian2 tou2
+
+100337 	香港#2中华#1总商会#3今天#1上午#3举行#2会员#1元旦#3团拜#1酒会
+	香港_ns#2 中华_nz#1 总商会_n#3 今天_nt#1 上午_nt#3 举行_v#2 会员_n#1 元旦_nt#3 团拜_v#1 酒会_n#4
+	xiang1 gang3 zhong1 hua2 zong3 shang1 hui4 jin1 tian1 shang4 wu3 jv3 xing2 hui4 yvan2 yvan2 dan4 tuan2 bai4 jiu3 hui4
+
+100338 	来自#1内地的#2羽毛球#1选手#3与#1香港#1市民#4举行#2友谊#1比赛
+	来自_v#1 内地_nl#0 的_u#2 羽毛球_n#1 选手_n#3 与_c#1 香港_ns#1 市民_n#4 举行_v#2 友谊_n#1 比赛_v#4
+	lai2 zi4 nei4 di4 de5 yv3 mao2 qiu2 xvan2 shou3 yv3 xiang1 gang3 shi4 min2 jv3 xing2 you3 yi4 bi3 sai4
+
+100339 	首都#2近#1万名#1群众#3来到#1八达岭#4攀登#1长城
+	首都_n#2 近_a#1 万_m#0 名_q#1 群众_n#3 来到_v#1 八达岭_ns#4 攀登_v#1 长城_ns#4
+	shou3 du1 jin4 wan4 ming2 qvn2 zhong4 lai2 dao4 ba1 da2 ling3 pan1 deng1 chang2 cheng2
+
+100340 	北京市#3各行#1各业的#2体育#1爱好者#4云集#1在#1这里
+	北京市_ns#3 各行各业_i#1 的_u#2 体育_n#1 爱好者_n#4 云集_v#1 在_p#1 这里_r#4
+	bei3 jing1 shi4 ge4 hang2 ge4 ye4 de5 ti3 yv4 ai4 hao4 zhe3 yvn2 ji2 zai4 zhe4 li3
+
+100341 	为#1海峡#1两岸的#3和平#1统一#3发挥了#2巨大的#3示范#1作用
+	为_p#1 海峡_n#1 两岸_n#0 的_u#3 和平_n#1 统一_v#3 发挥_v#0 了_u#2 巨大_a#0 的_u#3 示范_v#1 作用_n#4
+	wei4 hai3 xia2 liang3 an4 de5 he2 ping2 tong3 yi1 fa1 hui1 le5 jv4 da4 de5 shi4 fan4 zuo4 yong4
+
+100342 	正式#2结束#1两岸#3敌对#1状态#3进行#1谈判
+	正式_a#2 结束_v#1 两岸_n#3 敌对_a#1 状态_n#3 进行_v#1 谈判_v#4
+	zheng4 shi4 jie2 shu4 liang3 an4 di2 dui4 zhuang4 tai4 jin4 xing2 tan2 pan4
+
+100343 	重新#1开始#1两会#2经济性#3事务性#3议题的#1商谈
+	重新_d#1 开始_v#1 两会_j#2 经济性_n#3 事务性_n#3 议题_n#0 的_u#1 商谈_v#4
+	chong2 xin1 kai1 shi2 liang3 hui4 jing1 ji4 xing4 shi4 wu4 xing4 yi4 ti2 de5 shang1 tan2
+
+100344 	无人#2能#1阻挡#3春天#1脚步的#1临近
+	无_v#0 人_n#2 能_v#1 阻挡_v#3 春天_nt#1 脚步_n#0 的_u#1 临近_v#4
+	wu2 ren2 neng2 zu2 dang3 chun1 tian1 jiao3 bu4 de5 lin2 jin4
+
+100345 	日本#1有#2一千#2二百万亿#1日元的#3个人#1金融#1资产
+	日本_ns#1 有_v#2 一千二百万亿_m#1 日元_n#0 的_u#3 个人_n#1 金融_n#1 资产_n#4
+	ri4 ben2 you3 yi4 qian1 er4 bai3 wan4 yi4 ri4 yvan2 de5 ge4 ren2 jin1 rong2 zi1 chan3
+
+100346 	邻国#2经济#1增长#1速度#1放慢#4将对#1新加坡#3产生#1影响
+	邻国_n#2 经济_n#1 增长_v#1 速度_n#1 放慢_v#4 将_d#0 对_p#1 新加坡_ns#3 产生_v#1 影响_v#4
+	lin2 guo2 jing1 ji4 zeng1 zhang3 su4 du5 fang4 man4 jiang1 dui4 xin1 jia1 po1 chan3 sheng1 ying2 xiang3
+
+100347 	对#1新加坡#2保持#1信心#4是#1实现#1经济#1增长#3和#1繁荣的#1关键
+	对_p#1 新加坡_ns#2 保持_v#1 信心_n#4 是_v#1 实现_v#1 经济_n#1 增长_v#3 和_c#1 繁荣_a#0 的_u#1 关键_n#4
+	dui4 xin1 jia1 po1 bao3 chi2 xin4 xin1 shi4 shi2 xian4 jing1 ji4 zeng1 zhang3 he2 fan2 rong2 de5 guan1 jian4
+
+100348 	波兰#1人民#3应该#1为#1取得的#1成就#3感到#1自豪
+	波兰_ns#1 人民_n#3 应该_v#1 为_p#1 取得_v#0 的_u#1 成就_n#3 感到_v#1 自豪_a#4
+	bo1 lan2 ren2 min2 ying1 gai1 wei4 qv3 de2 de5 cheng2 jiu4 gan3 dao5 zi4 hao2
+
+100349 	刚果#1民政府#3将#1着手#1执行#3旨在#2为民#1造福的#3三年#1计划
+	刚果民_ns#1 政府_n#3 将_d#1 着手_v#1 执行_v#3 旨在_v#2 为民造福_i#1 的_u#3 三_m#0 年_q#1 计划_n#4
+	gang1 guo3 min2 zheng4 fu3 jiang1 zhuo2 shou3 zhi2 xing2 zhi3 zai4 wei4 min2 zao4 fu2 de5 san1 nian2 ji4 hua4
+
+100350 	华大使#3把#1一辆#2遥控#1太空车#3送给#1小客人
+	华_nh#0 大使_n#3 把_p#1 一_m#0 辆_q#2 遥控_v#1 太空车_n#3 送给_v#1 小_a#0 客人_n#4
+	hua2 da4 shi2 ba3 yi2 liang4 yao2 kong4 tai4 kong1 che1 song4 gei2 xiao3 ke4 ren5
+
+100351 	小家伙#2特别#1喜欢#3中国的#1孙悟空#4和#1葫芦娃#2小金刚
+	小家伙_n#2 特别_d#1 喜欢_v#3 中国_ns#0 的_u#1 孙悟空_nh#4 和_c#1 葫芦娃_nh#2 小_a#0 金刚_n#4
+	xiao3 jia1 huo5 te4 bie2 xi3 huan5 zhong1 guo2 de5 sun1 wu4 kong1 he2 hu2 lu5 wa2 xiao3 jin1 gang1
+
+100352 	还#1不时#1被#2各方#1来宾#3请去#2合影#1留念
+	还_d#1 不时_d#1 被_p#2 各方_r#1 来宾_n#3 请_v#0 去_v#2 合影_v#1 留念_v#4
+	hai2 bu4 shi2 bei4 ge4 fang1 lai2 bin1 qing3 qv4 he2 ying3 liu2 nian4
+
+100353 	天上#2正在#1下的#1这#1几滴#1雨水#4是#1一个#1大好的#1兆头
+	天上_nl#2 正在_d#1 下_v#0 的_u#1 这_r#1 几_m#0 滴_q#1 雨水_n#4 是_v#1 一个_m#1 大_a#0 好_a#0 的_u#1 兆头_n#4
+	tian1 shang5 zheng4 zai4 xia4 de5 zhe4 ji3 di1 yv2 shui3 shi4 yi2 ge5 da4 hao3 de5 zhao4 tou5
+
+100354 	他们的#1脸上#3漾出了#3灿烂的#1微笑
+	他们_r#0 的_u#1 脸上_nl#3 漾_v#0 出_v#0 了_u#3 灿烂_a#0 的_u#1 微笑_v#4
+	ta1 men5 de5 lian3 shang4 yang4 chu1 le5 can4 lan4 de5 wei1 xiao4
+
+100355 	就是#1他们#1顶住#3来自#2台湾#2当局的#1压力
+	就是_v#1 他们_r#1 顶住_v#3 来自_v#2 台湾_ns#2 当局_n#0 的_u#1 压力_n#4
+	jiu4 shi4 ta1 men5 ding3 zhu4 lai2 zi4 tai2 wan1 dang1 jv2 de5 ya1 li4
+
+100356 	来自#1各方的#3贺电#1贺信#4如#1雪片般#3飞向#2中国#1大使馆
+	来自_v#1 各方_r#0 的_u#3 贺电_n#1 贺信_n#4 如_p#1 雪片_n#0 般_u#3 飞_v#0 向_p#2 中国_ns#1 大使馆_n#4
+	lai2 zi4 ge4 fang1 de5 he4 dian4 he4 xin4 ru2 xve3 pian4 ban1 fei1 xiang4 zhong1 guo2 da4 shi2 guan3
+
+100357 	南非#2华人#1华侨#3今晚#2在#1此间#1举行了#3庆祝#1联欢#1晚会
+	南非_ns#2 华人_n#1 华侨_n#3 今晚_nt#2 在_p#1 此间_r#1 举行_v#0 了_u#3 庆祝_v#1 联欢_v#1 晚会_n#4
+	nan2 fei1 hua2 ren2 hua2 qiao2 jin1 wan3 zai4 ci3 jian1 jv3 xing2 le5 qing4 zhu4 lian2 huan1 wan3 hui4
+
+100358 	这#1再次#1表明#3台湾#1当局的#1分裂#1活动#4是#1没有#1出路的
+	这_r#1 再次_d#1 表明_v#3 台湾_ns#1 当局_n#0 的_u#1 分裂_v#1 活动_v#4 是_v#1 没有_v#1 出路_n#0 的_u#4
+	zhe4 zai4 ci4 biao3 ming2 tai2 wan1 dang1 jv2 de5 fen1 lie4 huo2 dong4 shi4 mei2 you3 chu1 lu4 de5
+
+100359 	确保#2发展中#1国家#3与#1发达#1国家#2之间的#3适当#1平衡
+	确保_v#2 发展中国家_i#3 与_p#1 发达国家_i#2 之间_nd#0 的_u#3 适当_a#1 平衡_a#4
+	qve4 bao3 fa1 zhan3 zhong1 guo2 jia1 yv3 fa1 da2 guo2 jia1 zhi1 jian1 de5 shi4 dang4 ping2 heng2
+
+100360 	一百#1毫米#1以上#2口径的#1火炮#4二十四式#2战斗#1直升机
+	一百_m#1 毫米_q#1 以上_nd#2 口径_n#0 的_u#1 火炮_n#4 二十四式_b#2 战斗_v#1 直升机_n#4
+	yi4 bai3 hao2 mi2 yi3 shang4 kou3 jing4 de5 huo3 pao4 er4 shi2 si4 shi4 zhan4 dou4 zhi2 sheng1 ji1
+
+100361 	边防军#1改组#3以#1不损害#2其#1战斗力#3为#1前提
+	边防军_n#1 改组_v#3 以_p#1 不_d#0 损害_v#2 其_r#1 战斗力_n#3 为_v#1 前提_n#4
+	bian1 fang2 jvn1 gai2 zu3 yi3 bu4 sun3 hai4 qi2 zhan4 dou4 li4 wei2 qian2 ti2
+
+100362 	并#2允许#1外国#1银行#3在#1印尼#2国营#1银行中#2参股
+	并_c#2 允许_v#1 外国_n#1 银行_n#3 在_p#1 印尼_ns#2 国营_b#1 银行_n#0 中_nd#2 参股_v#4
+	bing4 yvn2 xv3 wai4 guo2 yin2 hang2 zai4 yin4 ni2 guo2 ying2 yin2 hang2 zhong1 can1 gu3
+
+100363 	其#1原理#1是#3利用#1激光束#3俘获#1原子#4以#1减缓#1其#1运行#1速度
+	其_r#1 原理_n#1 是_v#3 利用_v#1 激光束_n#3 俘获_v#1 原子_n#4 以_c#1 减缓_v#1 其_r#1 运行_v#1 速度_n#4
+	qi2 yvan2 li3 shi4 li4 yong4 ji1 guang1 shu4 fu2 huo4 yvan2 zi3 yi2 jian2 huan3 qi2 yvn4 xing2 su4 du5
+
+100364 	这种#1探索#3终于#1开始#1摆脱#3钻#1牛角尖的#1困窘
+	这种_r#1 探索_v#3 终于_d#1 开始_v#1 摆脱_v#3 钻牛角尖_i#1 的_u#1 困窘_a#4
+	zhe4 zhong3 tan4 suo3 zhong1 yv2 kai1 shi2 bai3 tuo1 zuan1 niu2 jiao3 jian1 de5 kun4 jiong3
+
+100365 	正是#1这#3牵挂着#1炎黄#1子孙的#3历史#1巨变
+	正是_v#1 这_r#3 牵挂_v#0 着_u#1 炎黄子孙_n#1 的_u#3 历史_n#1 巨变_v#4
+	zheng4 shi4 zhe4 qian1 gua4 zhe5 yan2 huang2 zi3 sun1 de5 li4 shi3 jv4 bian4
+
+100366 	没有#1停留#1在#2一种#3创作#1方向的#2取舍上
+	没有_d#1 停留_v#1 在_p#2 一_m#0 种_q#3 创作_v#1 方向_n#0 的_u#2 取舍_v#0 上_nd#4
+	mei2 you3 ting2 liu2 zai4 yi4 zhong3 chuang4 zuo4 fang1 xiang4 de5 qv2 she3 shang4
+
+100367 	甚至#1还有#3秦始皇#1统一#1中国的#3浩荡#1军队
+	甚至_d#1 还有_v#3 秦始皇_nh#1 统一_v#1 中国_ns#0 的_u#3 浩荡_a#1 军队_n#4
+	shen4 zhi4 hai2 you3 qin2 shi3 huang2 tong3 yi1 zhong1 guo2 de5 hao4 dang4 jvn1 dui4
+
+100368 	有#1中英#1签订#2南京#1条约的#3悲惨#1一页
+	有_v#1 中_j#0 英_j#1 签订_v#2 南京_ns#1 条约_n#0 的_u#3 悲惨_a#1 一_m#0 页_q#4
+	you3 zhong1 ying1 qian1 ding4 nan2 jing1 tiao2 yve1 de5 bei1 can3 yi2 ye4
+
+100369 	建立了#2比较#1完整的#3美术#1理论#1体系
+	建立_v#0 了_u#2 比较_d#1 完整_a#0 的_u#3 美术_n#1 理论_n#1 体系_n#4
+	jian4 li4 le5 bi3 jiao4 wan2 zheng3 de5 mei3 shu4 li3 lun4 ti3 xi4
+
+100370 	孙先生#2十分#1重视#3中国#1书画的#3笔墨#1神韵
+	孙_nh#0 先生_n#2 十分_m#1 重视_v#3 中国_ns#1 书画_n#0 的_u#3 笔墨_n#1 神韵_n#4
+	sun1 xian1 sheng5 shi2 fen1 zhong4 shi4 zhong1 guo2 shu1 hua4 de5 bi3 mo4 shen2 yvn4
+
+100371 	在#1书法#2篆刻#1治印上#3他有#1扎实#1深厚的#2基本功
+	在_p#1 书法_n#2 篆刻_n#1 治_v#0 印_j#0 上_v#3 他_r#0 有_v#1 扎实_a#1 深厚_a#0 的_u#2 基本功_n#4
+	zai4 shu1 fa3 zhuan4 ke4 zhi4 yin4 shang5 ta1 you3 zha1 shi2 shen1 hou4 de5 ji1 ben3 gong1
+
+100372 	宁夏#1目前#3仍有#2数十万人#3处在#2贫困线#1以下
+	宁夏_ns#1 目前_nt#3 仍_d#0 有_v#2 数十万_m#0 人_n#3 处在_v#2 贫困线_n#1 以下_nd#4
+	ning2 xia4 mu4 qian2 reng2 you3 shu4 shi2 wan4 ren2 chu3 zai4 pin2 kun4 xian4 yi3 xia4
+
+100373 	农业#1产业化#3是#1实现#2脱贫#1致富的#3有效#1途径
+	农业_n#1 产业化_v#3 是_v#1 实现_v#2 脱贫致富_i#1 的_u#3 有效_a#1 途径_n#4
+	nong2 ye4 chan3 ye4 hua4 shi4 shi2 xian4 tuo1 pin2 zhi4 fu4 de5 you3 xiao4 tu2 jing4
+
+100374 	形成了#2特点#1各异#3形式#1多样的#3产业化#1格局
+	形成_v#0 了_u#2 特点_n#1 各异_z#3 形式_n#1 多样_m#0 的_u#3 产业化_v#1 格局_n#4
+	xing2 cheng2 le5 te4 dian3 ge4 yi4 xing2 shi4 duo1 yang4 de5 chan3 ye4 hua4 ge2 jv2
+
+100375 	最大的#2蔬菜#1批发#1市场#3吸引了#3十几个#1省区的#1客商
+	最_d#0 大_a#0 的_u#2 蔬菜_n#1 批发_v#1 市场_n#3 吸引_v#0 了_u#3 十几_m#0 个_q#1 省区_n#0 的_u#1 客商_n#4
+	zui4 da4 de5 shu1 cai4 pi1 fa1 shi4 chang3 xi1 yin3 le5 shi2 ji3 ge5 sheng3 qv1 de5 ke4 shang1
+
+100376 	也#1带动了#2水产业#3养殖业#3等#2其它#1产业的#1兴起
+	也_d#1 带动_v#0 了_u#2 水产业_n#3 养殖业_n#3 等_u#2 其它_r#1 产业_n#0 的_u#1 兴起_v#4
+	ye3 dai4 dong4 le5 shui2 chan3 ye4 yang3 zhi2 ye4 deng3 qi2 ta1 chan3 ye4 de5 xing1 qi3
+
+100377 	加速了#2经济#1结构的#1优化#4和#1区域#1经济#2优势的#1形成
+	加速_v#0 了_u#2 经济_n#1 结构_n#0 的_u#1 优化_v#4 和_c#1 区域_n#1 经济_n#2 优势_n#0 的_u#1 形成_v#4
+	jia1 su4 le5 jing1 ji4 jie2 gou4 de5 you1 hua4 he2 qv1 yv4 jing1 ji4 you1 shi4 de5 xing2 cheng2
+
+100378 	提高了#2农户#1生产的#3组织化#1程度
+	提高_v#0 了_u#2 农户_n#1 生产_v#0 的_u#3 组织化_v#1 程度_n#4
+	ti2 gao1 le5 nong2 hu4 sheng1 chan3 de5 zu3 zhi1 hua4 cheng2 du4
+
+100379 	推动了#3农业#1科技的#1发展#2与#1进步
+	推动_v#0 了_u#3 农业_n#1 科技_n#0 的_u#1 发展_v#2 与_c#1 进步_v#4
+	tui1 dong4 le5 nong2 ye4 ke1 ji4 de5 fa1 zhan2 yv3 jin4 bu4
+
+100380 	去年#3这里#1农民#2纯收入#3达到#2一千#1九百#2八十六元
+	去年_nt#3 这里_r#1 农民_n#2 纯收入_n#3 达到_v#2 一千九百八十六_m#2 元_q#4
+	qv4 nian2 zhe4 li3 nong2 min2 chun2 shou1 ru4 da2 dao4 yi4 qian1 jiu2 bai3 ba1 shi2 liu4 yvan2
+
+100381 	九十多岁的#1奶奶#3身体#1不太好
+	九十_m#0 多_m#0 岁_q#0 的_u#1 奶奶_n#3 身体_n#1 不_d#0 太_d#0 好_a#4
+	jiu3 shi2 duo1 sui4 de5 nai3 nai5 shen1 ti3 bu2 tai4 hao3
+
+100382 	陪我#1前往的#3还有#1爸爸#2生前#1收养的#1男孩#4曲印
+	陪_v#0 我_r#1 前往_v#0 的_u#3 还有_v#1 爸爸_n#2 生前_nt#1 收养_v#0 的_u#1 男孩_n#4 曲印_nh#4
+	pei2 wo3 qian2 wang3 de5 hai2 you3 ba4 ba5 sheng1 qian2 shou1 yang3 de5 nan2 hai2 qv1 yin4
+
+100383 	我#1明白了#3怎样#2才能#1实现#2人生的#3真正#1价值
+	我_r#1 明白_v#0 了_u#3 怎样_r#2 才_d#0 能_v#1 实现_v#2 人生_n#0 的_u#3 真正_b#1 价值_n#4
+	wo3 ming2 bai5 le5 zen3 yang4 cai2 neng2 shi2 xian4 ren2 sheng1 de5 zhen1 zheng4 jia4 zhi2
+
+100384 	孔玲的#1话#3引起了#2丁玉珍#3胡花蕊的#1共鸣
+	孔玲_nh#0 的_u#1 话_n#3 引起_v#0 了_u#2 丁玉珍_nh#3 胡花蕊_nh#0 的_u#1 共鸣_v#4
+	kong3 ling2 de5 hua4 yin2 qi3 le5 ding1 yv4 zhen1 hu2 hua1 rui3 de5 gong4 ming2
+
+100385 	垦区#1突破了#2产权#1界限#4工资#1界限
+	垦区_n#1 突破_v#0 了_u#2 产权_n#1 界限_n#4 工资_n#1 界限_n#4
+	ken3 qv1 tu1 po4 le5 chan3 qvan2 jie4 xian4 gong1 zi1 jie4 xian4
+
+100386 	家庭#1农场#3投入#2生产#1费用#3四十#1八点#2七亿元
+	家庭_n#1 农场_n#3 投入_v#2 生产_v#1 费用_n#3 四十八点七亿_m#2 元_q#4
+	jia1 ting2 nong2 chang3 tou2 ru4 sheng1 chan3 fei4 yong4 si4 shi2 ba1 dian3 qi1 yi4 yvan2
+
+100387 	以#1加快#2结构#1调整#3和#1科技#1进步#3为#1重点
+	以_p#1 加快_v#2 结构_n#1 调整_v#3 和_c#1 科技_n#1 进步_v#3 为_v#1 重点_n#4
+	yi3 jia1 kuai4 jie2 gou4 tiao2 zheng3 he2 ke1 ji4 jin4 bu4 wei2 zhong4 dian3
+
+100388 	提高#2人民#2生活#1质量的#3城市#1交通#2综合#1整治#1工程
+	提高_v#2 人民_n#2 生活_v#1 质量_n#0 的_u#3 城市_n#1 交通_n#2 综合_v#1 整治_v#1 工程_n#4
+	ti2 gao1 ren2 min2 sheng1 huo2 zhi4 liang4 de5 cheng2 shi4 jiao1 tong1 zong1 he2 zheng3 zhi4 gong1 cheng2
+
+100389 	重庆#1市区#2主干道#3基本#1做到了#3人车#1分流
+	重庆_ns#1 市区_nl#2 主干道_n#3 基本_a#1 做到_v#0 了_u#3 人_n#0 车_n#1 分流_v#4
+	chong2 qing4 shi4 qv1 zhu3 gan4 dao4 ji1 ben3 zuo4 dao4 le5 ren2 che1 fen1 liu2
+
+100390 	出台了#1关于#3进一步#1加强#3主城区#2道路#1交通#3管理的#1通告
+	出台_v#0 了_u#1 关于_p#3 进一步_d#1 加强_v#3 主城区_n#2 道路_n#1 交通_n#3 管理_v#0 的_u#1 通告_n#4
+	chu1 tai2 le5 guan1 yv2 jin4 yi2 bu4 jia1 qiang2 zhu3 cheng2 qv1 dao4 lu4 jiao1 tong1 guan2 li3 de5 tong1 gao4
+
+100391 	整顿了#1一些#1大客车#3和#1中巴#4争抢#1客人#4随意#1停车
+	整顿_v#0 了_u#1 一些_m#1 大客车_n#3 和_c#1 中巴_n#4 争_v#0 抢_v#1 客人_n#4 随意_a#1 停车_v#4
+	zheng3 dun4 le5 yi4 xie1 da4 ke4 che1 he2 zhong1 ba1 zheng1 qiang3 ke4 ren5 sui2 yi4 ting2 che1
+
+100392 	记者#1驾车#3在#2深圳的#3几条#1主干道上#4缓缓#1行驶
+	记者_n#1 驾车_v#3 在_p#2 深圳_ns#0 的_u#3 几_m#0 条_q#1 主干道_n#0 上_nd#4 缓缓_d#1 行驶_v#4
+	ji4 zhe3 jia4 che1 zai4 shen1 zhen4 de5 ji3 tiao2 zhu3 gan1 dao4 shang4 huan2 huan3 xing2 shi3
+
+100393 	默默地#2注视着#3潮水般的#1车流
+	默默_d#0 地_u#2 注视_v#0 着_u#3 潮水_n#0 般_u#0 的_u#1 车流_n#4
+	mo4 mo4 de5 zhu4 shi4 zhe5 chao2 shui3 ban1 de5 che1 liu2
+
+100394 	市#1公安#2交通#2管理局#1局长#4刘志娇#2告诉#1记者
+	市_n#1 公安_n#2 交通_n#2 管理局_n#1 局长_n#4 刘志娇_nh#2 告诉_v#1 记者_n#4
+	shi4 gong1 an1 jiao1 tong1 guan2 li3 jv2 jv2 zhang3 liu2 zhi4 jiao1 gao4 su4 ji4 zhe3
+
+100395 	电子#1警察#2露脸#4近#1八个月来
+	电子_n#1 警察_n#2 露脸_v#4 近_a#1 八_m#0 个_q#0 月_n#0 来_nd#4
+	dian4 zi2 jing3 cha2 lou4 lianr3 jin4 ba1 ge5 yve4 lai2
+
+100396 	以#1科学的#1态度#3搜集#2整理#1出版#4藏文#1古籍
+	以_p#1 科学_a#0 的_u#1 态度_n#3 搜集_v#2 整理_v#1 出版_v#4 藏文_nz#1 古籍_n#4
+	yi3 ke1 xve2 de5 tai4 du4 sou1 ji2 zheng2 li3 chu1 ban3 zang4 wen2 gu3 ji2
+
+100397 	出版社#2还#1搜集了#3大量的#2文献#1资料
+	出版社_n#2 还_d#1 搜集_v#0 了_u#3 大量_m#0 的_u#2 文献_n#1 资料_n#4
+	chu1 ban3 she4 hai2 sou1 ji2 le5 da4 liang4 de5 wen2 xian4 zi1 liao4
+
+100398 	获得#1全国#3及#1国家#1各类#1图书奖#3共#1八项
+	获得_v#1 全国_n#3 及_c#1 国家_n#1 各类_r#1 图书奖_n#3 共_d#1 八_m#0 项_q#4
+	huo4 de2 qvan2 guo2 ji2 guo2 jia1 ge4 lei4 tu2 shu1 jiang3 gong4 ba1 xiang4
+
+100399 	其中#2西藏#1通史#3采用#2藏文#1古籍#3第一手#1资料
+	其中_r#2 西藏_ns#1 通史_n#3 采用_v#2 藏文_nz#1 古籍_n#3 第一手_b#1 资料_n#4
+	qi2 zhong1 xi1 zang4 tong1 shi3 cai3 yong4 zang4 wen2 gu3 ji2 di4 yi1 shou3 zi1 liao4
+
+100400 	这一#1工作#3得到了#1许多#2寺院#3高僧#1大德的#3支持#2和#1帮助
+	这_r#0 一_m#1 工作_v#3 得到_v#0 了_u#1 许多_m#2 寺院_n#3 高僧_n#1 大德_n#0 的_u#3 支持_v#2 和_c#1 帮助_v#4
+	zhe4 yi2 gong1 zuo4 de2 dao4 le5 xv3 duo1 si4 yvan4 gao1 seng1 da4 de2 de5 zhi1 chi2 he2 bang1 zhu4
+
+100401 	多年来#3人均#1收入#2徘徊#1在#3一二百元#1之间
+	多_a#0 年_q#0 来_nd#3 人均收入_n#2 徘徊_v#1 在_p#3 一二百_m#0 元_q#1 之间_nd#4
+	duo1 nian2 lai2 ren2 jvn1 shou1 ru4 pai2 huai2 zai4 yi1 er4 bai3 yvan2 zhi1 jian1
+
+100402 	为#2独生#1子女户#4双女#2结扎户#4优先#2机修#1梯田
+	为_p#2 独生子女户_n#4 双_m#0 女_n#2 结扎户_n#4 优先_v#2 机修_v#1 梯田_n#4
+	wei4 du2 sheng1 zi2 nv3 hu4 shuang1 nv3 jie2 za1 hu4 you1 xian1 ji1 xiu1 ti1 tian2
+
+100403 	平川#1乡镇#3以#1发展#2村办#1企业#3和#1种植业#1为主
+	平川_n#1 乡镇_n#3 以_p#1 发展_v#2 村办_v#1 企业_n#3 和_c#1 种植业_n#1 为主_v#4
+	ping2 chuan1 xiang1 zhen4 yi3 fa1 zhan3 cun1 ban4 qi3 ye4 he2 zhong4 zhi2 ye4 wei2 zhu3
+
+100404 	优先#1向#2计划#1生育户#3提供#2低息#1支农#1资金#3和#1贷款
+	优先_v#1 向_p#2 计划生育户_n#3 提供_v#2 低息_n#1 支农_v#1 资金_n#3 和_c#1 贷款_n#4
+	you1 xian1 xiang4 ji4 hua4 sheng1 yv4 hu4 ti2 gong1 di1 xi1 zhi1 nong2 zi1 jin1 he2 dai4 kuan3
+
+100405 	免费#1负责#3科学#1技术#2文化#1知识的#1传授
+	免费_v#1 负责_v#3 科学技术_n#2 文化_n#1 知识_n#0 的_u#1 传授_v#4
+	mian3 fei4 fu4 ze2 ke1 xve2 ji4 shu5 wen2 hua4 zhi1 shi5 de5 chuan2 shou4
+
+100406 	实行#2计划#1生育#3自我#1服务#4自我#1管理
+	实行_v#2 计划生育_i#3 自我_r#1 服务_v#4 自我_r#1 管理_v#4
+	shi2 xing2 ji4 hua4 sheng1 yv4 zi4 wo3 fu2 wu4 zi4 wo3 guan2 li3
+
+100407 	贷款#1八千元#3帮带#2三户#1计划#1生育#1特困户#4发展#1养猪
+	贷款_n#1 八千_m#0 元_q#3 帮带_v#2 三_m#0 户_q#1 计划生育_i#1 特困户_n#4 发展_v#1 养猪_v#4
+	dai4 kuan3 ba1 qian1 yvan2 bang1 dai4 san1 hu4 ji4 hua4 sheng1 yv4 te4 kun4 hu4 fa1 zhan2 yang3 zhu1
+
+100408 	干净的#1庭院里#3摆放着#1常绿的#1盆景
+	干净_a#0 的_u#1 庭院_n#0 里_nd#3 摆放_v#0 着_u#1 常_d#0 绿_a#0 的_u#1 盆景_n#4
+	gan1 jing4 de5 ting2 yvan4 li3 bai3 fang4 zhe5 chang2 lv4 de5 pen2 jing3
+
+100409 	美人蕉#3月季花#3点染着#2寂静的#1角落
+	美人_n#0 蕉月_nt#3 季花_n#3 点染_v#0 着_u#2 寂静_a#0 的_u#1 角落_n#4
+	mei3 ren2 jiao1 yve4 ji4 hua1 dian2 ran3 zhe5 ji4 jing4 de5 jiao3 luo4
+
+100410 	村民的#1生活#1水平#3也#1有了#1显著的#1提高
+	村民_n#0 的_u#1 生活_v#1 水平_n#3 也_d#1 有_v#0 了_u#1 显著_a#0 的_u#1 提高_v#4
+	cun1 min2 de5 sheng1 huo2 shui3 ping2 ye2 you3 le5 xian3 zhu4 de5 ti2 gao1
+
+100411 	统一#1收购#1村民#3造房#1剩余的#3砖瓦#1材料
+	统一_a#1 收购_v#1 村民_n#3 造_v#0 房_n#1 剩余_v#0 的_u#3 砖瓦_n#1 材料_n#4
+	tong3 yi1 shou1 gou4 cun1 min2 zao4 fang2 sheng4 yv2 de5 zhuan1 wa3 cai2 liao4
+
+100412 	工程#1概算#1总投资#4二十#1二点#1八亿元#2人民币
+	工程_n#1 概算_n#1 总_d#0 投资_v#4 二十二点八亿_m#1 元_q#2 人民币_n#4
+	gong1 cheng2 gai4 suan4 zong3 tou2 zi1 er4 shi2 er4 dian3 ba1 yi4 yvan2 ren2 min2 bi4
+
+100413 	日前#1通过#3国家#1验收#1委员会#2审验
+	日前_nt#1 通过_v#3 国家_n#1 验收_v#1 委员会_n#2 审验_v#4
+	ri4 qian2 tong1 guo4 guo2 jia1 yan4 shou1 wei3 yvan2 hui4 shen3 yan4
+
+100414 	再现了#3在#1收复#1台湾#3这一#1大的#2历史#1背景下
+	再现_v#0 了_u#3 在_p#1 收复_v#1 台湾_ns#3 这_r#0 一_m#1 大_a#0 的_u#2 历史_n#1 背景_n#0 下_nd#4
+	zai4 xian4 le5 zai4 shou1 fu4 tai2 wan1 zhe4 yi2 da4 de5 li4 shi3 bei4 jing3 xia4
+
+100415 	郑成功#3与其#1下属#2施琅的#3关系#1冲突
+	郑成功_nh#3 与其_c#1 下属_v#2 施琅_nh#0 的_u#3 关系_n#1 冲突_v#4
+	zheng4 cheng2 gong1 yv3 qi2 xia4 shu3 shi1 lang2 de5 guan1 xi4 chong1 tu5
+
+100416 	一九#1九八#1年度的#3人民#1日报#4完成#2百分之#3一百点#1六二
+	一九九八_m#1 年度_n#0 的_u#3 人民日报_nz#4 完成_v#2 百分之一百点六二_m#4
+	yi1 jiu2 jiu3 ba1 nian2 du4 de5 ren2 min2 ri4 bao4 wan2 cheng2 bai3 fen1 zhi1 yi4 bai2 dian3 liu4 er4
+
+100417 	八一#1飞行#1表演队#3组建于#2一九#1六二年
+	八一_nt#1 飞行_v#1 表演队_n#3 组建_v#0 于_p#2 一九六二年_nt#4
+	ba1 yi1 fei1 xing2 biao2 yan3 dui4 zu3 jian4 yv2 yi1 jiu3 liu4 er4 nian2
+
+100418 	队党委#2连续#1十五年#3被#1评为#2先进#1党委
+	队_n#0 党委_n#2 连续_a#1 十五_m#0 年_q#3 被_p#1 评为_v#2 先进_a#1 党委_n#4
+	dui4 dang2 wei3 lian2 xv4 shi2 wu3 nian2 bei4 ping2 wei2 xian1 jin4 dang2 wei3
+
+100419 	涌现出#3一百#2七十多名#3功臣#1模范
+	涌现_v#0 出_v#3 一百七十_m#2 多_m#0 名_q#3 功臣_n#1 模范_n#4
+	yong3 xian4 chu1 yi4 bai3 qi1 shi2 duo1 ming2 gong1 chen2 mo2 fan4
+
+100420 	兼并#2涉及的#1领域#2和#1规模#4与#1以前#1相比#3都#1有所#1扩大
+	兼并_v#2 涉及_v#0 的_u#1 领域_n#2 和_c#1 规模_n#4 与_p#1 以前_nd#1 相比_v#3 都_d#1 有所_v#1 扩大_v#4
+	jian1 bing4 she4 ji2 de5 ling3 yv4 he2 gui1 mo2 yv2 yi3 qian2 xiang1 bi3 dou1 you2 suo3 kuo4 da4
+
+100421 	这一#2兼并#1浪潮#3大大#1推动了#3全球化#1经营
+	这_r#0 一_m#2 兼并_v#1 浪潮_n#3 大大_d#1 推动_v#0 了_u#3 全球化_v#1 经营_v#4
+	zhe4 yi2 jian1 bing4 lang4 chao2 da4 da4 tui1 dong4 le5 qvan2 qiu2 hua4 jing1 ying2
+
+100422 	是由#2称为#3米兰#1望台的#1组织#2发起的
+	是_v#0 由_p#2 称为_v#3 米兰_ns#1 望台_n#0 的_u#1 组织_n#2 发起_v#0 的_u#4
+	shi4 you2 cheng1 wei2 mi3 lan2 wang4 tai2 de5 zu3 zhi1 fa1 qi3 de5
+
+100423 	当地#1报纸#3援引#2菲#1卫生部的#3一份#1报告#1说
+	当地_nl#1 报纸_n#3 援引_v#2 菲_j#1 卫生部_ni#0 的_u#3 一_m#0 份_q#1 报告_n#1 说_v#4
+	dang1 di4 bao4 zhi3 yvan2 yin3 fei1 wei4 sheng1 bu4 de5 yi2 fen4 bao4 gao4 shuo1
+
+100424 	由于#1政府#3提倡#2停止#1燃放#3烟花#1爆竹
+	由于_c#1 政府_n#3 提倡_v#2 停止_v#1 燃放_v#3 烟花_n#1 爆竹_n#4
+	you2 yv2 zheng4 fu3 ti2 chang4 ting2 zhi3 ran2 fang4 yan1 hua1 bao4 zhu2
+
+100425 	今年#1元旦的#1受伤#1人数#3比#1前两年#3有所#1减少
+	今年_nt#1 元旦_nt#0 的_u#1 受伤_v#1 人数_n#3 比_p#1 前_nd#0 两_m#0 年_q#3 有所_v#1 减少_v#4
+	jin1 nian2 yvan2 dan4 de5 shou4 shang1 ren2 shu4 bi3 qian2 liang3 nian2 you2 suo3 jian2 shao3
+
+100426 	致使#2新年#1前夜#4马尼拉#1能见度#3几乎#2降低#1为零
+	致使_v#2 新年_nt#1 前夜_nt#4 马尼拉_ns#1 能见度_n#3 几乎_d#2 降低_v#1 为_v#0 零_m#4
+	zhi4 shi3 xin1 nian2 qian2 ye4 ma3 ni2 la1 neng2 jian4 du4 ji1 hu1 jiang4 di1 wei2 ling2
+
+100427 	继而#2急速#1波及#2马来#1西亚#4印度#1尼西亚#4和#1菲律宾
+	继而_c#2 急速_z#1 波及_v#2 马来西亚_ns#4 印度尼西亚_ns#4 和_c#1 菲律宾_ns#4
+	ji4 er2 ji2 su4 bo1 ji2 ma3 lai2 xi1 ya4 yin4 du4 ni2 xi1 ya4 he2 fei1 lv4 bin1
+
+100428 	不得不#1忍痛#3向#2国际#1货币#3基金#1组织#1求援
+	不得不_d#1 忍痛_d#3 向_p#2 国际_n#1 货币_n#3 基金_n#1 组织_n#1 求援_v#4
+	bu4 de2 bu4 ren3 tong4 xiang4 guo2 ji4 huo4 bi4 ji1 jin1 zu3 zhi5 qiu2 yvan2
+
+100429 	韩国#1背着#3一千#1一百亿#1美元的#3外债#1包袱
+	韩国_ns#1 背着_v#3 一千一百亿_m#1 美元_q#0 的_u#3 外债_n#1 包袱_n#4
+	han2 guo2 bei1 zhe5 yi4 qian1 yi1 bai3 yi4 mei3 yvan2 de5 wai4 zhai4 bao1 fu5
+
+100430 	当年#2援救#1睦邻#2墨西哥时#4就曾在#1国会#3遇到#2强大#1阻力
+	当年_nt#2 援救_v#1 睦邻_n#2 墨西哥_ns#0 时_n#4 就_d#0 曾_d#0 在_p#1 国会_n#3 遇到_v#2 强大_a#1 阻力_n#4
+	dang1 nian2 yvan2 jiu4 mu4 lin2 mo4 xi1 ge1 shi2 jiu4 ceng2 zai4 guo2 hui4 yv4 dao4 qiang2 da4 zu3 li4
+
+100431 	显然#3束缚了#2克林顿#1政府的#1手脚
+	显然_a#3 束缚_v#0 了_u#2 克林顿_nh#1 政府_n#0 的_u#1 手脚_n#4
+	xian3 ran2 shu4 fu4 le5 ke4 lin2 dun4 zheng4 fu3 de5 shou2 jiao3
+
+100432 	政府#2采取#2这一#1措施#4是#1必要的
+	政府_n#2 采取_v#2 这_r#0 一_m#1 措施_n#4 是_v#1 必要_a#0 的_u#4
+	zheng4 fu3 cai2 qv3 zhe4 yi2 cuo4 shi1 shi4 bi4 yao4 de5
+
+100433 	休眠#2户头的#1主人#3不再#1具有#3追索#1存款的#1权利
+	休眠_v#2 户头_n#0 的_u#1 主人_n#3 不再_d#1 具有_v#3 追索_v#1 存款_n#0 的_u#1 权利_n#4
+	xiu1 mian2 hu4 tou2 de5 zhu3 ren2 bu2 zai4 jv4 you3 zhui1 suo3 cun2 kuan3 de5 qvan2 li4
+
+100434 	经由#2美国#1中东#1协调员#3罗斯的#1斡旋
+	经由_p#2 美国_ns#1 中东_ns#1 协调员_n#3 罗斯_nh#0 的_u#1 斡旋_v#4
+	jing1 you2 mei3 guo2 zhong1 dong1 xie2 tiao2 yvan2 luo2 si1 de5 wo4 xvan2
+
+100435 	以色列#2已经#1拟定了#4有限#1撤军#2计划
+	以色列_ns#2 已经_d#1 拟定_v#0 了_u#4 有限_a#1 撤军_v#2 计划_n#4
+	yi3 se4 lie4 yi3 jing1 ni3 ding4 le5 you3 xian4 che4 jvn1 ji4 hua4
+
+100436 	俄#1发行#2新版#1卢布#4取代#2前苏联#2流通的#2卢布
+	俄_j#1 发行_v#2 新版_b#1 卢布_n#4 取代_v#2 前_nd#0 苏联_ns#2 流通_v#0 的_u#2 卢布_n#4
+	e2 fa1 xing2 xin1 ban3 lu2 bu4 qv3 dai4 qian2 su1 lian2 liu2 tong1 de5 lu2 bu4
+
+100437 	导致#2大多数#1老百姓#3对#1货币#1改值#4心有#1余悸
+	导致_v#2 大多数_m#1 老百姓_n#3 对_p#1 货币_n#1 改_v#0 值_n#4 心有余悸_i#4
+	dao3 zhi4 da4 duo1 shu4 lao2 bai3 xing4 dui4 huo4 bi4 gai3 zhi2 xin1 you3 yv2 ji4
+
+100438 	并#1留出#1充裕的#1时间#4使#1居民#2可#1从容地#3兑换#1新币
+	并_c#1 留_v#0 出_v#1 充裕_a#0 的_u#1 时间_n#4 使_v#1 居民_n#2 可_v#1 从容_a#0 地_u#3 兑换_v#1 新币_n#4
+	bing4 liu2 chu1 chong1 yv4 de5 shi2 jian1 shi3 jv1 min2 ke3 cong2 rong2 de5 dui4 huan4 xin1 bi4
+
+100439 	以及#2一#2五#2十#3五十#1戈比#4和#1一二五#1卢布#4七种#1硬币
+	以及_c#2 一_m#2 五十五十_m#1 戈比_n#4 和_c#1 一二五_m#1 卢布_n#4 七_m#0 种_q#1 硬币_n#4
+	yi3 ji2 yi1 wu3 shi2 wu3 shi2 ge1 bi3 he2 yi1 er4 wu3 lu2 bu4 qi1 zhong3 ying4 bi4
+
+100440 	我们#1不由#1自主地#3加入了#3这一#2奇妙的#1大合唱
+	我们_r#1 不由自主_i#1 地_u#3 加入_v#0 了_u#3 这_r#0 一_m#2 奇妙_a#0 的_u#1 大合唱_n#4
+	wo3 men2 bu4 you2 zi4 zhu3 de5 jia1 ru4 le5 zhe4 yi2 qi2 miao4 de5 da4 he2 chang4
+
+100441 	为什么#3维也纳#1音乐会#3曲目#2年年#2大体#1相同
+	为什么_r#3 维也纳_ns#1 音乐会_n#3 曲目_n#2 年年_q#2 大体_d#1 相同_a#4
+	wei4 shen2 me5 wei2 ye3 na4 yin1 yve4 hui4 qv3 mu4 nian2 nian2 da4 ti3 xiang1 tong2
+
+100442 	而#1人们#3总是#1永远#2不会#1厌倦#4世间#2最#1美好的#1东西
+	而_c#1 人们_n#3 总是_d#1 永远_d#2 不_d#0 会_v#1 厌倦_v#4 世间_n#2 最_d#1 美好_a#0 的_u#1 东西_n#4
+	er2 ren2 men5 zong3 shi4 yong2 yvan3 bu2 hui4 yan4 jvan4 shi4 jian1 zui4 mei2 hao3 de5 dong1 xi5
+
+100443 	墨西哥#2全国#2减灾#1中心#3发布的#1公报#1指出
+	墨西哥_ns#2 全国_n#2 减灾_v#1 中心_n#3 发布_v#0 的_u#1 公报_n#1 指出_v#4
+	mo4 xi1 ge1 qvan2 guo2 jian3 zai1 zhong1 xin1 fa1 bu4 de5 gong1 bao4 zhi3 chu1
+
+100444 	造成#2山脚下#1森林#3小面积#1起火
+	造成_v#2 山脚下_nd#1 森林_n#3 小_a#0 面积_n#1 起火_v#4
+	zao4 cheng2 shan1 jiao3 xia4 sen1 lin2 xiao3 mian4 ji5 qi2 huo3
+
+100445 	该国#1仍有#3从事#2绑架#2凶杀#2偷盗#2抢劫的#3武装#1犯罪#1分子
+	该国_r#1 仍_d#0 有_v#3 从事_v#2 绑架_v#2 凶杀_v#2 偷盗_v#2 抢劫_v#0 的_u#3 武装_n#1 犯罪分子_n#4
+	gai1 guo2 reng2 you3 cong2 shi4 bang3 jia4 xiong1 sha1 tou1 dao4 qiang3 jie2 de5 wu3 zhuang1 fan4 zui4 fen4 zi3
+
+100446 	也#2低于#1近年来#3每年#2二十次的#1平均数
+	也_d#2 低于_v#1 近年来_i#3 每年_r#2 二十_m#0 次_q#0 的_u#1 平均数_n#4
+	ye3 di1 yv2 jin4 nian2 lai2 mei3 nian2 er4 shi2 ci4 de5 ping2 jvn1 shu4
+
+100447 	而#2一部#1兵书#3可为#2王者师的#1说法#4却是#1真的
+	而_c#2 一_m#0 部_q#1 兵书_n#3 可_v#0 为_p#2 王者师_n#0 的_u#1 说法_n#4 却_d#0 是_v#1 真_a#0 的_u#4
+	er2 yi2 bu4 bing1 shu1 ke3 wei2 wang2 zhe3 shi1 de5 shuo1 fa3 qve4 shi4 zhen1 de5
+
+100448 	也#1就在#2无数次#3朝代的#1更迭中
+	也_d#1 就_d#0 在_p#2 无数_m#0 次_q#3 朝代_n#0 的_u#1 更迭_v#0 中_nd#4
+	ye3 jiu4 zai4 wu2 shu4 ci4 chao2 dai4 de5 geng1 die2 zhong1
+
+100449 	翻开#1那#2一册册#3浩瀚的#1兵书#1史籍
+	翻开_v#1 那_r#2 一册册_m#3 浩瀚_z#0 的_u#1 兵书_n#1 史籍_n#4
+	fan1 kai1 na4 yi2 ce4 ce4 hao4 han4 de5 bing1 shu1 shi3 ji2
+
+100450 	中国#1古代的#1将帅#4都是#1经过#2严格的#1挑选#3和#1培养的
+	中国_ns#1 古代_nt#0 的_u#1 将帅_n#4 都_d#0 是_v#1 经过_p#2 严格_a#0 的_u#1 挑选_v#3 和_c#1 培养_v#0 的_u#4
+	zhong1 guo2 gu3 dai4 de5 jiang4 shuai4 dou1 shi4 jing1 guo4 yan2 ge2 de5 tiao1 xvan3 he2 pei2 yang3 de5
+
+100451 	出版界#2很少#2有一套#3系统的#1丛书
+	出版界_n#2 很_d#0 少_a#2 有_v#0 一_m#0 套_q#3 系统_n#0 的_u#1 丛书_n#4
+	chu1 ban3 jie4 hen2 shao2 you3 yi2 tao4 xi4 tong3 de5 cong2 shu1
+
+100452 	着眼于#2历朝#1历代#4较为#1突出的#3军事#1谋略#1人物
+	着眼_v#0 于_p#2 历朝历代_i#4 较为_d#1 突出_a#0 的_u#3 军事_n#1 谋略_n#1 人物_n#4
+	zhuo2 yan3 yv2 li4 chao2 li4 dai4 jiao4 wei2 tu1 chu1 de5 jvn1 shi4 mou2 lve4 ren2 wu4
+
+100453 	解放军#1出版社#3为#1读者#3办了件#1大好事
+	解放军_n#1 出版社_n#3 为_p#1 读者_n#3 办_v#0 了_u#0 件_q#1 大_a#0 好事_n#4
+	jie3 fang4 jvn1 chu1 ban3 she4 wei4 du2 zhe3 ban4 le5 jian4 da4 hao3 shi4
+
+100454 	谋略#1思想#3是#1东方#1文化的#1特色
+	谋略_n#1 思想_n#3 是_v#1 东方_nl#1 文化_n#0 的_u#1 特色_n#4
+	mou2 lve4 si1 xiang3 shi4 dong1 fang1 wen2 hua4 de5 te4 se4
+
+100455 	而是#1在#2探索着#3人类#1战争的#1普遍#3与#1特殊的#3谋略#1规律
+	而是_c#1 在_d#2 探索_v#0 着_u#3 人类_n#1 战争_n#0 的_u#1 普遍_a#3 与_c#1 特殊_a#0 的_u#3 谋略_n#1 规律_n#4
+	er2 shi4 zai4 tan4 suo3 zhe5 ren2 lei4 zhan4 zheng1 de5 pu3 bian4 yv3 te4 shu1 de5 mou2 lve4 gui1 lv4
+
+100456 	作品#2不同#1程度地#2体现了#3作者们#3共同的#2艺术#1追求
+	作品_n#2 不同_a#1 程度_n#0 地_u#2 体现_v#0 了_u#3 作者_n#0 们_k#3 共同_b#0 的_u#2 艺术_n#1 追求_v#4
+	zuo4 pin3 bu4 tong2 cheng2 du4 de5 ti3 xian4 le5 zuo4 zhe3 men5 gong4 tong2 de5 yi4 shu5 zhui1 qiu2
+
+100457 	丛书的#1艺术#1品位#3都是#1比较#1高的
+	丛书_n#0 的_u#1 艺术_n#1 品位_n#3 都_d#0 是_v#1 比较_d#1 高_a#0 的_u#4
+	cong2 shu1 de5 yi4 shu4 pin3 wei4 dou1 shi4 bi3 jiao4 gao1 de5
+
+100458 	对#2全国#1广大#1青少年#3和#1解放军#1指战员#1来说
+	对_p#2 全国_n#1 广大_b#1 青少年_n#3 和_c#1 解放军_n#1 指战员_n#1 来说_u#4
+	dui4 qvan2 guo2 guang3 da4 qing1 shao4 nian2 he2 jie3 fang4 jvn1 zhi3 zhan4 yvan2 lai2 shuo1
+
+100459 	一些人#3已#1渐渐#1淡忘了#2过去#3血与#1火的#1斗争#1岁月
+	一些_m#0 人_n#3 已_d#1 渐渐_d#1 淡忘_v#0 了_u#2 过去_nt#3 血_n#0 与_c#1 火_n#0 的_u#1 斗争_v#1 岁月_n#4
+	yi4 xie1 ren2 yi3 jian4 jian4 dan4 wang4 le5 guo4 qv4 xve4 yv2 huo3 de5 dou4 zheng1 sui4 yve4
+
+100460 	明确#1指出#3历史#2是用#1例子#3教育#1人的#1哲学
+	明确_a#1 指出_v#3 历史_n#2 是_v#0 用_v#1 例子_n#3 教育_v#1 人_n#0 的_u#1 哲学_n#4
+	ming2 qve4 zhi3 chu1 li4 shi3 shi4 yong4 li4 zi5 jiao4 yv5 ren2 de5 zhe2 xve2
+
+100461 	阅读#2和#1景仰#3狼牙山#1五壮士#4黄继光#3邱少云的#1事迹
+	阅读_v#2 和_c#1 景仰_v#3 狼牙山_ns#1 五_m#0 壮士_n#4 黄继光_nh#3 邱少云_nh#0 的_u#1 事迹_n#4
+	yve4 du2 he2 jing2 yang3 lang2 ya2 shan1 wu3 zhuang4 shi4 huang2 ji4 guang1 qiu1 shao4 yvn2 de5 shi4 ji4
+
+100462 	青少年#2就#1可以#1学到#3英雄们#4拔剑#1平#1四海
+	青少年_n#2 就_d#1 可以_v#1 学_v#0 到_v#3 英雄_n#0 们_k#4 拔剑_v#1 平_v#1 四海_n#4
+	qing1 shao4 nian2 jiu4 ke2 yi3 xve2 dao4 ying1 xiong2 men5 ba2 jian4 ping2 si4 hai3
+
+100463 	希望#1用#2直观的#1图像#3来#1补充#3文字#1描述的#1不足
+	希望_v#1 用_p#2 直观_a#0 的_u#1 图像_n#3 来_v#1 补充_v#3 文字_n#1 描述_v#0 的_u#1 不足_a#4
+	xi1 wang4 yong4 zhi2 guan1 de5 tu2 xiang4 lai2 bu3 chong1 wen2 zi4 miao2 shu4 de5 bu4 zu2
+
+100464 	或许#2可以#2追溯到#3明代#3三才#1图会#2之类的#1书籍
+	或许_d#2 可以_v#2 追溯_v#0 到_v#3 明代_nt#3 三_m#0 才_n#1 图_n#0 会_v#2 之类_r#0 的_u#1 书籍_n#4
+	huo4 xv3 ke2 yi3 zhui1 su4 dao4 ming2 dai4 san1 cai2 tu2 hui4 zhi1 lei4 de5 shu1 ji2
+
+100465 	日本#1学者#2编印的#3东洋#1文化史#1大系#2等等
+	日本_ns#1 学者_n#2 编印_v#0 的_u#3 东洋_n#1 文化史_n#1 大_a#0 系_n#2 等等_u#4
+	ri4 ben3 xve2 zhe3 bian1 yin4 de5 dong1 yang2 wen2 hua4 shi3 da4 xi4 deng2 deng3
+
+100466 	其#1文字#1图片的#1版面#3彼此#1相当
+	其_r#1 文字_n#1 图片_n#0 的_u#1 版面_n#3 彼此_r#1 相当_v#4
+	qi2 wen2 zi4 tu2 pian4 de5 ban3 mian4 bi2 ci3 xiang1 dang1
+
+100467 	考古学#1本身#3是#1具有#2独立的#1理论#3和#1方法的#1学科
+	考古学_n#1 本身_r#3 是_v#1 具有_v#2 独立_a#0 的_u#1 理论_n#3 和_c#1 方法_n#0 的_u#1 学科_n#4
+	kao2 gu3 xve2 ben3 shen1 shi4 jv4 you3 du2 li4 de5 li3 lun4 he2 fang1 fa3 de5 xve2 ke1
+
+100468 	在#1方法论上#3为#1考古学的#1建立#1发展#3开拓了#1道路
+	在_p#1 方法论_n#0 上_nd#3 为_p#1 考古学_n#0 的_u#1 建立_v#1 发展_v#3 开拓_v#0 了_u#1 道路_n#4
+	zai4 fang1 fa3 lun4 shang4 wei4 kao2 gu3 xve2 de5 jian4 li4 fa1 zhan3 kai1 tuo4 le5 dao4 lu4
+
+100469 	最早#1得到#3大规模#2系统#1发掘的#1遗址#4殷墟
+	最_d#0 早_a#1 得到_v#3 大规模_d#2 系统_a#1 发掘_v#0 的_u#1 遗址_n#4 殷墟_n#4
+	zui4 zao3 de2 dao4 da4 gui1 mo2 xi4 tong3 fa1 jve2 de5 yi2 zhi3 yin1 xv1
+
+100470 	令#1读者#1获得#1从#2房门外#3朝#1钥匙孔里#3窥视的#1快感
+	令_v#1 读者_n#1 获得_v#1 从_p#2 房门_n#0 外_nd#3 朝_p#1 钥匙孔_n#0 里_nd#3 窥视_v#0 的_u#1 快感_n#4
+	ling4 du2 zhe3 huo4 de2 cong2 fang2 men2 wai4 chao2 yao4 shi5 kong2 li3 kui1 shi4 de5 kuai4 gan3
+
+100471 	比如#2敞开#1一间#3并非#2华屋的#1窗户
+	比如_v#2 敞开_v#1 一_m#0 间_q#3 并非_v#2 华屋_n#0 的_u#1 窗户_n#4
+	bi3 ru2 chang3 kai1 yi4 jian1 bing4 fei1 hua2 wu1 de5 chuang1 hu5
+
+100472 	写出了#2身为#2抗战#1时期#3四川#2合江县#2县长的#1父亲
+	写_v#0 出_v#0 了_u#2 身_n#0 为_v#2 抗战_v#1 时期_n#3 四川_ns#2 合江县_ns#2 县长_n#0 的_u#1 父亲_n#4
+	xie3 chu1 le5 shen1 wei2 kang4 zhan4 shi2 qi1 si4 chuan1 he2 jiang1 xian4 xian4 zhang3 de5 fu4 qin5
+
+100473 	而#1报社的#1领导#3之所以#1招收#3她#1这样的#3年轻的#1女性
+	而_c#1 报社_n#0 的_u#1 领导_n#3 之所以_c#1 招收_v#3 她_r#1 这样_r#0 的_u#3 年轻_a#0 的_u#1 女性_n#4
+	er2 bao4 she4 de5 ling2 dao3 zhi1 suo2 yi3 zhao1 shou1 ta1 zhei4 yang4 de5 nian2 qing1 de5 nv3 xing4
+
+100474 	妹妹#2却在#2三反#1运动中#3写信#2揭发#1姐夫
+	妹妹_n#2 却_d#0 在_p#2 三_m#0 反_v#1 运动_v#0 中_nd#3 写信_v#2 揭发_v#1 姐夫_n#4
+	mei4 mei5 qve4 zai4 san1 fan3 yvn4 dong4 zhong1 xie3 xin4 jie1 fa1 jie3 fu5
+
+100475 	南昌#1大学#2文学#1研究所#4以#1罕见的#1魄力
+	南昌_ns#1 大学_n#2 文学_n#1 研究所_n#4 以_p#1 罕见_a#0 的_u#1 魄力_n#4
+	nan2 chang1 da4 xve2 wen2 xve2 yan2 jiu1 suo3 yi2 han3 jian4 de5 po4 li4
+
+100476 	这才#2真正#1构成了#3整套#1书系的#2独特#1个性
+	这_r#0 才_d#2 真正_b#1 构成_v#0 了_u#3 整套_b#1 书系_n#0 的_u#2 独特_a#1 个性_n#4
+	zhe4 cai2 zhen1 zheng4 gou4 cheng2 le5 zheng3 tao4 shu1 xi4 de5 du2 te4 ge4 xing4
+
+100477 	可谓#2这方面的#3一套#2高水平的#3学术#1著作集
+	可谓_v#2 这_r#0 方面_n#0 的_u#3 一_m#0 套_q#2 高_a#0 水平_n#0 的_u#3 学术_n#1 著作_n#0 集_v#4
+	ke3 wei4 zhe4 fang1 mian4 de5 yi2 tao4 gao1 shui3 ping2 de5 xve2 shu4 zhu4 zuo4 ji2
+
+100478 	号称#2死亡#2之海的#1塔里木#4出现了#1奇迹
+	号称_v#2 死亡_v#2 之_u#0 海_n#0 的_u#1 塔里木_ns#4 出现_v#0 了_u#1 奇迹_n#4
+	hao4 cheng1 si3 wang2 zhi1 hai3 de5 ta2 li3 mu4 chu1 xian4 le5 qi2 ji4
+
+100479 	石油#1职工#3经过#2几十年的#3艰苦#1勘探
+	石油_n#1 职工_n#3 经过_p#2 几十_m#0 年_q#0 的_u#3 艰苦_a#1 勘探_v#4
+	shi2 you2 zhi2 gong1 jing1 guo4 ji3 shi2 nian2 de5 jian1 ku3 kan1 tan4
+
+100480 	长篇#2报告#1文学#4《世界#1沙漠#2第一路》#4石油#1工业#2出版社#1出版
+	长篇_b#2 报告文学_i#4 《_wp#0 世界_n#1 沙漠_n#2 第一_m#0 路_n#0 》_wp#4 石油_n#1 工业_n#2 出版社_n#1 出版_v#4
+	chang2 pian1 bao4 gao4 wen2 xve2 shi4 jie4 sha1 mo4 di4 yi1 lu4 shi2 you2 gong1 ye4 chu1 ban3 she4 chu1 ban3
+
+100481 	谱写#1下了#1一曲曲#3惊天地#3泣鬼神的#3英雄#1壮歌
+	谱写_v#1 下_v#0 了_u#1 一曲曲_m#3 惊天地泣鬼神_i#3 的_u#3 英雄_n#1 壮歌_n#4
+	pu2 xie3 xia4 le5 yi4 qv2 qv3 jing1 tian1 di4 qi4 gui3 shen2 de5 ying1 xiong2 zhuang4 ge1
+
+100482 	用#1短短#1五年#1时间#4使#1一个#2濒临#1倒闭的#3乡镇#1小厂
+	用_p#1 短短_z#1 五_m#0 年_q#1 时间_n#4 使_v#1 一个_m#2 濒临_v#1 倒闭_v#0 的_u#3 乡镇_n#1 小_a#0 厂_n#4
+	yong4 duan2 duan2 wu3 nian2 shi2 jian1 shi3 yi2 ge4 bin1 lin2 dao3 bi4 de5 xiang1 zhen4 xiao2 chang3
+
+100483 	第一笔#1生意#3破天荒#1赢利#3三十万元
+	第一_m#0 笔_q#1 生意_n#3 破天荒_i#1 赢利_v#3 三十万_m#0 元_q#4
+	di4 yi1 bi3 sheng1 yi4 po4 tian1 huang1 ying2 li4 san1 shi2 wan4 yvan2
+
+100484 	便是#2盛云龙的#4依多金#1集团
+	便_d#0 是_v#2 盛云龙_nh#0 的_u#4 依多金_nz#1 集团_n#4
+	bian4 shi4 sheng4 yvn2 long2 de5 yi1 duo1 jin1 ji2 tuan2
+
+100485 	山沟#1之中的#1景观#3确实#1罕见#4一条#2大山沟内
+	山沟_n#1 之中_nd#0 的_u#1 景观_n#3 确实_a#1 罕见_a#4 一_m#0 条_q#2 大_a#0 山沟_n#0 内_nd#4
+	shan1 gou1 zhi1 zhong1 de5 jing3 guan1 qve4 shi2 han3 jian4 yi4 tiao2 da4 shan1 gou1 nei4
+
+100486 	拍卖#1租赁#4和#1承包#3集体#1小型#2水利#1设施
+	拍卖_v#1 租赁_v#4 和_c#1 承包_v#3 集体_n#1 小型_b#2 水利_n#1 设施_n#4
+	pai1 mai4 zu1 lin4 he2 cheng2 bao1 ji2 ti2 xiao3 xing2 shui3 li4 she4 shi1
+
+100487 	步入#2良性#1循环的#3水利#1建设#1管理#2新机制
+	步入_v#2 良性_b#1 循环_v#0 的_u#3 水利_n#1 建设_v#1 管理_v#2 新_a#0 机制_n#4
+	bu4 ru4 liang2 xing4 xvn2 huan2 de5 shui3 li4 jian4 she4 guan2 li3 xin1 ji1 zhi4
+
+100488 	占#1全县#2有效#1灌溉#1面积的#3近#1百分之#1四十六
+	占_v#1 全县_n#2 有效_a#1 灌溉_v#1 面积_n#0 的_u#3 近_a#1 百分之四十六_m#4
+	zhan4 qvan2 xian4 you3 xiao4 guan4 gai4 mian4 ji5 de5 jin4 bai3 fen1 zhi1 si4 shi2 liu4
+
+100489 	不但#2原有的#3大批#2小型#1水利#1设施#3不能#1巩固
+	不但_c#2 原有_v#0 的_u#3 大批_m#2 小型_b#1 水利_n#1 设施_n#3 不能_v#1 巩固_v#4
+	bu2 dan4 yvan2 you3 de5 da4 pi1 xiao3 xing2 shui3 li4 she4 shi1 bu4 neng2 gong3 gu4
+
+100490 	指导#2各乡镇#3对#1现有#2水利#1工程#3进行#2调查#1摸底
+	指导_v#2 各_r#0 乡镇_n#3 对_p#1 现有_v#2 水利工程_i#3 进行_v#2 调查_v#1 摸底_v#4
+	zhi2 dao3 ge4 xiang1 zhen4 dui4 xian4 you2 shui3 li4 gong1 cheng2 jin4 xing2 diao4 cha2 mo1 di3
+
+100491 	统一#1对#2购买户#3或#1新建户#4进行#2技术#1培训
+	统一_v#1 对_p#2 购买户_n#3 或_c#1 新建户_n#4 进行_v#2 技术_n#1 培训_v#4
+	tong3 yi1 dui4 gou4 mai3 hu4 huo4 xin1 jian4 hu4 jin4 xing2 ji4 shu4 pei2 xvn4
+
+100492 	彻底#1改变#1过去#3只用#2不管的#1倾向
+	彻底_a#1 改变_v#1 过去_nt#3 只用_v#2 不管_c#0 的_u#1 倾向_n#4
+	che4 di2 gai3 bian4 guo4 qv4 zhi3 yong4 bu4 guan3 de5 qing1 xiang4
+
+100493 	往往#1反映#3不同#1本质的#3人际#1关系
+	往往_d#1 反映_v#3 不同_a#1 本质_n#0 的_u#3 人际关系_n#4
+	wang2 wang2 fan3 ying4 bu4 tong2 ben3 zhi4 de5 ren2 ji4 guan1 xi4
+
+100494 	岂是#2小姐#1老板#1之类#3可#1替代的
+	岂_d#0 是_v#2 小姐_n#1 老板_n#1 之类_r#3 可_v#1 替代_v#0 的_u#4
+	qi3 shi4 xiao2 jie3 lao2 ban3 zhi1 lei4 ke3 ti4 dai4 de5
+
+100495 	中国#1民航#3对#1使用了#1四十年的#3高度层#1缩小#2垂直#1间隔
+	中国_ns#1 民航_n#3 对_p#1 使用_v#0 了_u#1 四十_m#0 年_q#0 的_u#3 高度_n#0 层_n#1 缩小_v#2 垂直_v#1 间隔_n#4
+	zhong1 guo2 min2 hang2 dui4 shi3 yong4 le5 si4 shi2 nian2 de5 gao1 du4 ceng2 suo1 xiao3 chui2 zhi2 jian4 ge2
+
+100496 	有#1计划#2有#1步骤地#4全面#1推广#3生态#1农业#1建设
+	有_v#1 计划_n#2 有_v#1 步骤_n#0 地_u#4 全面_a#1 推广_v#3 生态_n#1 农业_n#1 建设_v#4
+	you3 ji4 hua4 you3 bu4 zhou5 de5 qvan2 mian4 tui1 guang3 sheng1 tai4 nong2 ye4 jian4 she4
+
+100497 	广西#2累计#1发展#1沼气#4二十八万户
+	广西_ns#2 累计_v#1 发展_v#1 沼气_n#4 二十八万_m#0 户_q#4
+	guang3 xi1 lei3 ji4 fa1 zhan2 zhao3 qi4 er4 shi2 ba1 wan4 hu4
+
+100498 	累计#2推广#1普及#3省柴#1节煤灶#4七百#2四十#1五点#1五万户
+	累计_v#2 推广_v#1 普及_v#3 省柴节煤灶_i#4 七百四十五点五万_m#2 户_q#4
+	lei3 ji4 tui1 guang2 pu3 ji2 sheng3 chai2 jie2 mei2 zao4 qi1 bai3 si4 shi2 wu2 dian2 wu3 wan4 hu4
+
+100499 	四十八条#2水泥路#4使#1一点#2六万亩的#1园区#3分类#1布局
+	四十八_m#0 条_q#2 水泥路_n#4 使_v#1 一点六万_m#2 亩_q#0 的_u#1 园区_n#3 分类_v#1 布局_n#4
+	si4 shi2 ba1 tiao2 shui3 ni2 lu4 shi3 yi4 dian3 liu4 wan4 mu3 de5 yvan2 qv1 fen1 lei4 bu4 jv2
+
+100500 	拉萨#1市民#3更加#1挂念#3遭受#1雪灾的#3藏北#1人民
+	拉萨_ns#1 市民_n#3 更加_d#1 挂念_v#3 遭受_v#1 雪灾_n#0 的_u#3 藏北_nl#1 人民_n#4
+	la1 sa4 shi4 min2 geng4 jia1 gua4 nian4 zao1 shou4 xve3 zai1 de5 zang4 bei3 ren2 min2
+
+100501 	孙文盛#1握住#2病床上#3张日#1老伴的#1手#4问长#1问短
+	孙文盛_nh#1 握住_v#2 病床_n#0 上_nd#3 张日_nh#1 老伴_n#0 的_u#1 手_n#4 问长问短_i#4
+	sun1 wen2 sheng4 wo4 zhu4 bing4 chuang2 shang4 zhang1 ri4 lao3 ban4 de5 shou3 wen4 chang2 wen4 duan3
+
+100502 	昆明市#2各级#1政府#3在向#2特困#1职工#3送#1温暖的#1活动中
+	昆明市_ns#2 各级_r#1 政府_n#3 在_p#0 向_p#2 特困_b#1 职工_n#3 送_v#1 温暖_a#0 的_u#1 活动_v#0 中_nd#4
+	kun1 ming2 shi4 ge4 ji2 zheng4 fu3 zai4 xiang4 te4 kun4 zhi2 gong1 song4 wen1 nuan3 de5 huo2 dong4 zhong1
+
+100503 	特困#1职工#3配偶#1子女#4就业#2和#1待业的#1职工#3再就业
+	特困_b#1 职工_n#3 配偶_n#1 子女_n#4 就业_v#2 和_c#1 待业_v#0 的_u#1 职工_n#3 再_d#0 就业_v#4
+	te4 kun4 zhi2 gong1 pei4 ou3 zi2 nv3 jiu4 ye4 he2 dai4 ye4 de5 zhi2 gong1 zai4 jiu4 ye4
+
+100504 	推广#2督导#1委员会#4将在#2各个#1有关#2团体的#3成功#1基础上
+	推广_v#2 督导_v#1 委员会_n#4 将_d#0 在_p#2 各个_r#1 有关_v#2 团体_n#0 的_u#3 成功_a#1 基础_n#0 上_nd#4
+	tui1 guang3 du1 dao2 wei3 yvan2 hui4 jiang1 zai4 ge4 ge5 you3 guan1 tuan2 ti3 de5 cheng2 gong1 ji1 chu3 shang4
+
+100505 	筹备#1组织#2香港#1特区#3第一届#3立法会#1选举
+	筹备_v#1 组织_v#2 香港_ns#1 特区_n#3 第一_m#0 届_q#3 立法会_n#1 选举_v#4
+	chou2 bei4 zu3 zhi1 xiang1 gang3 te4 qv1 di4 yi1 jie4 li4 fa3 hui4 xvan2 jv3
+
+100506 	越来#1越多的#1香港#1市民#3填写了#2选民#1登记表
+	越来越_d#1 多_a#0 的_u#1 香港_ns#1 市民_n#3 填写_v#0 了_u#2 选民_n#1 登记表_n#4
+	yve4 lai2 yve4 duo1 de5 xiang1 gang3 shi4 min2 tian2 xie3 le5 xvan3 min2 deng1 ji4 biao3
+
+100507 	过去#1两天#3江南#1地区#3持续的#1阴雨#1天气#3也将#2结束
+	过去_nt#1 两_m#0 天_q#3 江南_ns#1 地区_n#3 持续_v#0 的_u#1 阴雨_n#1 天气_n#3 也_d#0 将_d#2 结束_v#4
+	guo4 qv4 liang3 tian1 jiang1 nan2 di4 qv1 chi2 xv4 de5 yin1 yv3 tian1 qi4 ye3 jiang1 jie2 shu4
+
+100508 	投资#1环境的#1改善#3直接#1促进了#3经济#1发展
+	投资_v#1 环境_n#0 的_u#1 改善_v#3 直接_a#1 促进_v#0 了_u#3 经济_n#1 发展_v#4
+	tou2 zi1 huan2 jing4 de5 gai3 shan4 zhi2 jie1 cu4 jin4 le5 jing1 ji4 fa1 zhan3
+
+100509 	在#1那部#2著名的#3走出#1非洲的#2影片里
+	在_p#1 那_r#0 部_q#2 著名_a#0 的_u#3 走_v#0 出_v#1 非洲_ns#0 的_u#2 影片_n#0 里_nd#4
+	zai4 na4 bu4 zhu4 ming2 de5 zou3 chu1 fei1 zhou1 de5 ying3 pian4 li3
+
+100510 	我们#1可以#1看出#4她是#1多么#1热爱#3这#1动物的#1天堂
+	我们_r#1 可以_v#1 看出_v#4 她_r#0 是_v#1 多么_d#1 热爱_v#3 这_r#1 动物_n#0 的_u#1 天堂_n#4
+	wo3 men5 ke2 yi3 kan4 chu1 ta1 shi4 duo1 me5 re4 ai4 zhe4 dong4 wu5 de5 tian1 tang2
+
+100511 	连#1一根#1羽毛#3都#1不敢#2带出#1海关
+	连_u#1 一_m#0 根_q#1 羽毛_n#3 都_d#1 不_d#0 敢_v#2 带_v#0 出_v#1 海关_n#4
+	lian2 yi4 gen1 yv3 mao2 dou1 bu4 gan3 dai4 chu1 hai3 guan1
+
+100512 	莫伊#1总统#2曾#1下令#3将#1收缴的#2十余吨#1象牙#3当众#1烧毁
+	莫伊_nh#1 总统_n#2 曾_d#1 下令_v#3 将_p#1 收缴_v#0 的_u#2 十_m#0 余_m#0 吨_q#1 象牙_n#3 当众_d#1 烧毁_v#4
+	mo4 yi1 zong2 tong3 ceng2 xia4 ling4 jiang1 shou1 jiao3 de5 shi2 yv2 dun1 xiang4 ya2 dang1 zhong4 shao1 hui3
+
+100513 	明显#1干扰了#1狮子#3猎取#1目标#2和#1捕捉#1猎物
+	明显_a#1 干扰_v#0 了_u#1 狮子_n#3 猎取_v#1 目标_n#2 和_c#1 捕捉_v#1 猎物_n#4
+	ming2 xian3 gan1 rao3 le5 shi1 zi5 lie4 qv3 mu4 biao1 he2 bu3 zhuo1 lie4 wu4
+
+100514 	斑马#2和#1羚羊的#1警觉性#3本来#2是#1很高的
+	斑马_n#2 和_c#1 羚羊_n#0 的_u#1 警觉性_n#3 本来_d#2 是_v#1 很_d#0 高_a#0 的_u#4
+	ban1 ma3 he2 ling2 yang2 de5 jing3 jve2 xing4 ben3 lai2 shi4 hen3 gao1 de5
+
+100515 	也会#2不时地#3抬头#1注视#1一下#4周围#2是否#1有#1狮子
+	也_d#0 会_v#2 不时_d#0 地_u#3 抬头_v#1 注视_v#1 一下_m#4 周围_nd#2 是否_v#1 有_v#1 狮子_n#4
+	ye3 hui4 bu4 shi2 de5 tai2 tou2 zhu4 shi4 yi2 xia4 zhou1 wei2 shi4 fou2 you3 shi1 zi5
+
+100516 	这就是#2草原上#2传说的#3狮子的#2巴士#1战略
+	这_r#0 就_d#0 是_v#2 草原_n#0 上_nd#2 传说_v#0 的_u#3 狮子_n#0 的_u#2 巴士_n#1 战略_n#4
+	zhe4 jiu4 shi4 cao3 yvan2 shang4 chuan2 shuo1 de5 shi1 zi5 de5 ba1 shi4 zhan4 lve4
+
+100517 	这种#2局面的#1形成#3有着#1复杂的#1社会#1背景
+	这种_r#2 局面_n#0 的_u#1 形成_v#3 有着_v#1 复杂_a#0 的_u#1 社会_n#1 背景_n#4
+	zhe4 zhong3 jv2 mian4 de5 xing2 cheng2 you3 zhe5 fu4 za2 de5 she4 hui4 bei4 jing3
+
+100518 	恐怕#2巴黎#1圣母院#3卢浮宫#4早已#2夷为#1平地
+	恐怕_d#2 巴黎_ns#1 圣母院_n#3 卢浮宫_n#4 早已_d#2 夷为平地_i#4
+	kong3 pa4 ba1 li2 sheng4 mu3 yvan4 lu2 fu2 gong1 zao2 yi3 yi2 wei2 ping2 di4
+
+100519 	战后#2就会#1被#3当作#2敌国#1对待
+	战后_nt#2 就_d#0 会_v#1 被_p#3 当作_v#2 敌国_n#1 对待_v#4
+	zhan4 hou4 jiu4 hui4 bei4 dang4 zuo4 di2 guo2 dui4 dai4
+
+100520 	每个#1民族的#1历史#3都#1拥有#1辉煌
+	每个_r#1 民族_n#0 的_u#1 历史_n#3 都_d#1 拥有_v#1 辉煌_a#4
+	mei3 ge5 min2 zu2 de5 li4 shi3 dou1 yong1 you3 hui1 huang2
+
+100521 	纵火#2焚毁了#1这个#3东方#1艺术#1瑰宝
+	纵火_v#2 焚毁_v#0 了_u#1 这个_r#3 东方_nl#1 艺术_n#1 瑰宝_n#4
+	zong4 huo3 fen2 hui3 le5 zhei4 ge5 dong1 fang1 yi4 shu4 gui1 bao3
+
+100522 	可以#1认为#3是#2当时#2历史#1条件下的#3一种#2政治#1策略
+	可以_v#1 认为_v#3 是_v#2 当时_nt#2 历史_n#1 条件_n#0 下_nd#0 的_u#3 一_m#0 种_q#2 政治_n#1 策略_n#4
+	ke2 yi3 ren4 wei2 shi4 dang1 shi2 li4 shi3 tiao2 jian4 xia4 de5 yi4 zhong3 zheng4 zhi4 ce4 lve4
+
+100523 	随处#1可见#3大石块#1筑的#2清真寺
+	随处可见_i#3 大_a#0 石块_n#1 筑_v#0 的_u#2 清真寺_n#4
+	sui2 chu4 ke3 jian4 da4 shi2 kuai4 zhu4 de5 qing1 zhen1 si4
+
+100524 	他所#1征服的#1国家#3遍及#2地中海#1沿岸#4西亚#2和#1东欧
+	他_r#0 所_u#1 征服_v#0 的_u#1 国家_n#3 遍及_v#2 地中海_ns#1 沿岸_nd#4 西亚_ns#2 和_c#1 东欧_n#4
+	ta1 suo3 zheng1 fu2 de5 guo2 jia1 bian4 ji2 di4 zhong1 hai3 yan2 an4 xi1 ya4 he2 dong1 ou1
+
+100525 	蓝色#1清真寺#4比#1苏利曼#3清真寺#1小
+	蓝色_n#1 清真寺_n#4 比_p#1 苏利曼_nh#3 清真寺_n#1 小_a#4
+	lan2 se4 qing1 zhen1 si4 bi3 su1 li4 man4 qing1 zhen1 si4 xiao3
+
+100526 	蓝色#1清真寺#1对面#3是#1索非亚#1大教堂
+	蓝色_n#1 清真寺_n#1 对面_nd#3 是_v#1 索非亚_nh#1 大_a#0 教堂_n#4
+	lan2 se4 qing1 zhen1 si4 dui4 mian4 shi4 suo3 fei1 ya4 da4 jiao4 tang2
+
+100527 	教堂#2和#1清真寺#3本是#1完全#1不同的#1两回事
+	教堂_n#2 和_c#1 清真寺_n#3 本_d#0 是_v#1 完全_a#1 不同_a#0 的_u#1 两回事_n#4
+	jiao4 tang2 he2 qing1 zhen1 si4 ben3 shi4 wan2 qvan2 bu4 tong2 de5 liang3 hui2 shi4
+
+100528 	十足的#2东西方#3两种#1文化的#3混合物
+	十足_z#0 的_u#2 东西方_j#3 两_m#0 种_q#1 文化_n#0 的_u#3 混合物_n#4
+	shi2 zu2 de5 dong1 xi1 fang1 liang2 zhong3 wen2 hua4 de5 hun4 he2 wu4
+
+100529 	西方#2教堂#2从#1罗马式#3到#1哥特式#4不仅#2室内#2举架#1高大
+	西方_nl#2 教堂_n#2 从_p#1 罗马式_b#3 到_p#1 哥特式_b#4 不仅_c#2 室内_nl#2 举架_v#1 高大_a#4
+	xi1 fang1 jiao4 tang2 cong2 luo2 ma3 shi4 dao4 ge1 te4 shi4 bu4 jin3 shi4 nei4 jv3 jia4 gao1 da4
+
+100530 	有#1忏悔#1用的#2隔间#3布道台#3雕像
+	有_v#1 忏悔_v#1 用_v#0 的_u#2 隔间_nl#3 布道台_n#3 雕像_n#4
+	you3 chan4 hui3 yong4 de5 ge2 jian1 bu4 dao4 tai2 diao1 xiang4
+
+100531 	几乎#2家家#1是#3三四层楼的#1别墅
+	几乎_d#2 家家_q#1 是_v#3 三四_m#0 层_q#0 楼_n#0 的_u#1 别墅_n#4
+	ji1 hu1 jia1 jia1 shi4 san1 si4 ceng2 lou2 de5 bie2 shu4
+
+100532 	乘车#1沿着#3展现#2科威特#1风貌的#3滨海#1大道#2驰骋
+	乘车_v#1 沿着_p#3 展现_v#2 科威特_ns#1 风貌_n#0 的_u#3 滨海_n#1 大道_n#2 驰骋_v#4
+	cheng2 che1 yan2 zhe5 zhan3 xian4 ke1 wei1 te4 feng1 mao4 de5 bin1 hai3 da4 dao4 chi2 cheng3
+
+100533 	碧波#1万顷的#1近海#3和#1匀细的#1沙滩
+	碧波万顷_i#1 的_u#1 近海_nl#3 和_c#1 匀细_a#0 的_u#1 沙滩_n#4
+	bi4 bo1 wan4 qing3 de5 jin4 hai3 he2 yvn2 xi4 de5 sha1 tan1
+
+100534 	满身的#1焦痕#3在#1诉说着#3那场#2战争的#1残酷
+	满身_n#0 的_u#1 焦痕_n#3 在_p#1 诉说_v#0 着_u#3 那场_r#2 战争_n#0 的_u#1 残酷_a#4
+	man3 shen1 de5 jiao1 hen2 zai4 su4 shuo1 zhe5 na4 chang3 zhan4 zheng1 de5 can2 ku4
+
+100535 	科威特人#3每天#1诵经#3极为#1准时
+	科威特人_n#3 每天_r#1 诵经_v#3 极为_d#1 准时_a#4
+	ke1 wei1 te4 ren2 mei3 tian1 song4 jing1 ji2 wei2 zhun3 shi2
+
+100536 	乘#1快艇#3驶往#2克维特#1绥海上#4一个#2神奇的#1小岛
+	乘_v#1 快艇_n#3 驶_v#0 往_p#2 克维特绥_ns#1 海上_nl#4 一个_m#2 神奇_a#0 的_u#1 小_a#0 岛_n#4
+	cheng2 kuai4 ting3 shi2 wang3 ke4 wei2 te4 sui2 hai3 shang4 yi2 ge4 shen2 qi2 de5 xiao2 dao3
+
+100537 	方圆#3五平方#1公里#2左右的#1小岛
+	方圆_n#3 五_m#0 平方公里_q#2 左右_m#0 的_u#1 小_a#0 岛_n#4
+	fang1 yvan2 wu3 ping2 fang1 gong1 li2 zuo3 you4 de5 xiao2 dao3
+
+100538 	草地上#2盛开着#3一簇簇#2粉红色的#3黄色的#3野花
+	草地_n#0 上_nd#2 盛开_v#0 着_u#3 一簇簇_m#2 粉红色_n#0 的_u#3 黄色_n#0 的_u#3 野花_n#4
+	cao3 di4 shang4 sheng4 kai1 zhe5 yi2 cu4 cu4 fen3 hong2 se4 de5 huang2 se4 de5 ye3 hua1
+
+100539 	难怪#1挪威#3有#1千岛#1之国的#1美称
+	难怪_d#1 挪威_ns#3 有_v#1 千_m#0 岛_n#1 之_u#0 国_n#0 的_u#1 美称_n#4
+	nan2 guai4 nuo2 wei1 you3 qian1 dao3 zhi1 guo2 de5 mei3 cheng1
+
+100540 	我们#1便#3仔细#1端详起#2这#1木屋#1来
+	我们_r#1 便_d#3 仔细_a#1 端详_v#0 起_v#2 这_r#1 木屋_n#1 来_v#4
+	wo3 men2 bian4 zi3 xi4 duan1 xiang2 qi3 zhe4 mu4 wu1 lai2
+
+100541 	一间#2较大的#1客厅#3兼做#2餐厅#2及#1厨房
+	一_m#0 间_q#2 较_d#0 大_a#0 的_u#1 客厅_n#3 兼_v#0 做_v#2 餐厅_n#2 及_c#1 厨房_n#4
+	yi4 jian1 jiao4 da4 de5 ke4 ting1 jian1 zuo4 can1 ting1 ji2 chu2 fang2
+
+100542 	电视机#3电冰箱#4炊事#1餐饮#4等#1家庭#1生活#1用具#4一应#1俱全
+	电视机_n#3 电冰箱_n#4 炊事_n#1 餐饮_n#4 等_u#1 家庭_n#1 生活_v#1 用具_n#4 一应俱全_i#4
+	dian4 shi4 ji1 dian4 bing1 xiang1 chui1 shi4 can1 yin3 deng3 jia1 ting2 sheng1 huo2 yong4 jv4 yi4 ying1 jv4 qvan2
+
+100543 	年轻#2和善的#1女主人#3亲自#1下厨#3为#1我们#1做饭
+	年轻_a#2 和善_a#0 的_u#1 女主人_n#3 亲自_d#1 下厨_v#3 为_p#1 我们_r#1 做饭_v#4
+	nian2 qing1 he2 shan4 de5 nv2 zhu3 ren2 qin1 zi4 xia4 chu2 wei4 wo3 men2 zuo4 fan4
+
+100544 	原以为#2会#1听到#3呼啸#1海风#3喧嚣#1涛声
+	原_d#0 以为_v#2 会_v#1 听到_v#3 呼啸_v#1 海风_n#3 喧嚣_v#1 涛声_n#4
+	yvan2 yi3 wei2 hui4 ting1 dao4 hu1 xiao4 hai3 feng1 xvan1 xiao1 tao1 sheng1
+
+100545 	忘记了#1时差#3和#1长途#2飞行的#1疲倦
+	忘记_v#0 了_u#1 时差_n#3 和_c#1 长途_b#2 飞行_v#0 的_u#1 疲倦_a#4
+	wang4 ji4 le5 shi2 cha1 he2 chang2 tu2 fei1 xing2 de5 pi2 jvan4
+
+100546 	蜡笔#2速写的#2米老鼠#3绽开#2甜蜜的#1笑容
+	蜡笔_n#2 速写_n#0 的_u#2 米老鼠_n#3 绽开_v#2 甜蜜_a#0 的_u#1 笑容_n#4
+	la4 bi3 su4 xie3 de5 mi3 lao2 shu3 zhan4 kai1 tian2 mi4 de5 xiao4 rong2
+
+100547 	轻轻#1拨动#2敏感的#1心弦#4今天#3让我们#2再做#1一回#2小孩子
+	轻轻_d#1 拨动_v#2 敏感_a#0 的_u#1 心弦_n#4 今天_nt#3 让_v#0 我们_r#2 再_d#0 做_v#1 一_m#0 回_q#2 小孩子_n#4
+	qing1 qing1 bo1 dong4 min2 gan3 de5 xin1 xian2 jin1 tian1 rang4 wo3 men2 zai4 zuo4 yi4 hui2 xiao3 hai2 zi5
+
+100548 	老式的#1马车#3沿着#1铁轨#3缓缓#1前行
+	老式_b#0 的_u#1 马车_n#3 沿着_p#1 铁轨_n#3 缓缓_d#1 前行_v#4
+	lao3 shi4 de5 ma3 che1 yan2 zhe5 tie2 gui3 huan2 huan3 qian2 xing2
+
+100549 	看见#1一道#2彩虹#4掠过#1闪烁#1生辉的#3睡美人#1城堡
+	看见_v#1 一_m#0 道_q#2 彩虹_n#4 掠过_v#1 闪烁生辉_i#1 的_u#3 睡美人_nz#1 城堡_n#4
+	kan4 jian4 yi2 dao4 cai3 hong2 lve4 guo4 shan3 shuo4 sheng1 hui1 de5 shui4 mei3 ren2 cheng2 bao3
+
+100550 	悠悠#2传送#1一个#3温柔#2而#1执著的#1信念#4当你#1向#2星星#1许愿
+	悠悠_z#2 传送_v#1 一个_m#3 温柔_a#2 而_c#1 执著_a#0 的_u#1 信念_n#4 当_p#0 你_r#1 向_p#2 星星_n#1 许愿_v#4
+	you1 you1 chuan2 song4 yi2 ge4 wen1 rou2 er2 zhi2 zhuo2 de5 xin4 nian4 dang1 ni3 xiang4 xing1 xing5 xv3 yvan4
+
+100551 	抑或#1是#2那个#2尚不懂事的#3未来#2主人翁
+	抑或_c#1 是_v#2 那个_r#2 尚_d#0 不_d#0 懂事_a#0 的_u#3 未来_nt#2 主人翁_n#4
+	yi4 huo4 shi4 na4 ge5 shang4 bu4 dong3 shi4 de5 wei4 lai2 zhu3 ren2 weng1
+
+100552 	短小#1精悍#3生动#1鲜活#3尖锐#1泼辣#4是#1本专栏#2追求的#1风格
+	短小精悍_i#3 生动_a#1 鲜活_a#3 尖锐_a#1 泼辣_a#4 是_v#1 本_r#0 专栏_n#2 追求_v#0 的_u#1 风格_n#4
+	duan2 xiao3 jing1 han4 sheng1 dong4 xian1 huo2 jian1 rui4 po1 la4 shi4 ben3 zhuan1 lan2 zhui1 qiu2 de5 feng1 ge2
+
+100553 	早已#2跃跃#1一试#2请客的#1人#3也#1悄悄地#3打消了#1念头
+	早已_d#2 跃跃一试_i#2 请客_v#0 的_u#1 人_n#3 也_d#1 悄悄地_z#3 打消_v#0 了_u#1 念头_n#4
+	zao2 yi3 yve4 yve4 yi2 shi4 qing3 ke4 de5 ren2 ye3 qiao1 qiao1 de5 da3 xiao1 le5 nian4 tou5
+
+100554 	检查组#2先#1来到#3甬江#1明珠#2旋转#1餐厅
+	检查组_n#2 先_d#1 来到_v#3 甬江_ns#1 明珠_n#2 旋转_v#1 餐厅_n#4
+	jian3 cha2 zu3 xian1 lai2 dao4 yong3 jiang1 ming2 zhu1 xvan2 zhuan3 can1 ting1
+
+100555 	闻讯后#1感叹#3塔里木河#2有救了
+	闻讯_v#0 后_nd#1 感叹_v#3 塔里木河_ns#2 有救_v#0 了_u#4
+	wen2 xvn4 hou4 gan3 tan4 ta2 li3 mu4 he2 you3 jiu4 le5
+
+100556 	新疆#1把#2水土#1资源#3以及#2环境#1资源的#1保护#3纳入#2法制#1轨道
+	新疆_ns#1 把_p#2 水土_n#1 资源_n#3 以及_c#2 环境_n#1 资源_n#0 的_u#1 保护_v#3 纳入_v#2 法制_n#1 轨道_n#4
+	xin1 jiang1 ba3 shui2 tu3 zi1 yvan2 yi3 ji2 huan2 jing4 zi1 yvan2 de5 bao3 hu4 na4 ru4 fa3 zhi4 gui3 dao4
+
+100557 	床铺#1类似#2火车上的#3硬卧#1铺位
+	床铺_n#1 类似_v#2 火车_n#0 上_nd#0 的_u#3 硬卧_n#1 铺位_n#4
+	chuang2 pu4 lei4 si4 huo3 che1 shang4 de5 ying4 wo4 pu4 wei4
+
+100558 	我们#2也是#1费了#1好多#1口舌#3才#1离开
+	我们_r#2 也_d#0 是_v#1 费_v#0 了_u#1 好多_m#1 口舌_n#3 才_d#1 离开_v#4
+	wo3 men5 ye3 shi4 fei4 le5 hao3 duo1 kou3 she2 cai2 li2 kai1
+
+100559 	一幢幢#2新竣工的#1楼房#3在#1寒风#1料峭中#3格外#1挺拔
+	一幢幢_m#2 新_d#0 竣工_v#0 的_u#1 楼房_n#3 在_p#1 寒风料峭_i#1 中_nd#3 格外_d#1 挺拔_a#4
+	yi2 zhuang4 zhuang4 xin1 jvn4 gong1 de5 lou2 fang2 zai4 han2 feng1 liao4 qiao4 zhong1 ge2 wai4 ting3 ba2
+
+100560 	由于#2房地产#2开发#1过热#3和#1大规模的#2旧城#1改造
+	由于_c#2 房地产_j#2 开发_v#1 过_d#0 热_a#3 和_c#1 大规模_b#0 的_u#2 旧_a#0 城_n#1 改造_v#4
+	you2 yv2 fang2 di4 chan3 kai1 fa1 guo4 re4 he2 da4 gui1 mo2 de5 jiu4 cheng2 gai3 zao4
+
+100561 	订户#2体会#1到的#3是#1满意的#1服务
+	订户_n#2 体会_v#1 到_v#0 的_u#3 是_v#1 满意_v#0 的_u#1 服务_v#4
+	ding4 hu4 ti3 hui4 dao4 de5 shi4 man3 yi4 de5 fu2 wu4
+
+100562 	担当#2乡镇#3民营#1企业的#2生产#1技术#3和#1经营#1骨干
+	担当_v#2 乡镇_n#3 民营_b#1 企业_n#0 的_u#2 生产_v#1 技术_n#3 和_c#1 经营_v#1 骨干_n#4
+	dan1 dang1 xiang1 zhen4 min2 ying2 qi3 ye4 de5 sheng1 chan3 ji4 shu4 he2 jing1 ying2 gu3 gan4
+
+100563 	支持了#2宏观#1经济的#3平稳#1运行
+	支持_v#0 了_u#2 宏观_n#1 经济_n#0 的_u#3 平稳_a#1 运行_v#4
+	zhi1 chi2 le5 hong2 guan1 jing1 ji4 de5 ping2 wen3 yvn4 xing2
+
+100564 	盈利#1向#2少数#1特大型#1企业#3及#1企业#1集团#2集中
+	盈利_v#1 向_p#2 少数_m#1 特大型_b#1 企业_n#3 及_c#1 企业_n#1 集团_n#2 集中_v#4
+	ying2 li4 xiang4 shao3 shu4 te4 da4 xing2 qi3 ye4 ji2 qi3 ye4 ji2 tuan2 ji2 zhong1
+
+100565 	目前#3我国#2企业#1集团的#1发展#3总体上#3是#1比较#1顺利的
+	目前_nt#3 我国_n#2 企业_n#1 集团_n#0 的_u#1 发展_v#3 总体_n#0 上_nd#3 是_v#1 比较_d#1 顺利_a#0 的_u#4
+	mu4 qian2 wo3 guo2 qi3 ye4 ji2 tuan2 de5 fa1 zhan3 zong2 ti3 shang4 shi4 bi3 jiao4 shun4 li4 de5
+
+100566 	才能#2很快#1进入#3世界级#2大企业#1行列
+	才_d#0 能_v#2 很快_d#1 进入_v#3 世界级_b#2 大_a#0 企业_n#1 行列_n#4
+	cai2 neng2 hen3 kuai4 jin4 ru4 shi4 jie4 ji2 da4 qi3 ye4 hang2 lie4
+
+100567 	能够#2节约#1市场上的#3交易#1成本
+	能够_v#2 节约_v#1 市场_n#0 上_nd#0 的_u#3 交易_n#1 成本_n#4
+	neng2 gou4 jie2 yve1 shi4 chang3 shang4 de5 jiao1 yi4 cheng2 ben3
+
+100568 	垄断者#2将#1通过#2垄断#1定价#3和#1进入#1壁垒#4限制#1竞争者
+	垄断者_n#2 将_d#1 通过_p#2 垄断_v#1 定价_n#3 和_c#1 进入_v#1 壁垒_n#4 限制_v#1 竞争者_n#4
+	long3 duan4 zhe3 jiang1 tong1 guo4 long3 duan4 ding4 jia4 he2 jin4 ru4 bi4 lei3 xian4 zhi4 jing4 zheng1 zhe3
+
+100569 	规模#1经济#1包含的#3是#1一个#2适度#1规模#3有效#1规模
+	规模_n#1 经济_n#1 包含_v#0 的_u#3 是_v#1 一个_m#2 适度_a#1 规模_n#3 有效_a#1 规模_n#4
+	gui1 mo2 jing1 ji4 bao1 han2 de5 shi4 yi2 ge4 shi4 du4 gui1 mo2 you3 xiao4 gui1 mo2
+
+100570 	加强了#2对#1大#1项目的#1投入#3和#1整顿
+	加强_v#0 了_u#2 对_p#1 大_a#1 项目_n#0 的_u#1 投入_v#3 和_c#1 整顿_v#4
+	jia1 qiang2 le5 dui4 da4 xiang4 mu5 de5 tou2 ru4 he2 zheng3 dun4
+
+100571 	前期#1谈判#2合同的#1签订#3和#1执行#4是#1需要#1费用的
+	前期_nd#1 谈判_v#2 合同_n#0 的_u#1 签订_v#3 和_c#1 执行_v#4 是_v#1 需要_v#1 费用_n#0 的_u#4
+	qian2 qi1 tan2 pan4 he2 tong5 de5 qian1 ding4 he2 zhi2 xing2 shi4 xv1 yao4 fei4 yong4 de5
+
+100572 	低#1成本#1扩张的#1结果#3可能是#2惨重的#1代价
+	低_a#1 成本_n#1 扩张_v#0 的_u#1 结果_n#3 可能_v#0 是_v#2 惨重_a#0 的_u#1 代价_n#4
+	di1 cheng2 ben3 kuo4 zhang1 de5 jie2 guo3 ke3 neng2 shi4 can3 zhong4 de5 dai4 jia4
+
+100573 	建立#2以#1资本#2为#1纽带的#3规范的#3母子#1公司#1体制
+	建立_v#2 以_p#1 资本_n#2 为_v#1 纽带_n#0 的_u#3 规范_a#0 的_u#3 母子公司_j#1 体制_n#4
+	jian4 li4 yi3 zi1 ben3 wei2 niu3 dai4 de5 gui1 fan4 de5 mu2 zi3 gong1 si1 ti3 zhi4
+
+100574 	情况#2就#1可能#1发生#3根本的#1变化
+	情况_n#2 就_d#1 可能_v#1 发生_v#3 根本_a#0 的_u#1 变化_v#4
+	qing2 kuang4 jiu4 ke3 neng2 fa1 sheng1 gen1 ben3 de5 bian4 hua4
+
+100575 	认真#2对#1当地的#1实际#3作#1一番#3深入#1透彻的#1研究#1之外
+	认真_a#2 对_p#1 当地_nl#0 的_u#1 实际_n#3 作_v#1 一番_m#3 深入_a#1 透彻_a#0 的_u#1 研究_v#1 之外_nd#4
+	ren4 zhen1 dui4 dang1 di4 de5 shi2 ji4 zuo4 yi1 fan1 shen1 ru4 tou4 che4 de5 yan2 jiu1 zhi1 wai4
+
+100576 	参加#1检查的#2大队#1人马#3兵分#1四路
+	参加_v#1 检查_v#0 的_u#2 大队人马_i#3 兵_n#0 分_v#1 四_m#0 路_q#4
+	can1 jia1 jian3 cha2 de5 da4 dui4 ren2 ma3 bing1 fen1 si4 lu4
+
+100577 	顾客#1每购#3五十#1公斤的#1大米#3就得#1亏秤#2三公斤
+	顾客_n#1 每_r#0 购_v#3 五十_m#1 公斤_q#0 的_u#1 大米_n#3 就_d#0 得_v#1 亏_v#0 秤_n#2 三_m#0 公斤_q#4
+	gu4 ke4 mei3 gou4 wu3 shi2 gong1 jin1 de5 da4 mi3 jiu4 dei3 kui1 cheng4 san1 gong1 jin1
+
+100578 	决定#1在#3全国#1开展#2劳动#1系统#3收费#2执行#1情况的#1检查
+	决定_v#1 在_p#3 全国_n#1 开展_v#2 劳动_v#1 系统_n#3 收费_v#2 执行_v#1 情况_n#0 的_u#1 检查_v#4
+	jve2 ding4 zai4 qvan2 guo2 kai1 zhan3 lao2 dong4 xi4 tong3 shou1 fei4 zhi2 xing2 qing2 kuang4 de5 jian3 cha2
+
+100579 	他#1介绍#2入党的#1孔夫寿#3已#1作为#2新一代#1党代表
+	他_r#1 介绍_v#2 入党_v#0 的_u#1 孔夫寿_nh#3 已_d#1 作为_p#2 新_a#0 一_m#0 代_q#1 党代表_n#4
+	ta1 jie4 shao4 ru4 dang3 de5 kong3 fu1 shou4 yi3 zuo4 wei2 xin1 yi2 dai4 dang3 dai4 biao3
+
+100580 	党代表#2受到#3企业#1经营者的#1欢迎#4和#1职工的#1拥护
+	党代表_n#2 受到_v#3 企业经营者_n#1 的_u#1 欢迎_v#4 和_c#1 职工_n#0 的_u#1 拥护_v#4
+	dang3 dai4 biao3 shou4 dao4 qi3 ye4 jing1 ying2 zhe3 de5 huan1 ying2 he2 zhi2 gong1 de5 yong1 hu4
+
+100581 	耐心#1劝导#3和#1依法#1强行#1拆除#3相#1结合
+	耐心_a#1 劝导_v#3 和_c#1 依法_d#1 强行_d#1 拆除_v#3 相_d#1 结合_v#4
+	nai4 xin1 qvan4 dao3 he2 yi1 fa3 qiang2 xing2 chai1 chu2 xiang1 jie2 he2
+
+100582 	李长水#1担任了#3市#1公安#1局长#4党委#1书记
+	李长水_nh#1 担任_v#0 了_u#3 市_n#1 公安局长_n#4 党委_n#1 书记_n#4
+	li3 chang2 shui3 dan1 ren4 le5 shi4 gong1 an1 jv2 zhang3 dang2 wei3 shu1 ji4
+
+100583 	有的#1人#2可能#1说#3丰盛的#1宴请#3是#1工作的#1需要
+	有的_r#1 人_n#2 可能_v#1 说_v#3 丰盛_a#0 的_u#1 宴请_v#3 是_v#1 工作_v#0 的_u#1 需要_n#4
+	you3 de5 ren2 ke3 neng2 shuo1 feng1 sheng4 de5 yan4 qing3 shi4 gong1 zuo4 de5 xv1 yao4
+
+100584 	拒绝#1纠正#3公款#1吃喝的#1认识#3是#1片面的
+	拒绝_v#1 纠正_v#3 公款吃喝_i#1 的_u#1 认识_n#3 是_v#1 片面_a#0 的_u#4
+	jv4 jve2 jiu1 zheng4 gong1 kuan3 chi1 he1 de5 ren4 shi5 shi4 pian4 mian4 de5
+
+100585 	那么#2群众#1厌恶的#3公款#1吃喝#1歪风
+	那么_c#2 群众_n#1 厌恶_v#0 的_u#3 公款吃喝_i#1 歪风_n#4
+	na4 me5 qvn2 zhong4 yan4 wu4 de5 gong1 kuan3 chi1 he1 wai1 feng1
+
+100586 	砸坏了#1苏里粮站的#1汽车#1玻璃#3和#1办公室#1玻璃
+	砸_v#0 坏_a#0 了_u#1 苏里_nz#0 粮站_n#0 的_u#1 汽车_n#1 玻璃_n#3 和_c#1 办公室_n#1 玻璃_n#4
+	za2 huai4 le5 su1 li3 liang2 zhan4 de5 qi4 che1 bo1 li5 he2 ban4 gong1 shi4 bo1 li5
+
+100587 	日本#1专家#2连连#1称赞#4中国#1军人#1了不起
+	日本_ns#1 专家_n#2 连连_d#1 称赞_v#4 中国_ns#1 军人_n#1 了不起_a#4
+	ri4 ben3 zhuan1 jia1 lian2 lian2 cheng1 zan4 zhong1 guo2 jvn1 ren2 liao3 bu5 qi3
+
+100588 	将#1衡量#2工作#1好坏的#1尺子#3交给#1群众
+	将_p#1 衡量_v#2 工作_v#1 好坏_n#0 的_u#1 尺子_n#3 交给_v#1 群众_n#4
+	jiang1 heng2 liang2 gong1 zuo4 hao3 huai4 de5 chi3 zi5 jiao1 gei3 qvn2 zhong4
+
+100589 	给了#1好处#3乱#1办事的#3民政#1工作#3不良#1形象
+	给_v#0 了_u#1 好处_n#3 乱_d#1 办事_v#0 的_u#3 民政_n#1 工作_v#3 不良_a#1 形象_n#4
+	gei3 le5 hao3 chu4 luan4 ban4 shi4 de5 min2 zheng4 gong1 zuo4 bu4 liang2 xing2 xiang4
+
+100590 	四千#2四百#2二十一个#1贫困户#4找到了#2致富#1门路
+	四千四百二十一_m#2 个_q#1 贫困户_n#4 找到_v#0 了_u#2 致富_v#1 门路_n#4
+	si4 qian1 si4 bai3 er4 shi2 yi1 ge5 pin2 kun4 hu4 zhao3 dao4 le5 zhi4 fu4 men2 lu4
+
+100591 	繁荣#1我国#3歌剧#1舞剧#2艺术#1事业#4提供了#2广阔的#1空间
+	繁荣_v#1 我国_n#3 歌剧_n#1 舞剧_n#2 艺术_n#1 事业_n#4 提供_v#0 了_u#2 广阔_a#0 的_u#1 空间_n#4
+	fan2 rong2 wo3 guo2 ge1 jv4 wu3 jv4 yi4 shu5 shi4 ye4 ti2 gong1 le5 guang3 kuo4 de5 kong1 jian1
+
+100592 	长期的#1临床#1实践#3使她#1看到#3许多#1不育#1夫妇的#2痛苦
+	长期_b#0 的_u#1 临床_b#1 实践_v#3 使_v#0 她_r#1 看到_v#3 许多_m#1 不_d#0 育_v#1 夫妇_n#0 的_u#2 痛苦_a#4
+	chang2 qi1 de5 lin2 chuang2 shi2 jian4 shi3 ta1 kan4 dao4 xv3 duo1 bu2 yv4 fu1 fu4 de5 tong4 ku3
+
+100593 	不孕的#1原因#3主要#1是#3女方#1双侧#2输卵管#1阻塞
+	不孕_v#0 的_u#1 原因_n#3 主要_d#1 是_v#3 女方_n#1 双_m#0 侧_nd#2 输卵管_n#1 阻塞_v#4
+	bu2 yvn4 de5 yvan2 yin1 zhu3 yao4 shi4 nv3 fang1 shuang1 ce4 shu1 luan2 guan2 zu3 se4
+
+100594 	从而#2正式#2拉开了#1一场#3彻底#1扫除#2赌博机#3老虎机
+	从而_c#2 正式_a#2 拉开_v#0 了_u#1 一_m#0 场_q#3 彻底_a#1 扫除_v#2 赌博机_n#3 老虎机_n#4
+	cong2 er2 zheng4 shi4 la1 kai1 le5 yi4 chang3 che4 di2 sao3 chu2 du3 bo2 ji1 lao2 hu3 ji1
+
+100595 	吊销了#2十八家#4包括#2已#1曝光的#2游戏厅的#4营业#1执照
+	吊销_v#0 了_u#2 十八_m#0 家_q#4 包括_v#2 已_d#1 曝光_v#0 的_u#2 游戏厅_n#0 的_u#4 营业执照_n#4
+	diao4 xiao1 le5 shi2 ba1 jia1 bao1 kuo4 yi3 bao4 guang1 de5 you2 xi4 ting1 de5 ying2 ye4 zhi2 zhao4
+
+100596 	切尔诺#1梅尔金#1总理#3访问#1土耳其
+	切尔诺梅尔金_nh#1 总理_n#3 访问_v#1 土耳其_ns#4
+	qie4 er3 nuo4 mei2 er3 jin1 zong2 li3 fang3 wen4 tu2 er3 qi2
+
+100597 	俄#1每年#3可经#2此#1管道#1输送#3一百#2六十亿#3立方米#1天然气
+	俄_j#1 每年_r#3 可_v#0 经_p#2 此_r#1 管道_n#1 输送_v#3 一百六十亿_m#3 立方米_q#1 天然气_n#4
+	e2 mei3 nian2 ke3 jing1 ci2 guan3 dao4 shu1 song4 yi4 bai3 liu4 shi2 yi4 li4 fang1 mi3 tian1 ran2 qi4
+
+100598 	包括#2修改#1一系列#2现行#1法律#4通过#1一系列#2新法律
+	包括_v#2 修改_v#1 一_m#0 系列_q#2 现行_b#1 法律_n#4 通过_v#1 一_m#0 系列_q#2 新_a#0 法律_n#4
+	bao1 kuo4 xiu1 gai3 yi2 xi4 lie4 xian4 xing2 fa3 lv4 tong1 guo4 yi2 xi4 lie4 xin1 fa3 lv4
+
+100599 	解除#2真主党#1等#3抵抗#1力量的#1武装
+	解除_v#2 真主党_n#1 等_u#3 抵抗_v#1 力量_n#0 的_u#1 武装_n#4
+	jie3 chu2 zhen1 zhu2 dang2 deng2 di3 kang4 li4 liang5 de5 wu3 zhuang1
+
+100600 	表达了#1许多#1在#2加拿大#3苦苦#1挣扎的#3华人#1移民的#1心声
+	表达_v#0 了_u#1 许多_m#1 在_p#2 加拿大_ns#3 苦苦_d#1 挣扎_v#0 的_u#3 华人_n#1 移民_n#0 的_u#1 心声_n#4
+	biao3 da2 le5 xv3 duo1 zai4 jia1 na2 da4 ku2 ku3 zheng1 zha2 de5 hua2 ren2 yi2 min2 de5 xin1 sheng1
+
+100601 	后悔#1当初#1放弃了#3原在#2国内的#1一切
+	后悔_v#1 当初_nt#1 放弃_v#0 了_u#3 原_d#0 在_p#2 国内_nl#0 的_u#1 一切_r#4
+	hou4 hui3 dang1 chu1 fang4 qi4 le5 yvan2 zai4 guo2 nei4 de5 yi2 qie4
+
+100602 	出国前#3已是#2某#1音乐#1学院的#1副教授
+	出国_v#0 前_nd#3 已_d#0 是_v#2 某_r#1 音乐_n#1 学院_n#0 的_u#1 副教授_n#4
+	chu1 guo2 qian2 yi3 shi4 mou3 yin1 yve4 xve2 yvan4 de5 fu4 jiao4 shou4
+
+100603 	整个#2如#1一盏#3不断#1转动的#3美仑#1美奂的#3水晶#1吊灯
+	整个_b#2 如_v#1 一_m#0 盏_q#3 不断_d#1 转动_v#0 的_u#3 美仑美奂_i#1 的_u#3 水晶_n#1 吊灯_n#4
+	zheng3 ge4 ru2 yi4 zhan3 bu2 duan4 zhuan4 dong4 de5 mei3 lun2 mei3 huan4 de5 shui3 jing1 diao4 deng1
+
+100604 	此后#2还#1将到#2首都#1堪培拉#4维多#1利亚州#4和#1南澳#2演出
+	此后_nt#2 还_d#1 将_d#0 到_v#2 首都_n#1 堪培拉_ns#4 维多利亚州_ns#4 和_c#1 南澳_j#2 演出_v#4
+	ci3 hou4 hai2 jiang1 dao4 shou3 du1 kan1 pei2 la1 wei2 duo1 li4 ya4 zhou1 he2 nan2 ao4 yan3 chu1
+
+100605 	马戏团#2此行#3正逢#2中澳#1建交#3二十五#1周年#1喜庆
+	马戏团_n#2 此行_r#3 正逢_v#2 中_j#0 澳_j#1 建交_v#3 二十五_m#1 周年_q#1 喜庆_v#4
+	ma3 xi4 tuan2 ci3 xing2 zheng4 feng2 zhong1 ao4 jian4 jiao1 er4 shi2 wu3 zhou1 nian2 xi3 qing4
+
+100606 	一种#2未知#1怪病#3日前#1袭击了#3肯尼亚#1索马里#1边境#1地区
+	一_m#0 种_q#2 未知_v#1 怪_a#0 病_n#3 日前_nt#1 袭击_v#0 了_u#3 肯尼亚_ns#1 索马里_ns#1 边境_nl#1 地区_n#4
+	yi4 zhong3 wei4 zhi1 guai4 bing4 ri4 qian2 xi2 ji1 le5 ken3 ni2 ya4 suo2 ma2 li3 bian1 jing4 di4 qv1
+
+100607 	他#1强烈#1指责#2现#1政府的#1预算#1方案#4大幅度#1削减#2福利#1开支
+	他_r#1 强烈_a#1 指责_v#2 现政府_n#1 的_u#1 预算_n#1 方案_n#4 大幅度_d#1 削减_v#2 福利_n#1 开支_n#4
+	ta1 qiang2 lie4 zhi3 ze2 xian4 zheng4 fu3 de5 yv4 suan4 fang1 an4 da4 fu2 du4 xve1 jian3 fu2 li4 kai1 zhi1
+
+100608 	一图#1为在#3埃及#2科普特#1教区#4旅游点#2值勤的#2警察
+	一_m#0 图_n#1 为_v#0 在_p#3 埃及_ns#2 科普特教区_ns#4 旅游点_n#2 值勤_v#0 的_u#2 警察_n#4
+	yi4 tu2 wei2 zai4 ai1 ji2 ke1 pu3 te4 jiao4 qv1 lv3 you2 dian3 zhi2 qin2 de5 jing3 cha2
+
+100609 	停止#2贷款#1给#3不能#1偿还#2现有#1债务的#3个人#2和#1企业
+	停止_v#2 贷款_n#1 给_v#3 不能_v#1 偿还_v#2 现有_b#1 债务_n#0 的_u#3 个人_n#2 和_c#1 企业_n#4
+	ting2 zhi3 dai4 kuan2 gei3 bu4 neng2 chang2 huan2 xian4 you3 zhai4 wu4 de5 ge4 ren2 he2 qi3 ye4
+
+100610 	德国#1联合#1银行#3和#1抵押#1银行#4合并#1成为#3德国#1第二#1大银行
+	德国_ns#1 联合_v#1 银行_n#3 和_c#1 抵押_v#1 银行_n#4 合并_v#1 成为_v#3 德国_ns#1 第二_m#1 大_a#0 银行_n#4
+	de2 guo2 lian2 he2 yin2 hang2 he2 di3 ya1 yin2 hang2 he2 bing4 cheng2 wei2 de2 guo2 di4 er4 da4 yin2 hang2
+
+100611 	如果#1各国#2金融#1监管#1机构#3缺乏#1沟通
+	如果_c#1 各国_r#2 金融_n#1 监管_v#1 机构_n#3 缺乏_v#1 沟通_v#4
+	ru2 guo3 ge4 guo2 jin1 rong2 jian1 guan3 ji1 gou4 qve1 fa2 gou1 tong1
+
+100612 	图为#2消防#1队员#3在#1观察#2冒火的#1裂缝
+	图_n#0 为_v#2 消防_b#1 队员_n#3 在_d#1 观察_v#2 冒火_v#0 的_u#1 裂缝_n#4
+	tu2 wei2 xiao1 fang2 dui4 yvan2 zai4 guan1 cha2 mao4 huo3 de5 lie4 feng4
+
+100613 	这次#2获得#1公开#1赔偿的#3吸烟#1受害人#3名叫#2哈罗#1维兹
+	这_r#0 次_q#2 获得_v#1 公开_v#1 赔偿_v#0 的_u#3 吸烟_v#1 受害人_n#3 名叫_v#2 哈罗维兹_nh#4
+	zhe4 ci4 huo4 de2 gong1 kai1 pei2 chang2 de5 xi1 yan1 shou4 hai4 ren2 ming2 jiao4 ha1 luo2 wei2 zi1
+
+100614 	狗熊#2山猫等#1野兽#3出没于#2市区#1森林
+	狗熊_n#2 山猫_n#0 等_u#1 野兽_n#3 出没_v#0 于_p#2 市区_nl#1 森林_n#4
+	gou3 xiong2 shan1 mao1 deng2 ye3 shou4 chu1 mo4 yv2 shi4 qv1 sen1 lin2
+
+100615 	用以#1捕获#3漂浮在#2轨道上的#3故障#1卫星
+	用以_d#1 捕获_v#3 漂浮_v#0 在_p#2 轨道_n#0 上_nd#0 的_u#3 故障_n#1 卫星_n#4
+	yong4 yi2 bu3 huo4 piao1 fu2 zai4 gui3 dao4 shang4 de5 gu4 zhang4 wei4 xing1
+
+100616 	在#1金融#1监管#2较松的#1卢森堡#3和#1开曼#1群岛#2注册
+	在_p#1 金融_n#1 监管_v#2 较_d#0 松_a#0 的_u#1 卢森堡_ns#3 和_c#1 开曼_ns#1 群岛_n#2 注册_v#4
+	zai4 jin1 rong2 jian1 guan3 jiao4 song1 de5 lu2 sen1 bao3 he2 kai1 man4 qvn2 dao3 zhu4 ce4
+
+100617 	卢森堡#1政府#3要求#1该行#1总部#2撤出
+	卢森堡_ns#1 政府_n#3 要求_v#1 该行_r#1 总部_n#2 撤出_v#4
+	lu2 sen1 bao3 zheng4 fu3 yao1 qiu2 gai1 hang2 zong3 bu4 che4 chu1
+
+100618 	英格兰#1银行#3宣布#2接管#2国商#1银行的#3英国#1业务
+	英格兰_ns#1 银行_n#3 宣布_v#2 接管_v#2 国商_j#1 银行_n#0 的_u#3 英国_ns#1 业务_n#4
+	ying1 ge2 lan2 yin2 hang2 xvan1 bu4 jie1 guan3 guo2 shang1 yin2 hang2 de5 ying1 guo2 ye4 wu4
+
+100619 	由此#2长期#1隐瞒#1亏损#4和#1非法#2经营#1活动
+	由此_d#2 长期_d#1 隐瞒_v#1 亏损_n#4 和_c#1 非法_b#2 经营_v#1 活动_v#4
+	you2 ci3 chang2 qi1 yin3 man2 kui1 sun3 he2 fei1 fa3 jing1 ying2 huo2 dong4
+
+100620 	很多#2经验#1丰富的#3金融#1机构#4并#1没有#1受到#2多大的#1冲击
+	很多_m#2 经验_n#1 丰富_a#0 的_u#3 金融_n#1 机构_n#4 并_d#1 没有_d#1 受到_v#2 多_d#0 大_a#0 的_u#1 冲击_v#4
+	hen3 duo1 jing1 yan4 feng1 fu4 de5 jin1 rong2 ji1 gou4 bing4 mei2 you3 shou4 dao4 duo1 da4 de5 chong1 ji1
+
+100621 	希尔顿#3全国#1男篮#2甲联赛#3也#1开始了#1预赛#2第二#1循环
+	希尔顿_nz#3 全国_n#1 男篮_n#2 甲_m#0 联赛_n#3 也_d#1 开始_v#0 了_u#1 预赛_n#2 第二_m#1 循环_v#4
+	xi1 er3 dun4 qvan2 guo2 nan2 lan2 jia3 lian2 sai4 ye3 kai1 shi3 le5 yv4 sai4 di4 er4 xvn2 huan2
+
+100622 	冠军#1奖金#3由#1三万元#3猛#1增至#3十四点#1八万元
+	冠军_n#1 奖金_n#3 由_p#1 三万_m#0 元_q#3 猛_d#1 增至_v#3 十四点八万_m#1 元_q#4
+	guan4 jvn1 jiang3 jin1 you2 san1 wan4 yvan2 meng3 zeng1 zhi4 shi2 si4 dian3 ba1 wan4 yvan2
+
+100623 	多少人#3熟悉#1那个#1潇洒的#1英文#1字母
+	多少_r#0 人_n#3 熟悉_v#1 那个_r#1 潇洒_a#0 的_u#1 英文_nz#1 字母_n#4
+	duo1 shao3 ren2 shu2 xi1 na4 ge5 xiao1 sa3 de5 ying1 wen2 zi4 mu3
+
+100624 	还有#1一台#3同样#1大小的#2模拟#1彩电
+	还有_v#1 一_m#0 台_q#3 同样_b#1 大小_n#0 的_u#2 模拟_v#1 彩电_n#4
+	hai2 you3 yi4 tai2 tong2 yang4 da4 xiao3 de5 mo2 ni2 cai3 dian4
+
+100625 	真正的#1数字#1电视#3也就#1可以#3大批#1上市了
+	真正_b#0 的_u#1 数字_n#1 电视_n#3 也_d#0 就_d#1 可以_v#3 大批_m#1 上市_v#0 了_u#4
+	zhen1 zheng4 de5 shu4 zi4 dian4 shi4 ye3 jiu4 ke2 yi3 da4 pi1 shang4 shi4 le5
+
+100626 	北京#2机动车#1拍卖#1中心#4拍卖的#2一批#1轿车#3引人#1注目
+	北京_ns#2 机动车_n#1 拍卖_v#1 中心_n#4 拍卖_v#0 的_u#2 一_m#0 批_q#1 轿车_n#3 引人注目_i#4
+	bei3 jing1 ji1 dong4 che1 pai1 mai4 zhong1 xin1 pai1 mai4 de5 yi4 pi1 jiao4 che1 yin3 ren2 zhu4 mu4
+
+100627 	利润的#1明显#1增加#3说明#1企业#3适销#2对路的#1产品#3增加了
+	利润_n#0 的_u#1 明显_a#1 增加_v#3 说明_v#1 企业_n#3 适销对路_i#2 的_u#1 产品_n#3 增加_v#0 了_u#4
+	li4 run4 de5 ming2 xian3 zeng1 jia1 shuo1 ming2 qi3 ye4 shi4 xiao1 dui4 lu4 de5 chan2 pin3 zeng1 jia1 le5
+
+100628 	东南亚#2金融#1危机的#1教训#3是#1深刻的
+	东南亚_ns#2 金融_n#1 危机_n#0 的_u#1 教训_n#3 是_v#1 深刻_a#0 的_u#4
+	dong1 nan2 ya4 jin1 rong2 wei1 ji1 de5 jiao4 xvn4 shi4 shen1 ke4 de5
+
+100629 	如#1泰国#1引进#2外资的#3百分之#1三十#3投入了#2房地产
+	如_v#1 泰国_ns#1 引进_v#2 外资_n#0 的_u#3 百分之三十_m#3 投入_v#0 了_u#2 房地产_j#4
+	ru2 tai4 guo2 yin3 jin4 wai4 zi1 de5 bai3 fen1 zhi1 san1 shi2 tou2 ru4 le5 fang2 di4 chan3
+
+100630 	只能#1围绕#1平价#3在#1很小的#1范围#4上下#1波动的#2汇率#1制度
+	只能_v#1 围绕_v#1 平价_n#3 在_p#1 很_d#0 小_a#0 的_u#1 范围_n#4 上下_nd#1 波动_v#0 的_u#2 汇率_n#1 制度_n#4
+	zhi3 neng2 wei2 rao4 ping2 jia4 zai4 hen2 xiao3 de5 fan4 wei2 shang4 xia4 bo1 dong4 de5 hui4 lv4 zhi4 du4
+
+100631 	原因#1在于#3它#1是由#2香港的#1发钞#1制度#3形成的
+	原因_n#1 在于_v#3 它_r#1 是_v#0 由_p#2 香港_ns#0 的_u#1 发钞_v#1 制度_n#3 形成_v#0 的_u#4
+	yvan2 yin1 zai4 yv2 ta1 shi4 you2 xiang1 gang3 de5 fa1 chao1 zhi4 du4 xing2 cheng2 de5
+
+100632 	税收#2在#1调节#1分配#4维护#2稳定#1方面#3负有#2更#1重要的#1使命
+	税收_n#2 在_p#1 调节_v#1 分配_v#4 维护_v#2 稳定_a#1 方面_n#3 负有_v#2 更_d#1 重要_a#0 的_u#1 使命_n#4
+	shui4 shou1 zai4 tiao2 jie2 fen1 pei4 wei2 hu4 wen3 ding4 fang1 mian4 fu4 you3 geng4 zhong4 yao4 de5 shi3 ming4
+
+100633 	物价#1涨幅#3进一步#1回落的#3良好#1态势
+	物价_n#1 涨幅_n#3 进一步_d#1 回落_v#0 的_u#3 良好_a#1 态势_n#4
+	wu4 jia4 zhang3 fu2 jin4 yi2 bu4 hui2 luo4 de5 liang2 hao3 tai4 shi4
+
+100634 	重点#1调整了#3金融#1保险#2证券#1交易的#3税收#1政策
+	重点_d#1 调整_v#0 了_u#3 金融_n#1 保险_n#2 证券_n#1 交易_v#0 的_u#3 税收_n#1 政策_n#4
+	zhong4 dian3 tiao2 zheng3 le5 jin1 rong2 bao2 xian3 zheng4 qvan4 jiao1 yi4 de5 shui4 shou1 zheng4 ce4
+
+100635 	但是#2他国的#1经验#1教训#3足以#1令#2我们#1借鉴#3和#1警醒
+	但是_c#2 他国_r#0 的_u#1 经验_n#1 教训_n#3 足以_d#1 令_v#2 我们_r#1 借鉴_v#3 和_c#1 警醒_v#4
+	dan4 shi4 ta1 guo2 de5 jing1 yan4 jiao4 xvn4 zu2 yi3 ling4 wo3 men2 jie4 jian4 he2 jing2 xing3
+
+100636 	问题#1就#2接踵#1而来#3一来#2不知道#1收费#1标准
+	问题_n#1 就_d#2 接踵而来一来_v#2 不_d#0 知道_v#1 收费_v#1 标准_n#4
+	wen4 ti2 jiu4 jie1 zhong3 er2 lai2 yi4 lai2 bu4 zhi1 dao4 shou1 fei4 biao1 zhun3
+
+100637 	登出的#2五百多个#3自费#1用户的#2电话#1号码
+	登_v#0 出_v#0 的_u#2 五百_m#0 多_m#0 个_q#3 自费_b#1 用户_n#0 的_u#2 电话_n#1 号码_n#4
+	deng1 chu1 de5 wu2 bai3 duo1 ge4 zi4 fei4 yong4 hu4 de5 dian4 hua4 hao4 ma3
+
+100638 	原先#3只有#1在#1台上#3才能#2欣赏到的#1时装#1表演
+	原先_d#3 只有_c#1 在_p#1 台上_nl#3 才_d#0 能_v#2 欣赏_v#0 到_v#0 的_u#1 时装_n#1 表演_v#4
+	yvan2 xian1 zhi2 you3 zai4 tai2 shang4 cai2 neng2 xin1 shang3 dao4 de5 shi2 zhuang1 biao2 yan3
+
+100639 	只好#1摸黑#2去#1按那#3唯一#1闪亮的#3电梯#1按钮
+	只好_d#1 摸黑_v#2 去_v#1 按_p#0 那_r#3 唯一_d#1 闪亮_v#0 的_u#3 电梯_n#1 按钮_n#4
+	zhi2 hao3 mo1 hei1 qv4 an4 na4 wei2 yi1 shan3 liang4 de5 dian4 ti1 an4 niu3
+
+100640 	也#1不必#1再有#3卧室#2兼作#1客厅的#1尴尬
+	也_d#1 不必_d#1 再_d#0 有_v#3 卧室_n#2 兼_v#0 作_v#1 客厅_n#0 的_u#1 尴尬_a#4
+	ye3 bu2 bi4 zai4 you3 wo4 shi4 jian1 zuo4 ke4 ting1 de5 gan1 ga4
+
+100641 	到了#2修正#1调整#3过去的#3考核#1坐标#1体系的#1时候了
+	到_v#0 了_u#2 修正_v#1 调整_v#3 过去_nt#0 的_u#3 考核_v#1 坐标_n#1 体系_n#0 的_u#1 时候_n#0 了_u#4
+	dao4 le5 xiu1 zheng4 tiao2 zheng3 guo4 qv4 de5 kao3 he2 zuo4 biao1 ti3 xi4 de5 shi2 hou4 le5
+
+100642 	实施#1开放性#3终身制#3网络#1远程#1教育
+	实施_v#1 开放性_n#3 终身制_n#3 网络_n#1 远程_b#1 教育_v#4
+	shi2 shi1 kai1 fang4 xing4 zhong1 shen1 zhi4 wang3 luo4 yvan3 cheng2 jiao4 yv4
+
+100643 	仅仅#2贸易#1偏差的#1锐减#3就可#2大量#1节省#1资金
+	仅仅_d#2 贸易_v#1 偏差_n#0 的_u#1 锐减_v#3 就_d#0 可_v#2 大量_m#1 节省_v#1 资金_n#4
+	jin2 jin3 mao4 yi4 pian1 cha1 de5 rui4 jian3 jiu4 ke3 da4 liang4 jie2 sheng3 zi1 jin1
+
+100644 	灵活#1保险的#1切换#1方式#4使#1系统的#1掉话率#3大幅#1降低
+	灵活_a#1 保险_a#0 的_u#1 切换_v#1 方式_n#4 使_v#1 系统_n#0 的_u#1 掉话率_n#3 大幅_d#1 降低_v#4
+	ling2 huo2 bao2 xian3 de5 qie1 huan4 fang1 shi4 shi3 xi4 tong3 de5 diao4 hua4 lv4 da4 fu2 jiang4 di1
+
+100645 	成为#1惠普#1第一家#3正式#1选定的#1合作#1伙伴
+	成为_v#1 惠普_nz#1 第一_m#0 家_q#3 正式_a#1 选定_v#0 的_u#1 合作_v#1 伙伴_n#4
+	cheng2 wei2 hui4 pu3 di4 yi1 jia1 zheng4 shi4 xvan3 ding4 de5 he2 zuo4 huo3 ban4
+
+100646 	惠普#2大幅面#2喷墨#1打印机#4能#1进行#2各种#1比例的#1打印
+	惠普_nz#2 大_a#0 幅面_n#2 喷墨_b#1 打印机_n#4 能_v#1 进行_v#2 各种_r#1 比例_n#0 的_u#1 打印_v#4
+	hui4 pu3 da4 fu2 mian4 pen1 mo4 da3 yin4 ji1 neng2 jin4 xing2 ge4 zhong2 bi3 li4 de5 da3 yin4
+
+100647 	从#1根本上#2扭转了#3我国#2副食品#1供应#3长期#1短缺的#1局面
+	从_p#1 根本_n#0 上_nd#2 扭转_v#0 了_u#3 我国_n#2 副食品_n#1 供应_v#3 长期_d#1 短缺_v#0 的_u#1 局面_n#4
+	cong2 gen1 ben3 shang5 niu2 zhuan3 le5 wo3 guo2 fu4 shi2 pin3 gong1 ying4 chang2 qi1 duan3 qve1 de5 jv2 mian4
+
+100648 	核燃料#2生产#1技术#3上了#1一个#2新台阶
+	核燃料_n#2 生产_v#1 技术_n#3 上_v#0 了_u#1 一个_m#2 新_a#0 台阶_n#4
+	he2 ran2 liao4 sheng1 chan3 ji4 shu4 shang4 le5 yi2 ge4 xin1 tai2 jie1
+
+100649 	而#1另一封#2署名的#1来信#3只有#1短短的#2一句话
+	而_c#1 另_r#0 一_m#0 封_q#2 署名_v#0 的_u#1 来信_n#3 只_d#0 有_v#1 短短的_z#2 一_m#0 句_q#0 话_n#4
+	er2 ling4 yi2 feng1 shu3 ming2 de5 lai2 xin4 zhi2 you3 duan2 duan3 de5 yi2 jv4 hua4
+
+100650 	大多数#1商品#3和#1服务#1价格#3实行#2市场#1调节价
+	大多数_m#1 商品_n#3 和_c#1 服务_v#1 价格_n#3 实行_v#2 市场_n#1 调节价_n#4
+	da4 duo1 shu4 shang1 pin3 he2 fu2 wu4 jia4 ge2 shi2 xing2 shi4 chang3 tiao2 jie2 jia4
+
+100651 	当事人#3或者#2有关#1人员#3不得#1转移#3隐匿#3或者#1销毁
+	当事人_n#3 或者_c#2 有关_v#1 人员_n#3 不得_v#1 转移_v#3 隐匿_v#3 或者_d#1 销毁_v#4
+	dang1 shi4 ren2 huo4 zhe2 you3 guan1 ren2 yvan2 bu4 de2 zhuan3 yi2 yin3 ni4 huo4 zhe3 xiao1 hui3
+
+100652 	要想#2彻底#1杜绝#1类似#3上海#2太阳#1广场#2那样的#3恶劣#1现象
+	要_v#0 想_v#2 彻底_a#1 杜绝_v#1 类似_v#3 上海_ns#2 太阳_n#1 广场_n#2 那样_r#0 的_u#3 恶劣_a#1 现象_n#4
+	yao4 xiang3 che4 di3 du4 jve2 lei4 si4 shang4 hai3 tai4 yang2 guang2 chang3 na4 yang4 de5 e4 lie4 xian4 xiang4
+
+100653 	玉环县#2一对#1农民#1夫妇#3双双#1被#1录用
+	玉环县_ns#2 一对_m#1 农民_n#1 夫妇_n#3 双双_m#1 被_p#1 录用_v#4
+	yv4 huan2 xian4 yi2 dui4 nong2 min2 fu1 fu4 shuang1 shuang1 bei4 lu4 yong4
+
+100654 	两万份#2十项#1承诺卡#3把#1方便#3交给了#1辖区的#1群众
+	两万_m#0 份_q#2 十_m#0 项_q#1 承诺卡_n#3 把_p#1 方便_a#3 交给_v#0 了_u#1 辖区_n#0 的_u#1 群众_n#4
+	liang3 wan4 fen4 shi2 xiang4 cheng2 nuo4 ka3 ba3 fang1 bian4 jiao1 gei3 le5 xia2 qv1 de5 qvn2 zhong4
+
+100655 	或#1认为#2不提拔#1自己#3就是#2不公正#3闹#1情绪者
+	或_c#1 认为_v#2 不_d#0 提拔_v#1 自己_r#3 就是_d#2 不_d#0 公正_a#3 闹情绪者_n#4
+	huo4 ren4 wei2 bu4 ti2 ba2 zi4 ji3 jiu4 shi4 bu4 gong1 zheng4 nao4 qing2 xv4 zhe3
+
+100656 	失落了#1以往#2拥有的#3庞大#1观众群
+	失落_v#0 了_u#1 以往_nt#2 拥有_v#0 的_u#3 庞大_a#1 观众群_n#4
+	shi1 luo4 le5 yi2 wang3 yong1 you3 de5 pang2 da4 guan1 zhong4 qvn2
+
+100657 	访问#2赤道#1几内亚#4和#1加蓬#4并#1顺访#2尼日尔
+	访问_v#2 赤道几内亚_ns#4 和_c#1 加蓬_ns#4 并_c#1 顺访_v#2 尼日尔_ns#4
+	fang3 wen4 chi4 dao4 ji3 nei4 ya4 he2 jia1 peng2 bing4 shun4 fang3 ni2 ri4 er3
+
+100658 	淡水#2及#1依存#1淡水的#1生命#3是#1罗布泊#3最#1缺乏的#1东西
+	淡水_n#2 及_c#1 依存_v#1 淡水_n#0 的_u#1 生命_n#3 是_v#1 罗布泊_ns#3 最_d#1 缺乏_v#0 的_u#1 东西_n#4
+	dan4 shui3 ji2 yi1 cun2 dan4 shui3 de5 sheng1 ming4 shi4 luo2 bu4 po1 zui4 qve1 fa2 de5 dong1 xi5
+
+100659 	外贸#1出口#1总额#3在#1全国#1外贸#1出口#1总额中#3所占的#1比重
+	外贸_n#1 出口_v#1 总额_n#3 在_p#1 全国_n#1 外贸_n#1 出口_v#1 总额_n#0 中_nd#3 所_u#0 占_v#0 的_u#1 比重_n#4
+	wai4 mao4 chu1 kou2 zong3 e2 zai4 qvan2 guo2 wai4 mao4 chu1 kou2 zong3 e2 zhong1 suo3 zhan4 de5 bi3 zhong4
+
+100660 	广州的#1摩托车#1工业#3几乎#1是#1一片#1空白
+	广州_ns#0 的_u#1 摩托车_n#1 工业_n#3 几乎_d#1 是_v#1 一_m#0 片_q#1 空白_n#4
+	guang3 zhou1 de5 mo2 tuo1 che1 gong1 ye4 ji1 hu1 shi4 yi2 pian4 kong4 bai2
+
+100661 	旅居#1海外#3和#1港澳的#1同胞#4有#1二百#2三十万人
+	旅居_v#1 海外_nl#3 和_c#1 港_j#0 澳_j#0 的_u#1 同胞_n#4 有_v#1 二百三十万_m#2 人_n#4
+	lv3 jv1 hai3 wai4 he2 gang3 ao4 de5 tong2 bao1 you3 er4 bai3 san1 shi2 wan4 ren2
+
+100662 	学生#3整体#1素质#1文明#1程度的#1提高
+	学生_n#3 整体_n#1 素质_n#1 文明_a#1 程度_n#0 的_u#1 提高_v#4
+	xve2 sheng1 zheng2 ti3 su4 zhi4 wen2 ming2 cheng2 du4 de5 ti2 gao1
+
+100663 	荣获#2全国#1优秀#3童声#1合唱团的#1称号
+	荣获_v#2 全国_n#1 优秀_a#3 童声_n#1 合唱团_n#0 的_u#1 称号_n#4
+	rong2 huo4 qvan2 guo2 you1 xiu4 tong2 sheng1 he2 chang4 tuan2 de5 cheng1 hao4
+
+100664 	归来后#3却#1遭受了#3家庭的#1不幸
+	归来_v#0 后_nd#3 却_d#1 遭受_v#0 了_u#3 家庭_n#0 的_u#1 不幸_n#4
+	gui1 lai2 hou4 qve4 zao1 shou4 le5 jia1 ting2 de5 bu2 xing4
+
+100665 	当你#2刚刚#1度过#3三十三岁#2生日的#1时候
+	当_p#0 你_r#2 刚刚_d#1 度过_v#3 三十三_m#0 岁_q#2 生日_n#0 的_u#1 时候_n#4
+	dang1 ni3 gang1 gang1 du4 guo4 san1 shi2 san1 sui4 sheng1 ri4 de5 shi2 hou4
+
+100666 	此时#3偏偏#2长城站的#3柴油#1发动机#4出了#1故障
+	此时_nt#3 偏偏_d#2 长城站_n#0 的_u#3 柴油_n#1 发动机_n#4 出_v#0 了_u#1 故障_n#4
+	ci3 shi2 pian1 pian1 chang2 cheng2 zhan4 de5 chai2 you2 fa1 dong4 ji1 chu1 le5 gu4 zhang4
+
+100667 	你#1眼中#2流露#1出#3逃离#1死亡的#1人#4对#1生命的#1珍爱
+	你_r#1 眼中_nl#2 流露_v#1 出_v#3 逃离_v#1 死亡_v#0 的_u#1 人_n#4 对_p#1 生命_n#0 的_u#1 珍爱_v#4
+	ni2 yan3 zhong1 liu2 lu4 chu1 tao2 li2 si3 wang2 de5 ren2 dui4 sheng1 ming4 de5 zhen1 ai4
+
+100668 	唯一#2能与#2家人#1联系的#3就是#1昂贵的#3短波#1通讯
+	唯一_d#2 能_v#0 与_p#2 家人_n#1 联系_v#0 的_u#3 就_d#0 是_v#1 昂贵_a#0 的_u#3 短波_n#1 通讯_n#4
+	wei2 yi1 neng2 yv3 jia1 ren2 lian2 xi4 de5 jiu4 shi4 ang2 gui4 de5 duan3 bo1 tong1 xvn4
+
+100669 	要#1忍耐的#3还不#1仅仅#1是#3单调#1寂寞
+	要_v#1 忍耐_v#0 的_u#3 还_d#0 不仅仅_d#1 是_v#3 单调_a#1 寂寞_a#4
+	yao4 ren3 nai4 de5 hai2 bu4 jin2 jin3 shi4 dan1 diao4 ji4 mo4
+
+100670 	焦虑的#1心情#3是#1常人#3难以#1想象的
+	焦虑_a#0 的_u#1 心情_n#3 是_v#1 常人_n#3 难以_d#1 想象_v#0 的_u#4
+	jiao1 lv4 de5 xin1 qing2 shi4 chang2 ren2 nan2 yi2 xiang3 xiang4 de5
+
+100671 	但#1还是#1按#2母亲的#1吩咐#3为她#2烧了#1纸钱
+	但_c#1 还是_d#1 按_p#2 母亲_n#0 的_u#1 吩咐_v#3 为_p#0 她_r#2 烧_v#0 了_u#1 纸钱_n#4
+	dan4 hai2 shi4 an4 mu3 qin1 de5 fen1 fu4 wei4 ta1 shao1 le5 zhi3 qian2
+
+100672 	竣工#1面积#3近#2四千#1六百万#1平方米
+	竣工_v#1 面积_n#3 近_v#2 四千六百万_m#1 平方米_q#4
+	jvn4 gong1 mian4 ji5 jin4 si4 qian1 liu4 bai3 wan4 ping2 fang1 mi3
+
+100673 	有#1八支#1球队#3替换了#1主教练
+	有_v#1 八_m#0 支_q#1 球队_n#3 替换_v#0 了_u#1 主教练_n#4
+	you3 ba1 zhi1 qiu2 dui4 ti4 huan4 le5 zhu3 jiao4 lian4
+
+100674 	阵容#1整齐#3全队#1团结#3是#1众口#1一词的#1理由
+	阵容_n#1 整齐_a#3 全队_n#1 团结_v#3 是_v#1 众口一词_i#1 的_u#1 理由_n#4
+	zhen4 rong2 zheng3 qi2 qvan2 dui4 tuan2 jie2 shi4 zhong4 kou3 yi4 ci2 de5 li3 you2
+
+100675 	两队#2都在#1为#2内线的#1实力#1薄弱#4头疼
+	两_m#0 队_q#2 都_d#0 在_d#1 为_p#2 内线_n#0 的_u#1 实力_n#1 薄弱_a#4 头疼_a#4
+	liang3 dui4 dou1 zai4 wei4 nei4 xian4 de5 shi2 li4 bo2 ruo4 tou2 teng2
+
+100676 	俱乐部#2聘请的#1外籍#1教练#4近期#2即可#1到位
+	俱乐部_n#2 聘请_v#0 的_u#1 外籍_n#1 教练_n#4 近期_nt#2 即可_v#1 到位_v#4
+	jv4 le4 bu4 pin4 qing3 de5 wai4 ji2 jiao4 lian4 jin4 qi1 ji2 ke3 dao4 wei4
+
+100677 	向来#1密切的#1美泰#1关系#4显得#1冷淡
+	向来_d#1 密切_a#0 的_u#1 美_j#0 泰_j#1 关系_n#4 显得_v#1 冷淡_a#4
+	xiang4 lai2 mi4 qie4 de5 mei3 tai4 guan1 xi4 xian3 de5 leng3 dan4
+
+100678 	东亚#1金融#1危机#3对#1美国#1来说#4是#1机遇#1和#1挑战#2并存
+	东亚_ns#1 金融_n#1 危机_n#3 对_p#1 美国_ns#1 来说_u#4 是_v#1 机遇_n#1 和_c#1 挑战_v#2 并存_v#4
+	dong1 ya4 jin1 rong2 wei1 ji1 dui4 mei3 guo2 lai2 shuo1 shi4 ji1 yv4 he2 tiao3 zhan4 bing4 cun2
+
+100679 	力争#1让#1华盛顿#3和#1国内的#1左右#1两翼#4都#1满意
+	力争_v#1 让_v#1 华盛顿_ns#3 和_c#1 国内_nl#0 的_u#1 左右_m#1 两翼_n#4 都_d#1 满意_v#4
+	li4 zheng1 rang4 hua2 sheng4 dun4 he2 guo2 nei4 de5 zuo3 you4 liang3 yi4 dou1 man3 yi4
+
+100680 	用#1砍刀#1等#3杀死了#1二百人#3至#1三百人
+	用_p#1 砍刀_n#1 等_u#3 杀死_v#0 了_u#1 二百_m#0 人_n#3 至_p#1 三百_m#0 人_n#4
+	yong4 kan3 dao1 deng3 sha1 si3 le5 er4 bai3 ren2 zhi4 san1 bai3 ren2
+
+100681 	人们#2正在#1搜寻#2和#1掩埋#3散布#1在#1野外的#1尸体
+	人们_n#2 正在_d#1 搜寻_v#2 和_c#1 掩埋_v#3 散布_v#1 在_p#1 野外_nl#0 的_u#1 尸体_n#4
+	ren2 men5 zheng4 zai4 sou1 xvn2 he2 yan3 mai2 san4 bu4 zai4 ye3 wai4 de5 shi1 ti3
+
+100682 	墨绿#2并且#2纵横#1有序的#3是#1咖啡园#2和#1森林
+	墨绿_b#2 并且_c#2 纵横有序_i#1 的_u#3 是_v#1 咖啡园_n#2 和_c#1 森林_n#4
+	mo4 lv4 bing4 qie3 zong4 heng2 you3 xv4 de5 shi4 ka1 fei1 yvan2 he2 sen1 lin2
+
+100683 	亚洲#2有#1年轻#3和#1受过#1教育的#2劳动力
+	亚洲_ns#2 有_v#1 年轻_a#3 和_c#1 受_v#0 过_u#1 教育_v#0 的_u#2 劳动力_n#4
+	ya4 zhou1 you3 nian2 qing1 he2 shou4 guo5 jiao4 yv4 de5 lao2 dong4 li4
+
+100684 	他们的#1文化#1风俗#1习惯#1等等#3也#1都在#2相互#1传播
+	他们_r#0 的_u#1 文化_n#1 风俗_n#1 习惯_n#1 等等_u#3 也_d#1 都_d#0 在_d#2 相互_d#1 传播_v#4
+	ta1 men5 de5 wen2 hua4 feng1 su2 xi2 guan4 deng2 deng3 ye3 dou1 zai4 xiang1 hu4 chuan2 bo1
+
+100685 	全俄#2共有#1约#3一千#1五百万人#4购买了#1公司的#1股票
+	全_a#0 俄_j#2 共有_v#1 约_d#3 一千五百万_m#1 人_n#4 购买_v#0 了_u#1 公司_n#0 的_u#1 股票_n#4
+	qvan2 e2 gong4 you3 yve1 yi4 qian1 wu2 bai3 wan4 ren2 gou4 mai3 le5 gong1 si1 de5 gu3 piao4
+
+100686 	母亲#1丽达#3已是#2三个#1孩子的#1妈妈
+	母亲_n#1 丽达_nh#3 已_d#0 是_v#2 三_m#0 个_q#1 孩子_n#0 的_u#1 妈妈_n#4
+	mu3 qin1 li4 da2 yi3 shi4 san1 ge5 hai2 zi5 de5 ma1 ma5
+
+100687 	在#1外国的#1报纸#1杂志#4电台#2电视台#4刊登#2和#1播出#1广告
+	在_p#1 外国_n#0 的_u#1 报纸_n#1 杂志_n#4 电台_n#2 电视台_n#4 刊登_v#2 和_c#1 播出_v#1 广告_n#4
+	zai4 wai4 guo2 de5 bao4 zhi3 za2 zhi4 dian4 tai2 dian4 shi4 tai2 kan1 deng1 he2 bo1 chu1 guang3 gao4
+
+100688 	开辟#1东南亚#3南亚#1佛教#1旅游#1专线
+	开辟_v#1 东南亚_ns#3 南亚_ns#1 佛教_nz#1 旅游_v#1 专线_n#4
+	kai1 pi4 dong1 nan2 ya4 nan2 ya4 fo2 jiao4 lv3 you2 zhuan1 xian4
+
+100689 	高温#1气体#2从#1喷嘴#1两头#3向外#2快速#2喷射#1而出
+	高温_n#1 气体_n#2 从_p#1 喷嘴_n#1 两头_nd#3 向_p#0 外_nd#2 快速_d#2 喷射_v#1 而_c#0 出_v#4
+	gao1 wen1 qi4 ti3 cong2 pen1 zui2 liang3 tou2 xiang4 wai4 kuai4 su4 pen1 she4 er2 chu1
+
+100690 	殊不知#3这样做#3给#1动物园#3带来了#1麻烦
+	殊不知_v#3 这样_r#0 做_v#3 给_p#1 动物园_n#3 带来_v#0 了_u#1 麻烦_a#4
+	shu1 bu4 zhi1 zhei4 yang4 zuo4 gei3 dong4 wu4 yvan2 dai4 lai2 le5 ma2 fan5
+
+100691 	两只#1金丝猴#3因#1贪吃#3游客#1投喂的#3蚕豆#1爆米花
+	两_m#0 只_q#1 金丝猴_n#3 因_p#1 贪吃_v#3 游客_n#1 投_v#0 喂_v#0 的_u#3 蚕豆_n#1 爆米花_n#4
+	liang3 zhi1 jin1 si1 hou2 yin1 tan1 chi1 you2 ke4 tou2 wei4 de5 can2 dou4 bao4 mi3 hua1
+
+100692 	环境#1教育的#3师资#1教材#4都#1非常#1缺乏
+	环境_n#1 教育_v#0 的_u#3 师资_n#1 教材_n#4 都_d#1 非常_d#1 缺乏_v#4
+	huan2 jing4 jiao4 yv4 de5 shi1 zi1 jiao4 cai2 dou1 fei1 chang2 qve1 fa2
+
+100693 	要求#2加强#1中小学#3各科#1教材中#4环保#1内容的#3教学#1研究
+	要求_v#2 加强_v#1 中小学_j#3 各科_r#1 教材_n#0 中_nd#4 环保_j#1 内容_n#0 的_u#3 教学_v#1 研究_v#4
+	yao1 qiu2 jia1 qiang2 zhong1 xiao3 xve2 ge4 ke1 jiao4 cai2 zhong1 huan2 bao3 nei4 rong2 de5 jiao4 xve2 yan2 jiu1
+
+100694 	师范#1中专#4还要#2逐步#1把#1环保课#3列为#1必修课
+	师范_n#1 中专_n#4 还要_d#2 逐步_d#1 把_p#1 环保_j#0 课_n#3 列为_v#1 必修课_n#4
+	shi1 fan4 zhong1 zhuan1 hai2 yao4 zhu2 bu4 ba3 huan2 bao3 ke4 lie4 wei2 bi4 xiu1 ke4
+
+100695 	体现#2董事会的#3指导#1思想#4多换#1脑筋#4少换人
+	体现_v#2 董事会_n#0 的_u#3 指导_v#1 思想_n#4 多_d#0 换脑筋_v#4 少_d#0 换人_v#4
+	ti3 xian4 dong3 shi4 hui4 de5 zhi2 dao3 si1 xiang3 duo1 huan4 nao3 jin1 shao3 huan4 ren2
+
+100696 	慈祥地#1问她#3如何#1料理#3生活#1起居#4和#1今后的#1打算
+	慈祥_a#0 地_u#1 问_v#0 她_r#3 如何_r#1 料理_v#3 生活_v#1 起居_n#4 和_c#1 今后_nt#0 的_u#1 打算_n#4
+	ci2 xiang2 de5 wen4 ta1 ru2 he2 liao4 li3 sheng1 huo2 qi3 jv1 he2 jin1 hou4 de5 da3 suan4
+
+100697 	一个#2先进的#3有#1进取心#4和#1创造#1精神的#1政党
+	一个_m#2 先进_a#0 的_u#3 有_v#1 进取心_n#4 和_c#1 创造_v#1 精神_n#0 的_u#1 政党_n#4
+	yi2 ge4 xian1 jin4 de5 you3 jin4 qv3 xin1 he2 chuang4 zao4 jing1 shen5 de5 zheng4 dang3
+
+100698 	是对#1我们#3古老#1民族#2历史#1命运的#3主动#1把握
+	是_v#0 对_p#1 我们_r#3 古老_a#1 民族_n#2 历史_n#1 命运_n#0 的_u#3 主动_a#1 把握_v#4
+	shi4 dui4 wo3 men2 gu2 lao3 min2 zu2 li4 shi3 ming4 yvn4 de5 zhu3 dong4 ba3 wo4
+
+100699 	撰写了#1一篇篇#3事件#1纷纭#3人物#1众多#4栩栩#1如生的#2回忆录
+	撰写_v#0 了_u#1 一篇篇_m#3 事件_n#1 纷纭_z#3 人物_n#1 众多_m#4 栩栩如生_i#1 的_u#2 回忆录_n#4
+	zhuan4 xie3 le5 yi4 pian1 pian1 shi4 jian4 fen1 yvn2 ren2 wu4 zhong4 duo1 xv2 xv3 ru2 sheng1 de5 hui2 yi4 lu4
+
+100700 	造成#2大面积#1耕地的#1绝收#4或#1歉收
+	造成_v#2 大面积_d#1 耕地_n#0 的_u#1 绝收_v#4 或_c#1 歉收_v#4
+	zao4 cheng2 da4 mian4 ji5 geng1 di4 de5 jve2 shou1 huo4 qian4 shou1
+
+100701 	一些#1能#2直接#1证明#3侵害#1事实的#1证据#4往往#2难以#1取得
+	一些_m#1 能_v#2 直接_a#1 证明_v#3 侵害_v#1 事实_n#0 的_u#1 证据_n#4 往往_d#2 难以_d#1 取得_v#4
+	yi4 xie1 neng2 zhi2 jie1 zheng4 ming2 qin1 hai4 shi4 shi2 de5 zheng4 jv4 wang2 wang3 nan2 yi2 qv3 de2
+
+100702 	根本的#1原因#3是#1种子#1市场#1混乱
+	根本_a#0 的_u#1 原因_n#3 是_v#1 种子_n#1 市场_n#1 混乱_a#4
+	gen1 ben3 de5 yvan2 yin1 shi4 zhong3 zi5 shi4 chang3 hun4 luan4
+
+100703 	针对#2尚志#1地区#3多发#1流窜#1作案#3抢劫#1犯罪
+	针对_p#2 尚志_ns#1 地区_n#3 多_d#0 发_v#1 流窜_v#1 作案_v#3 抢劫_v#1 犯罪_v#4
+	zhen1 dui4 shang4 zhi4 di4 qv1 duo1 fa1 liu2 cuan4 zuo4 an4 qiang3 jie2 fan4 zui4
+
+100704 	理应#1引起#2家长#1学校#3乃至#2全#1社会的#1深思
+	理应_v#1 引起_v#2 家长_n#1 学校_n#3 乃至_c#2 全_a#1 社会_n#0 的_u#1 深思_v#4
+	li3 ying1 yin2 qi3 jia1 zhang3 xve2 xiao4 nai3 zhi4 qvan2 she4 hui4 de5 shen1 si1
+
+100705 	现在#2要用#2超音速#1飞机#3作#1特技#1表演
+	现在_nt#2 要_v#0 用_p#2 超音速_n#1 飞机_n#3 作_v#1 特技_n#1 表演_v#4
+	xian4 zai4 yao4 yong4 chao1 yin1 su4 fei1 ji1 zuo4 te4 ji4 biao2 yan3
+
+100706 	向#1地面#1扎去#4机敏的#1刘旭#3沉着#1应付#3突如#1其来的#1险情
+	向_p#1 地面_n#1 扎_v#0 去_v#4 机敏_a#0 的_u#1 刘旭_nh#3 沉着_a#1 应付_v#3 突如其来_i#1 的_u#1 险情_n#4
+	xiang4 di4 mian4 zha1 qv4 ji1 min3 de5 liu2 xv4 chen2 zhuo2 ying4 fu4 tu1 ru2 qi2 lai2 de5 xian3 qing2
+
+100707 	老兵们#3就#1手#1把手#3教#1我们#1操作
+	老兵_n#0 们_k#3 就_d#1 手把手_i#3 教_v#1 我们_r#1 操作_v#4
+	lao3 bing1 men5 jiu4 shou2 ba2 shou3 jiao1 wo3 men5 cao1 zuo4
+
+100708 	在#1坎坷#1不平的#3泥泞#1路上#4追击#1歹徒
+	在_p#1 坎坷不平_i#1 的_u#3 泥泞_n#1 路上_nl#4 追击_v#1 歹徒_n#4
+	zai4 kan2 ke3 bu4 ping2 de5 ni2 ning4 lu4 shang4 zhui1 ji1 dai3 tu2
+
+100709 	刘福印#2哈哈#1一笑#4我可#1舍不得#3脱#1这身#3绿军装
+	刘福印_nh#2 哈哈_o#1 一_m#0 笑_v#4 我_r#0 可_d#1 舍不得_v#3 脱_v#1 这_r#0 身_q#3 绿_a#0 军装_n#4
+	liu2 fu2 yin4 ha1 ha1 yi2 xiao4 wo2 ke2 she3 bu5 de2 tuo1 zhe4 shen1 lv4 jvn1 zhuang1
+
+100710 	人民币#3汇率#1贬值的#3基本#1经济#1因素#4不存在
+	人民币_n#3 汇率_n#1 贬值_v#0 的_u#3 基本_a#1 经济_n#1 因素_n#4 不_d#0 存在_v#4
+	ren2 min2 bi4 hui4 lv4 bian3 zhi2 de5 ji1 ben3 jing1 ji4 yin1 su4 bu4 cun2 zai4
+
+100711 	外汇#1市场#2供求#1状况#3不会#1发生#3根本性的#1逆转
+	外汇_n#1 市场_n#2 供求_n#1 状况_n#3 不_d#0 会_v#1 发生_v#3 根本性_n#0 的_u#1 逆转_v#4
+	wai4 hui4 shi4 chang3 gong1 qiu2 zhuang4 kuang4 bu2 hui4 fa1 sheng1 gen1 ben3 xing4 de5 ni4 zhuan3
+
+100712 	瞻仰#2毛主席#1遗容#4是#1二老#1一生#3最大的#1愿望
+	瞻仰_v#2 毛_nh#0 主席_n#1 遗容_n#4 是_v#1 二老_n#1 一生_n#3 最_d#0 大_a#0 的_u#1 愿望_n#4
+	zhan1 yang3 mao2 zhu3 xi2 yi2 rong2 shi4 er4 lao3 yi4 sheng1 zui4 da4 de5 yvan4 wang4
+
+100713 	优秀的#1艺术#1作品#3可以#1给#1人们#3以#1启发#1教育#3和#1鼓舞
+	优秀_a#0 的_u#1 艺术_n#1 作品_n#3 可以_v#1 给_p#1 人们_n#3 以_p#1 启发_v#1 教育_v#3 和_c#1 鼓舞_v#4
+	you1 xiu4 de5 yi4 shu4 zuo4 pin3 ke2 yi2 gei3 ren2 men5 yi2 qi3 fa1 jiao4 yv5 he2 gu2 wu3
+
+100714 	又怕#2个别#1村干部#3把#1血汗钱#3拿去#1糟蹋
+	又_d#0 怕_v#2 个别_a#1 村干部_n#3 把_p#1 血汗钱_n#3 拿_v#0 去_v#1 糟蹋_v#4
+	you4 pa4 ge4 bie2 cun1 gan4 bu4 ba2 xie3 han4 qian2 na2 qv4 zao1 ta5
+
+100715 	逐步#1增强了#3省级#1财政#2宏观#1调控#1能力
+	逐步_d#1 增强_v#0 了_u#3 省级_b#1 财政_n#2 宏观_n#1 调控_v#1 能力_n#4
+	zhu2 bu4 zeng1 qiang2 le5 sheng3 ji2 cai2 zheng4 hong2 guan1 tiao2 kong4 neng2 li4
+
+100716 	抗议#2日本#1侵略者#3在#1济南#1制造的#3五三#1惨案
+	抗议_v#2 日本_ns#1 侵略者_n#3 在_p#1 济南_ns#1 制造_v#0 的_u#3 五_m#0 三_m#1 惨案_n#4
+	kang4 yi4 ri4 ben3 qin1 lve4 zhe3 zai4 ji3 nan2 zhi4 zao4 de5 wu3 san1 can3 an4
+
+100717 	粉碎#2国民党#2反动派的#3军事#1进攻
+	粉碎_v#2 国民党_n#2 反动派_n#0 的_u#3 军事_n#1 进攻_v#4
+	fen3 sui4 guo2 min2 dang3 fan3 dong4 pai4 de5 jvn1 shi4 jin4 gong1
+
+100718 	促进了#1西北#1地区#3工农业#1生产的#1恢复#4和#1发展
+	促进_v#0 了_u#1 西北_nd#1 地区_n#3 工农业_n#1 生产_v#0 的_u#1 恢复_v#4 和_c#1 发展_v#4
+	cu4 jin4 le5 xi1 bei3 di4 qv1 gong1 nong2 ye4 sheng1 chan3 de5 hui1 fu4 he2 fa1 zhan3
+
+100719 	大幅度#1提高#3高科技#1产品的#3市场#1占有#1份额
+	大幅度_d#1 提高_v#3 高_a#0 科技_n#1 产品_n#0 的_u#3 市场_n#1 占有_v#1 份额_n#4
+	da4 fu2 du4 ti2 gao1 gao1 ke1 ji4 chan2 pin3 de5 shi4 chang3 zhan4 you3 fen4 e2
+
+100720 	中共#2贵州#2省委#1省政府#1领导#3送来#1花圈#3表示#1吊唁
+	中共_j#2 贵州_ns#2 省委_n#1 省政府_n#1 领导_n#3 送_v#0 来_v#1 花圈_n#3 表示_v#1 吊唁_v#4
+	zhong1 gong4 gui4 zhou1 sheng2 wei2 sheng3 zheng4 fu3 ling2 dao3 song4 lai2 hua1 qvan1 biao3 shi4 diao4 yan4
+
+100721 	其他#1麦苗#3害了#1一场#3传染性#1锈病
+	其他_r#1 麦苗_n#3 害_v#0 了_u#1 一_m#0 场_q#3 传染性_b#1 锈病_n#4
+	qi2 ta1 mai4 miao2 hai4 le5 yi4 chang3 chuan2 ran3 xing4 xiu4 bing4
+
+100722 	我#1答应#1乡亲们#3再#1培育#1一个#3小麦#1新品种
+	我_r#1 答应_v#1 乡亲_n#0 们_k#3 再_d#1 培育_v#1 一个_m#3 小麦_n#1 新_a#0 品种_n#4
+	wo3 da1 ying4 xiang1 qin5 men5 zai4 pei2 yv4 yi2 ge4 xiao3 mai4 xin1 pin2 zhong3
+
+100723 	但对#2体育#1产业#3这一#2概念的#1内涵#3和#1外延
+	但_c#0 对_p#2 体育_n#1 产业_n#3 这_r#0 一_m#2 概念_n#0 的_u#1 内涵_n#3 和_c#1 外延_n#4
+	dan4 dui4 ti3 yv4 chan3 ye4 zhe4 yi2 gai4 nian4 de5 nei4 han2 he2 wai4 yan2
+
+100724 	体育#1市场的#1潜力#3无疑#1是#1巨大的
+	体育_n#1 市场_n#0 的_u#1 潜力_n#3 无疑_d#1 是_v#1 巨大_a#0 的_u#4
+	ti3 yv4 shi4 chang3 de5 qian2 li4 wu2 yi2 shi4 jv4 da4 de5
+
+100725 	希望#2土库#1曼斯坦#3也#1加入#3这一#1联盟#1组织
+	希望_v#2 土库曼斯坦_ns#3 也_d#1 加入_v#3 这_r#0 一_m#1 联盟_n#1 组织_n#4
+	xi1 wang4 tu3 ku4 man4 si1 tan3 ye3 jia1 ru4 zhe4 yi2 lian2 meng2 zu3 zhi1
+
+100726 	土库#1曼斯坦#1总统#3新闻#1秘书#4在#1会晤#1后#3对#1记者#1说
+	土库曼斯坦_ns#1 总统_n#3 新闻_n#1 秘书_n#4 在_p#1 会晤_v#1 后_nd#3 对_p#1 记者_n#1 说_v#4
+	tu3 ku4 man4 si1 tan3 zong2 tong3 xin1 wen2 mi4 shu5 zai4 hui4 wu4 hou4 dui4 ji4 zhe3 shuo1
+
+100727 	沿途的#2居民#1住宅#3家家#1绿树#1掩映
+	沿途_b#0 的_u#2 居民_n#1 住宅_n#3 家家_q#1 绿_a#0 树_n#1 掩映_v#4
+	yan2 tu2 de5 jv1 min2 zhu4 zhai2 jia1 jia1 lv4 shu4 yan3 ying4
+
+100728 	阿拉伯#1国家#3被#1剥夺的#2合法#1权利#4必须#2得到#1恢复
+	阿拉伯_ns#1 国家_n#3 被_p#1 剥夺_v#0 的_u#2 合法_a#1 权利_n#4 必须_d#2 得到_v#1 恢复_v#4
+	a1 la1 bo2 guo2 jia1 bei4 bo1 duo2 de5 he2 fa3 qvan2 li4 bi4 xv1 de2 dao4 hui1 fu4
+
+100729 	又#1包括#3属于#2革新#1势力的#1民社党
+	又_d#1 包括_v#3 属于_v#2 革新_v#1 势力_n#0 的_u#1 民社党_n#4
+	you4 bao1 kuo4 shu3 yv2 ge2 xin1 shi4 li4 de5 min2 she4 dang3
+
+100730 	党的#1基本#1政策#3与#1自民党#3相差#1无几
+	党_n#0 的_u#1 基本_a#1 政策_n#3 与_c#1 自民党_n#3 相差无几_i#4
+	dang3 de5 ji1 ben3 zheng4 ce4 yv3 zi4 min2 dang3 xiang1 cha4 wu2 ji3
+
+100731 	扼守#2南联盟#3重要的#1海军#1基地#4科托尔湾的#2出海口
+	扼守_v#2 南联盟_j#3 重要_a#0 的_u#1 海军_n#1 基地_n#4 科托尔湾_ns#0 的_u#2 出海口_n#4
+	e4 shou3 nan2 lian2 meng2 zhong4 yao4 de5 hai3 jvn1 ji1 di4 ke1 tuo1 er3 wan1 de5 chu1 hai2 kou3
+
+100732 	双方#2对#1各自#3所#1采取的#1态度#3和#1立场#3是#1充分#1理解的
+	双方_n#2 对_p#1 各自_r#3 所_u#1 采取_v#0 的_u#1 态度_n#3 和_c#1 立场_n#3 是_v#1 充分_a#1 理解_v#0 的_u#4
+	shuang1 fang1 dui4 ge4 zi4 suo3 cai2 qv3 de5 tai4 du4 he2 li4 chang3 shi4 chong1 fen4 li2 jie3 de5
+
+100733 	引起了#2墨西哥#2金融#1市场的#3强烈#1动荡
+	引起_v#0 了_u#2 墨西哥_ns#2 金融_n#1 市场_n#0 的_u#3 强烈_a#1 动荡_a#4
+	yin2 qi3 le5 mo4 xi1 ge1 jin1 rong2 shi4 chang3 de5 qiang2 lie4 dong4 dang4
+
+100734 	尤其是#2干椰枣#4比#1去年#2贵了#1许多
+	尤其_d#0 是_v#2 干椰枣_n#4 比_p#1 去年_nt#2 贵_a#0 了_u#1 许多_m#4
+	you2 qi2 shi4 gan1 ye1 zao3 bi3 qv4 nian2 gui4 le5 xv3 duo1
+
+100735 	要数#1尼罗河边的#3萨赫勒#1批发#1市场
+	要_v#0 数_v#1 尼罗河_ns#0 边_nd#0 的_u#3 萨赫勒_nz#1 批发_v#1 市场_n#4
+	yao4 shu3 ni2 luo2 he2 bian1 de5 sa4 he4 le4 pi1 fa1 shi4 chang3
+
+100736 	目前#2纽约#1地铁#1火车#3普遍#2车速#1缓慢
+	目前_nt#2 纽约_ns#1 地铁_n#1 火车_n#3 普遍_a#2 车速_n#1 缓慢_a#4
+	mu4 qian2 niu3 yve1 di4 tie2 huo3 che1 pu3 bian4 che1 su4 huan3 man4
+
+100737 	本报#2不断#1收到#3农村#1读者的#1来信
+	本报_r#2 不断_d#1 收到_v#3 农村_n#1 读者_n#0 的_u#1 来信_n#4
+	ben3 bao4 bu2 duan4 shou1 dao4 nong2 cun1 du2 zhe3 de5 lai2 xin4
+
+100738 	归纳#1起来#3问题#1有#1两个#4一是#2配电#1变压器#3大马#1拉#1小车
+	归纳_v#1 起来_v#3 问题_n#1 有_v#1 两_m#0 个_q#4 一_m#0 是_v#2 配电_v#1 变压器_n#3 大马_n#1 拉_v#1 小车_n#4
+	gui1 na4 qi3 lai2 wen4 ti2 you2 liang3 ge4 yi1 shi4 pei4 dian4 bian4 ya1 qi4 da4 ma3 la1 xiao3 che1
+
+100739 	一般#2都#1选用#2容量#1很大的#4配电#1变压器
+	一般_a#2 都_d#1 选用_v#2 容量_n#1 很_d#0 大_a#0 的_u#4 配电_v#1 变压器_n#4
+	yi4 ban1 dou1 xvan3 yong4 rong2 liang4 hen3 da4 de5 pei4 dian4 bian4 ya1 qi4
+
+100740 	落水#1小孩的#1父亲#3吓得#1瘫坐#1在地
+	落水_v#1 小孩_n#0 的_u#1 父亲_n#3 吓_v#0 得_u#1 瘫_v#0 坐_v#1 在_p#0 地_n#4
+	luo4 shui2 xiao3 hai2 de5 fu4 qin5 xia4 de5 tan1 zuo4 zai4 di4
+
+100741 	烧香#1拜佛的#1人#3自然#2会#1越来#1越少
+	烧香_v#1 拜佛_v#0 的_u#1 人_n#3 自然_d#2 会_v#1 越来越_d#1 少_a#4
+	shao1 xiang1 bai4 fo2 de5 ren2 zi4 ran2 hui4 yve4 lai2 yve4 shao3
+
+100742 	客观上#2为#1工伤#1事故#3埋下了#1祸根
+	客观_n#0 上_nd#2 为_p#1 工伤_n#1 事故_n#3 埋_v#0 下_v#0 了_u#1 祸根_n#4
+	ke4 guan1 shang4 wei4 gong1 shang1 shi4 gu4 mai2 xia4 le5 huo4 gen1
+
+100743 	争议的#1焦点#3不是#1收费的#1多少
+	争议_v#0 的_u#1 焦点_n#3 不_d#0 是_v#1 收费_v#0 的_u#1 多少_r#4
+	zheng1 yi4 de5 jiao1 dian3 bu2 shi4 shou1 fei4 de5 duo1 shao3
+
+100744 	幸福#1工程#3旨在#1救助#1贫困#1地区的#3贫困#1母亲
+	幸福_a#1 工程_n#3 旨在_v#1 救助_v#1 贫困_a#1 地区_n#0 的_u#3 贫困_a#1 母亲_n#4
+	xing4 fu2 gong1 cheng2 zhi3 zai4 jiu4 zhu4 pin2 kun4 di4 qv1 de5 pin2 kun4 mu3 qin1
+
+100745 	她家#2连买#1火柴的#1钱#3都#1没有了
+	她家_r#2 连_u#0 买_v#1 火柴_n#0 的_u#1 钱_n#3 都_d#1 没有_v#0 了_u#4
+	ta1 jia1 lian2 mai2 huo3 chai2 de5 qian2 dou1 mei2 you3 le5
+
+100746 	寒暑假#3是#1我们#1函授生#2学习的#3最佳#1时期
+	寒暑假_n#3 是_v#1 我们_r#1 函授生_v#2 学习_v#0 的_u#3 最佳_z#1 时期_n#4
+	han2 shu3 jia4 shi4 wo3 men5 han2 shou4 sheng1 xve2 xi2 de5 zui4 jia1 shi2 qi1
+
+100747 	揭开了#3创建#2太岳#1革命#1根据地#3斗争的#1序幕
+	揭开_v#0 了_u#3 创建_v#2 太岳_ns#1 革命_v#1 根据地_n#3 斗争_v#0 的_u#1 序幕_n#4
+	jie1 kai1 le5 chuang4 jian4 tai4 yve4 ge2 ming4 gen1 jv4 di4 dou4 zheng1 de5 xv4 mu4
+
+100748 	强迫#1占领区#2周围的#1群众#3组建#1维持会
+	强迫_v#1 占领区_n#2 周围_nd#0 的_u#1 群众_n#3 组建_v#1 维持会_n#4
+	qiang3 po4 zhan4 ling3 qv1 zhou1 wei2 de5 qvn2 zhong4 zu3 jian4 wei2 chi2 hui4
+
+100749 	会议#1提出#3必须#1动员#1一切#1力量#3开展#1反投降#3反妥协#1斗争
+	会议_n#1 提出_v#3 必须_d#1 动员_v#1 一切_r#1 力量_n#3 开展_v#1 反_v#0 投降_v#3 反_v#0 妥协_v#1 斗争_v#4
+	hui4 yi4 ti2 chu1 bi4 xv1 dong4 yvan2 yi2 qie4 li4 liang4 kai1 zhan2 fan3 tou2 xiang2 fan2 tuo3 xie2 dou4 zheng1
+
+100750 	把#1原属#1铁道部的#3张家口#1铁路#1工厂#4一锅#1端过来
+	把_p#1 原_d#0 属_v#1 铁道部_ni#0 的_u#3 张家口_ns#1 铁路_n#1 工厂_n#4 一_m#0 锅_n#1 端_v#0 过来_v#4
+	ba3 yvan2 shu2 tie3 dao4 bu4 de5 zhang1 jia1 kou2 tie3 lu4 gong1 chang3 yi4 guo1 duan1 guo4 lai5
+
+100751 	而且#2为#1三五#1四五#3准备了#1充分的#3矿产#1资源
+	而且_c#2 为_p#1 三五四五_m#3 准备_v#0 了_u#1 充分_a#0 的_u#3 矿产_n#1 资源_n#4
+	er2 qie3 wei4 san1 wu3 si4 wu3 zhun3 bei4 le5 chong1 fen4 de5 kuang4 chan3 zi1 yvan2
+
+100752 	平衡#1缺口#4只能#1靠#2多发#1票子#3产品#1涨价#3来#1弥补
+	平衡_a#1 缺口_n#4 只_d#0 能_v#1 靠_p#2 多_a#0 发_v#1 票子_n#3 产品_n#1 涨价_v#3 来_v#1 弥补_v#4
+	ping2 heng2 qve1 kou3 zhi3 neng2 kao4 duo1 fa1 piao4 zi5 chan2 pin2 zhang3 jia4 lai2 mi2 bu3
+
+100753 	这#1不是#2用#1容忍#1通胀#3扩大#1需求#3所能#1解决的
+	这_r#1 不_d#0 是_v#2 用_p#1 容忍_v#1 通胀_v#3 扩大_v#1 需求_n#3 所_u#0 能_v#1 解决_v#0 的_u#4
+	zhe4 bu2 shi4 yong4 rong2 ren3 tong1 zhang4 kuo4 da4 xv1 qiu2 suo3 neng2 jie3 jve2 de5
+
+100754 	改变了#1民航#2多年#1来#3基本#1建设#1存在的#3结构性#1偏差
+	改变_v#0 了_u#1 民航_n#2 多_a#0 年_q#1 来_nd#3 基本建设_i#1 存在_v#0 的_u#3 结构性_n#1 偏差_n#4
+	gai3 bian4 le5 min2 hang2 duo1 nian2 lai2 ji1 ben3 jian4 she4 cun2 zai4 de5 jie2 gou4 xing4 pian1 cha1
+
+100755 	亏损额#1比#2上年#1下降了#3百分之#1十四
+	亏损额_n#1 比_p#2 上年_nt#1 下降_v#0 了_u#3 百分之十四_m#4
+	kui1 sun3 e2 bi3 shang4 nian2 xia4 jiang4 le5 bai3 fen1 zhi1 shi2 si4
+
+100756 	为#1建立#1巩固的#3东北#1根据地#3提供了#1条件
+	为_p#1 建立_v#1 巩固_v#0 的_u#3 东北_nl#1 根据地_n#3 提供_v#0 了_u#1 条件_n#4
+	wei4 jian4 li4 gong3 gu4 de5 dong1 bei3 gen1 jv4 di4 ti2 gong1 le5 tiao2 jian4
+
+100757 	发展#1我国的#3国防#1尖端#1武器#1装备
+	发展_v#1 我国_n#0 的_u#3 国防_n#1 尖端_b#1 武器_n#1 装备_n#4
+	fa1 zhan2 wo3 guo2 de5 guo2 fang2 jian1 duan1 wu3 qi4 zhuang1 bei4
+
+100758 	要#1实现#3国民#2生产#1总值#4比#1二零#1零零年#3翻#1一番
+	要_v#1 实现_v#3 国民_n#2 生产总值_n#4 比_p#1 二_m#0 零零零年_nt#3 翻_v#1 一番_m#4
+	yao4 shi2 xian4 guo2 min2 sheng1 chan2 zong3 zhi2 bi3 er4 ling2 ling2 ling2 nian2 fan1 yi4 fan1
+
+100759 	我想#2谈谈#1那些#2普通人#3难以#1忘怀的#3普通#1小事
+	我_r#0 想_v#2 谈谈_v#1 那些_r#2 普通人_n#3 难以忘怀_i#1 的_u#3 普通_a#1 小事_n#4
+	wo2 xiang3 tan2 tan5 na4 xie1 pu3 tong1 ren2 nan2 yi3 wang4 huai2 de5 pu3 tong1 xiao3 shi4
+
+100760 	高尚的#1精神#1境界#4只有#2高尚的#1人们#3才有#2资格#1领略
+	高尚_a#0 的_u#1 精神_n#1 境界_n#4 只有_d#2 高尚_a#0 的_u#1 人们_n#3 才_d#0 有_v#2 资格_n#1 领略_v#4
+	gao1 shang4 de5 jing1 shen2 jing4 jie4 zhi2 you3 gao1 shang4 de5 ren2 men5 cai2 you3 zi1 ge2 ling3 lve4
+
+100761 	白天#1到#1剧团里#3再向#2内行的#1人#1请教
+	白天_nt#1 到_v#1 剧团_n#0 里_nd#3 再_d#0 向_p#2 内行_n#0 的_u#1 人_n#1 请教_v#4
+	bai2 tian1 dao4 jv4 tuan2 li3 zai4 xiang4 nei4 hang2 de5 ren2 qing3 jiao4
+
+100762 	百八十号的#1戏友们#3都#1赶来#3给#1侯老#1拜年
+	百八十_m#0 号_q#0 的_u#1 戏友_n#0 们_k#3 都_d#1 赶来_v#3 给_p#1 侯老_nh#1 拜年_v#4
+	bai3 ba1 shi2 hao4 de5 xi4 you3 men5 dou1 gan3 lai2 gei3 hou2 lao3 bai4 nian2
+
+100763 	集装箱#2检测#1系统的#3产品化#1工作#4由#1公司#2正式#1承担
+	集装箱_n#2 检测_v#1 系统_n#0 的_u#3 产品化_v#1 工作_v#4 由_p#1 公司_n#2 正式_a#1 承担_v#4
+	ji2 zhuang1 xiang1 jian3 ce4 xi4 tong3 de5 chan2 pin3 hua4 gong1 zuo4 you2 gong1 si1 zheng4 shi4 cheng2 dan1
+
+100764 	而#2俄罗斯#1同#2乌克兰#3哈萨#1克斯#1坦的#1贸易额#3却#1下降了
+	而_c#2 俄罗斯_ns#1 同_p#2 乌克兰_ns#3 哈萨克斯坦_ns#1 的_u#1 贸易额_n#3 却_d#1 下降_v#0 了_u#4
+	er2 e2 luo2 si1 tong2 wu1 ke4 lan2 ha1 sa4 ke4 si1 tan3 de5 mao4 yi4 e2 qve4 xia4 jiang4 le5
+
+100765 	防止#2恐怖#1主义#1分子#3穿越#2阿拉伯#1国家#1边界#3进行#2渗透
+	防止_v#2 恐怖主义_n#1 分子_n#3 穿越_v#2 阿拉伯_ns#1 国家_n#1 边界_n#3 进行_v#2 渗透_v#4
+	fang2 zhi2 kong3 bu4 zhu3 yi4 fen4 zi3 chuan1 yve4 a1 la1 bo2 guo2 jia1 bian1 jie4 jin4 xing2 shen4 tou4
+
+100766 	大街上#3随处#1可#1看到#3世锦赛的#1宣传画#3和#1横幅
+	大街_n#0 上_nd#3 随处_d#1 可_v#1 看到_v#3 世锦赛_j#0 的_u#1 宣传画_n#3 和_c#1 横幅_n#4
+	da4 jie1 shang4 sui2 chu4 ke3 kan4 dao4 shi4 jin3 sai4 de5 xvan1 chuan2 hua4 he2 heng2 fu2
+
+100767 	四年的#1禁赛#3实在#1是#1徒劳#4而#2昂贵的
+	四_m#0 年_q#0 的_u#1 禁赛_v#3 实在_d#1 是_v#1 徒劳_v#4 而_c#2 昂贵_a#0 的_u#4
+	si4 nian2 de5 jin4 sai4 shi2 zai4 shi4 tu2 lao2 er2 ang2 gui4 de5
+
+100768 	农产品#1结构性#3和#1区域性#2过剩的#1矛盾#4越来#1越#1突出
+	农产品_n#1 结构性_n#3 和_c#1 区域性_n#2 过剩_v#0 的_u#1 矛盾_a#4 越来越_d#1 突出_a#4
+	nong2 chan2 pin3 jie2 gou4 xing4 he2 qv1 yv4 xing4 guo4 sheng4 de5 mao2 dun4 yve4 lai2 yve4 tu1 chu1
+
+100769 	改革#1农产品#3特别是#3粮食#1流通#1体制
+	改革_v#1 农产品_n#3 特别_d#0 是_v#3 粮食_n#1 流通_v#1 体制_n#4
+	gai3 ge2 nong2 chan2 pin3 te4 bie2 shi4 liang2 shi5 liu2 tong1 ti3 zhi4
+
+100770 	就是#2善于#1发现#1典型#3宣传#1典型#3运用#1典型
+	就是_d#2 善于_v#1 发现_v#1 典型_n#3 宣传_v#1 典型_n#3 运用_v#1 典型_n#4
+	jiu4 shi4 shan4 yv2 fa1 xian4 dian3 xing2 xvan1 chuan2 dian3 xing2 yvn4 yong4 dian3 xing2
+
+100771 	典型的#1成长#3和#1典型的#2宣传#1推广
+	典型_a#0 的_u#1 成长_v#3 和_c#1 典型_n#0 的_u#2 宣传_v#1 推广_v#4
+	dian3 xing2 de5 cheng2 zhang3 he2 dian3 xing2 de5 xvan1 chuan2 tui1 guang3
+
+100772 	独生#1子女#2总#1以为#3无论#1什么#3都是#1天经#1地义#4属于#1自己的
+	独生子女_n#2 总_d#1 以为_v#3 无论_c#1 什么_r#3 都_d#0 是_v#1 天经地义_i#4 属于_v#1 自己_r#0 的_u#4
+	du2 sheng1 zi2 nv3 zong2 yi3 wei2 wu2 lun4 shen2 me5 dou1 shi4 tian1 jing1 di4 yi4 shu3 yv2 zi4 ji3 de5
+
+100773 	理想的#1游乐园#1结构#4应该#1是#2金字塔形
+	理想_a#0 的_u#1 游乐园_n#1 结构_n#4 应该_v#1 是_v#2 金字塔_n#0 形_n#4
+	li2 xiang3 de5 you2 le4 yvan2 jie2 gou4 ying1 gai1 shi4 jin1 zi4 ta3 xing2
+
+100774 	要#1按照#3一国#1两制的#1原则#1增补#3或#1改写
+	要_v#1 按照_p#3 一国两制_j#1 的_u#1 原则_n#1 增补_v#3 或_c#1 改写_v#4
+	yao4 an4 zhao4 yi4 guo2 liang3 zhi4 de5 yvan2 ze2 zeng1 bu3 huo4 gai2 xie3
+
+100775 	创造#1总产值#3二百#2三十亿元#1人民币
+	创造_v#1 总产值_n#3 二百三十亿_m#2 元_q#1 人民币_n#4
+	chuang4 zao4 zong2 chan3 zhi2 er4 bai3 san1 shi2 yi4 yvan2 ren2 min2 bi4
+
+100776 	浇筑#2核岛#1筏基的#3第一罐#1混凝土
+	浇筑_v#2 核岛_n#1 筏基_nh#0 的_u#3 第一_m#0 罐_q#1 混凝土_n#4
+	jiao1 zhu4 he2 dao3 fa2 ji1 de5 di4 yi1 guan4 hun4 ning2 tu3
+
+100777 	丰润县#3去年#1完成#3旧城#1改造#3十万#1平方米#2建筑#1面积
+	丰润县_ns#3 去年_nt#1 完成_v#3 旧_a#0 城_n#1 改造_v#3 十万_m#1 平方米_q#2 建筑_n#1 面积_n#4
+	feng1 run4 xian4 qv4 nian2 wan2 cheng2 jiu4 cheng2 gai3 zao4 shi2 wan4 ping2 fang1 mi3 jian4 zhu4 mian4 ji5
+
+100778 	咨询#1工作#4不是#1要不要的#1问题#4或是#2重要#1不重要的#1问题
+	咨询_v#1 工作_v#4 不_d#0 是_v#1 要_v#0 不_d#0 要_v#0 的_u#1 问题_n#4 或是_c#2 重要_a#1 不_d#0 重要_a#0 的_u#1 问题_n#4
+	zi1 xvn2 gong1 zuo4 bu2 shi4 yao4 bu2 yao4 de5 wen4 ti2 huo4 shi4 zhong4 yao4 bu2 zhong4 yao4 de5 wen4 ti5
+
+100779 	浙江#2十一号#1台风#4新疆#1地震#4南航#2五点八#1空难#1等#1灾害
+	浙江_ns#2 十一_m#0 号_q#1 台风_n#4 新疆_ns#1 地震_n#4 南航_j#2 五点八空_n#1 难_a#1 等_u#1 灾害_n#4
+	zhe4 jiang1 shi2 yi1 hao4 tai2 feng1 xin1 jiang1 di4 zhen4 nan2 hang2 wu2 dian3 ba1 kong1 nan4 deng3 zai1 hai4
+
+100780 	长沙市#1纺织#1系统#3百分之#1六十的#1企业#3连年#1亏损
+	长沙市_ns#1 纺织_n#1 系统_n#3 百分之六十_m#1 的_u#1 企业_n#3 连年_d#1 亏损_v#4
+	chang2 sha1 shi4 fang3 zhi1 xi4 tong3 bai3 fen1 zhi1 liu4 shi2 de5 qi3 ye4 lian2 nian2 kui1 sun3
+
+100781 	充分#1表达了#3广大#1台湾#1同胞的#1意愿
+	充分_a#1 表达_v#0 了_u#3 广大_b#1 台湾_ns#1 同胞_n#0 的_u#1 意愿_n#4
+	chong1 fen4 biao3 da2 le5 guang3 da4 tai2 wan1 tong2 bao1 de5 yi4 yvan4
+
+100782 	许多#1标语的#1形成#3往往#1凭#2某秀才的#3灵机#1一动
+	许多_m#1 标语_n#0 的_u#1 形成_v#3 往往_d#1 凭_p#2 某_r#0 秀才_n#0 的_u#3 灵机一动_i#4
+	xv3 duo1 biao1 yv3 de5 xing2 cheng2 wang2 wang3 ping2 mou3 xiu4 cai5 de5 ling2 ji1 yi2 dong4
+
+100783 	奥地利#1客人#3还#1访问了#3西安#2上海#2桂林
+	奥地利_ns#1 客人_n#3 还_d#1 访问_v#0 了_u#3 西安_ns#2 上海_ns#2 桂林_ns#4
+	ao4 di4 li4 ke4 ren2 hai2 fang3 wen4 le5 xi1 an1 shang4 hai3 gui4 lin2
+
+100784 	舞台#1处理#3新颖#1大胆#4而#1具有#2象征#1意味
+	舞台_n#1 处理_v#3 新颖_a#1 大胆_a#4 而_c#1 具有_v#2 象征_v#1 意味_n#4
+	wu3 tai2 chu2 li3 xin1 ying3 da4 dan3 er2 jv4 you3 xiang4 zheng1 yi4 wei4
+
+100785 	培养的#1学生#3很快#1就在#3各大#1宾馆#1旅行社#3赢得了#1声誉
+	培养_v#0 的_u#1 学生_n#3 很快_d#1 就_d#0 在_p#3 各_r#0 大_a#1 宾馆_n#1 旅行社_n#3 赢得_v#0 了_u#1 声誉_n#4
+	pei2 yang3 de5 xve2 sheng1 hen3 kuai4 jiu4 zai4 ge4 da4 bin1 guan2 lv3 xing2 she4 ying2 de2 le5 sheng1 yv4
+
+100786 	所有#1经验#3都#1一股脑地#3传给#1他们
+	所有_b#1 经验_n#3 都_d#1 一股脑_i#0 地_u#3 传_v#0 给_v#1 他们_r#4
+	suo2 you3 jing1 yan4 dou1 yi4 gu2 nao3 de5 chuan2 gei3 ta1 men5
+
+100787 	我国的#1贫困#1地区#3大都#1处于#3资源#1环境#2脆弱的#1地区
+	我国_n#0 的_u#1 贫困_a#1 地区_n#3 大都_d#1 处于_v#3 资源_n#1 环境_n#2 脆弱_a#0 的_u#1 地区_n#4
+	wo3 guo2 de5 pin2 kun4 di4 qv1 da4 dou1 chu3 yv2 zi1 yvan2 huan2 jing4 cui4 ruo4 de5 di4 qv1
+
+100788 	山西#2太原#1火车站#3在#1做好#2车站#2正常#2售票的#1同时
+	山西_ns#2 太原_ns#1 火车站_n#3 在_d#1 做_v#0 好_a#2 车站_n#2 正常_a#2 售票_v#0 的_u#1 同时_n#4
+	shan1 xi1 tai4 yvan2 huo3 che1 zhan4 zai4 zuo4 hao3 che1 zhan4 zheng4 chang2 shou4 piao4 de5 tong2 shi2
+
+100789 	图为#2土耳其#1海军的#3直升机#3飞临#2以色列#1导弹#1舰艇
+	图_n#0 为_v#2 土耳其_ns#1 海军_n#0 的_u#3 直升机_n#3 飞_v#0 临_v#2 以色列_ns#1 导弹_n#1 舰艇_n#4
+	tu2 wei2 tu2 er3 qi2 hai3 jvn1 de5 zhi2 sheng1 ji1 fei1 lin2 yi3 se4 lie4 dao3 dan4 jian4 ting3
+
+100790 	代之#1以#2他#1本人#1伪造的#3余额#1证明书
+	代_v#0 之_r#1 以_p#2 他_r#1 本人_r#1 伪造_v#0 的_u#3 余额_n#1 证明书_n#4
+	dai4 zhi1 yi3 ta1 ben3 ren2 wei3 zao4 de5 yv2 e2 zheng4 ming2 shu1
+
+100791 	以#1弄清#2血吸虫病#4在#1几千#1年间#4究竟#1是#2如何#1发展的
+	以_p#1 弄清_v#2 血吸虫_n#0 病_n#4 在_p#1 几千_m#1 年_q#0 间_nd#4 究竟_d#1 是_v#2 如何_r#1 发展_v#0 的_u#4
+	yi3 nong4 qing1 xve4 xi1 chong2 bing4 zai4 ji3 qian1 nian2 jian1 jiu1 jing4 shi4 ru2 he2 fa1 zhan3 de5
+
+100792 	世界杯#1足球赛#3又#1会是#2怎样的#1一个#1场景
+	世界杯_n#1 足球赛_n#3 又_d#1 会_v#0 是_v#2 怎样_r#0 的_u#1 一个_m#1 场景_n#4
+	shi4 jie4 bei1 zu2 qiu2 sai4 you4 hui4 shi4 zen3 yang4 de5 yi2 ge5 chang2 jing3
+
+100793 	鲜艳的#1红蜡烛#4组成起#2百年#1字样#4在#1眼前#1燃起
+	鲜艳_a#0 的_u#1 红_a#0 蜡烛_n#4 组成_v#0 起_v#2 百年_m#1 字样_n#4 在_p#1 眼前_nt#1 燃起_v#4
+	xian1 yan4 de5 hong2 la4 zhu2 zu3 cheng2 qi2 bai3 nian2 zi4 yang4 zai4 yan3 qian2 ran2 qi3
+
+100794 	难忘的#1回忆#3使#1国王#3全然#1忘了#1身边#3医生的#1劝阻
+	难忘_a#0 的_u#1 回忆_v#3 使_v#1 国王_n#3 全然_d#1 忘_v#0 了_u#1 身边_nl#3 医生_n#0 的_u#1 劝阻_v#4
+	nan2 wang4 de5 hui2 yi4 shi3 guo2 wang2 qvan2 ran2 wang4 le5 shen1 bian1 yi1 sheng5 de5 qvan4 zu3
+
+100795 	最近#3组织#1艺术家#3创作#1排演了#3舞剧#2《大漠#1女儿》
+	最近_nt#3 组织_v#1 艺术家_n#3 创作_v#1 排演_v#0 了_u#3 舞剧_n#2 《_wp#0 大漠_n#1 女儿_n#0 》_wp#4
+	zui4 jin4 zu3 zhi1 yi4 shu4 jia1 chuang4 zuo4 pai2 yan3 le5 wu3 jv4 da4 mo4 nv3 er2
+
+100796 	《大漠#1女儿》#4称颂了#1创业者的#3牺牲#1精神
+	《_wp#0 大漠_n#1 女儿_n#0 》_wp#4 称颂_v#0 了_u#1 创业者_n#0 的_u#3 牺牲_v#1 精神_n#4
+	da4 mo4 nv3 er2 cheng1 song4 le5 chuang4 ye4 zhe3 de5 xi1 sheng1 jing1 shen2
+
+100797 	欣赏到#2这么多#2出色的#3咏叹调#1重唱
+	欣赏_v#0 到_v#2 这么_r#0 多_a#2 出色_a#0 的_u#3 咏叹_v#0 调重唱_v#4
+	xin1 shang3 dao4 zhe4 me5 duo1 chu1 se4 de5 yong3 tan4 diao4 chong2 chang4
+
+100798 	关于#2《水浒传》#3还是#2那句话#4到底#2怎么样哪
+	关于_p#2 《_wp#0 水浒传_nz#0 》_wp#3 还是_v#2 那_r#0 句_q#0 话_n#4 到底_v#2 怎么样_r#0 哪_r#4
+	guan1 yv2 shui2 hu3 zhuan4 hai2 shi4 na4 jv4 hua4 dao4 di2 zen3 me5 yang4 na5
+
+100799 	《水浒传》#3必须#1高于#1《三国#1演义》的#3另一#1方面
+	《_wp#0 水浒传_nz#0 》_wp#3 必须_d#1 高于_v#1 《_wp#0 三国演义_nz#1 》_wp#0 的_u#3 另一方面_c#4
+	shui2 hu3 zhuan4 bi4 xv1 gao1 yv2 san1 guo2 yan3 yi4 de5 ling4 yi2 fang1 mian4
+
+100800 	我#1曾经#1和#3扮演#1李逵的#1赵小锐#3聊天#2怎么样
+	我_r#1 曾经_d#1 和_p#3 扮演_v#1 李逵_nh#0 的_u#1 赵小锐_nh#3 聊天_v#2 怎么样_r#4
+	wo3 ceng2 jing1 he2 ban4 yan2 li3 kui2 de5 zhao4 xiao3 rui4 liao2 tian1 zen3 me5 yang4
+
+100801 	年产量#2达#3一千#1五百#1万张#1光盘
+	年产量_n#2 达_v#3 一千五百万_m#1 张_q#1 光盘_n#4
+	nian2 chan3 liang4 da2 yi4 qian1 wu2 bai3 wan4 zhang1 guang1 pan2
+
+100802 	赢得#2先期#2看过#1影片的#1人们#4高度#1赞赏
+	赢得_v#2 先期_d#2 看_v#0 过_u#1 影片_n#0 的_u#1 人们_n#4 高度_d#1 赞赏_v#4
+	ying2 de2 xian1 qi1 kan4 guo5 ying3 pian4 de5 ren2 men5 gao1 du4 zan4 shang3
+
+100803 	他们的#1不足#3则#1在于#3社会#1责任感#3较为#1薄弱
+	他们_r#0 的_u#1 不足_a#3 则_c#1 在于_v#3 社会_n#1 责任感_n#3 较为_d#1 薄弱_a#4
+	ta1 men5 de5 bu4 zu2 ze2 zai4 yv2 she4 hui4 ze2 ren4 gan3 jiao4 wei2 bo2 ruo4
+
+100804 	阿宁的#2坚硬的#1柔软#3于#1平易中#3寓#1深刻
+	阿宁_nh#0 的_u#2 坚硬_a#0 的_u#1 柔软_a#3 于_p#1 平易_a#0 中_nd#3 寓_v#1 深刻_a#4
+	a1 ning2 de5 jian1 ying4 de5 rou2 ruan3 yv2 ping2 yi4 zhong1 yv4 shen1 ke4
+
+100805 	以#1《白鹿原#1修订本》#3作为#2本届#2参评#1作品#3是#1适当的
+	以_p#1 《_wp#0 白鹿原_ns#1 修订本_n#0 》_wp#3 作为_v#2 本届_r#2 参评_v#1 作品_n#3 是_v#1 适当_a#0 的_u#4
+	yi3 bai2 lu4 yvan2 xiu1 ding4 ben3 zuo4 wei2 ben3 jie4 can1 ping2 zuo4 pin3 shi4 shi4 dang4 de5
+
+100806 	就#1让它#2随着#1岁月#1流逝#4渐渐#2淡化#3泯灭吧
+	就_d#1 让_v#0 它_r#2 随着_p#1 岁月_n#1 流逝_v#4 渐渐_d#2 淡化_v#3 泯灭_v#0 吧_u#4
+	jiu4 rang4 ta1 sui2 zhe5 sui4 yve4 liu2 shi4 jian4 jian4 dan4 hua4 min3 mie4 ba5
+
+100807 	每次#1看到#1你#3豪爽#2豁达#2乐观的#1神情#3一如#1往昔
+	每次_r#1 看到_v#1 你_r#3 豪爽_a#2 豁达_a#2 乐观_a#0 的_u#1 神情_n#3 一_d#0 如_v#1 往昔_nt#4
+	mei3 ci4 kan4 dao4 ni3 hao2 shuang3 huo4 da2 le4 guan1 de5 shen2 qing2 yi4 ru2 wang3 xi1
+
+100808 	感情的#1火花#3重又#1迸发#3美丽的#1光辉
+	感情_n#0 的_u#1 火花_n#3 重_d#0 又_d#1 迸发_v#3 美丽_a#0 的_u#1 光辉_n#4
+	gan3 qing2 de5 huo3 hua1 chong2 you4 beng4 fa1 mei3 li4 de5 guang1 hui1
+
+100809 	基层的#1经验#3对#1上面的#1年终#1总结
+	基层_n#0 的_u#1 经验_n#3 对_p#1 上面_nd#0 的_u#1 年终_nt#1 总结_v#4
+	ji1 ceng2 de5 jing1 yan4 dui4 shang4 mian5 de5 nian2 zhong1 zong3 jie2
+
+100810 	丑陋的#2下#1基层#2打#1秋风#1现象#4能#1有所#2收敛
+	丑陋_a#0 的_u#2 下基层_i#2 打秋风_i#1 现象_n#4 能_v#1 有所_v#2 收敛_v#4
+	chou3 lou4 de5 xia4 ji1 ceng2 da3 qiu1 feng1 xian4 xiang4 neng2 you2 suo3 shou1 lian3
+
+100811 	可我#1瞅了#1一眼#3那#1白色#1手提包
+	可_c#0 我_r#1 瞅_v#0 了_u#1 一_m#0 眼_q#3 那_r#1 白色_n#1 手提包_n#4
+	ke2 wo2 chou3 le5 yi4 yan3 na4 bai2 se4 shou3 ti2 bao1
+
+100812 	受了#1怂恿般#3对#1骤起的#1狂风#3频频#1让步
+	受_v#0 了_u#1 怂恿_v#0 般_u#3 对_p#1 骤起_v#0 的_u#1 狂风_n#3 频频_d#1 让步_v#4
+	shou4 le5 song2 yong3 ban1 dui4 zhou4 qi3 de5 kuang2 feng1 pin2 pin2 rang4 bu4
+
+100813 	中央#2一而再#3再而三地#1打招呼
+	中央_n#2 一_m#0 而_c#0 再_d#3 再_d#0 而_c#0 三_m#0 地_n#1 打招呼_v#4
+	zhong1 yang1 yi4 er2 zai4 zai4 er2 san1 de5 da3 zhao1 hu5
+
+100814 	生产#2和#1市场#3衔接#1障碍#1等#2造成的
+	生产_v#2 和_c#1 市场_n#3 衔接_v#1 障碍_n#1 等_u#2 造成_v#0 的_u#4
+	sheng1 chan3 he2 shi4 chang3 xian2 jie1 zhang4 ai4 deng3 zao4 cheng2 de5
+
+100815 	话剧的#1编导#3不仅#2有#1很强的#3政治#1敏感
+	话剧_n#0 的_u#1 编导_n#3 不仅_c#2 有_v#1 很_d#0 强_a#0 的_u#3 政治_n#1 敏感_a#4
+	hua4 jv4 de5 bian1 dao3 bu4 jin2 you2 hen3 qiang2 de5 zheng4 zhi4 min2 gan3
+
+100816 	干部#1骨干#3真诚地#1为#1士兵#2办#1实事#3献#1爱心#3送#1温暖
+	干部_n#1 骨干_n#3 真诚_a#0 地_u#1 为_p#1 士兵_n#2 办_v#1 实事_n#3 献_v#1 爱心_n#3 送_v#1 温暖_a#4
+	gan4 bu5 gu3 gan4 zhen1 cheng2 de5 wei4 shi4 bing1 ban4 shi2 shi4 xian4 ai4 xin1 song4 wen1 nuan3
+
+100817 	游击队#1引爆了#1一枚#3事先#1埋好的#1炸弹
+	游击队_n#1 引爆_v#0 了_u#1 一_m#0 枚_q#3 事先_d#1 埋_v#0 好_a#0 的_u#1 炸弹_n#4
+	you2 ji1 dui4 yin3 bao4 le5 yi4 mei2 shi4 xian1 mai2 hao3 de5 zha4 dan4
+
+100818 	比#1最后#1夺冠的#3俄罗斯#1选手#4帕卡#1琳娜#4相差了#2十分
+	比_p#1 最后_nd#1 夺冠_v#0 的_u#3 俄罗斯_ns#1 选手_n#4 帕卡琳娜_nh#4 相差_v#0 了_u#2 十分_m#4
+	bi3 zui4 hou4 duo2 guan4 de5 e2 luo2 si1 xvan2 shou3 pa4 ka3 lin2 na4 xiang1 cha4 le5 shi2 fen1
+
+100819 	也是#1一部#3内容#1独特的#3命运#2交响曲
+	也_d#0 是_v#1 一_m#0 部_q#3 内容_n#1 独特_a#0 的_u#3 命运_n#2 交响曲_n#4
+	ye3 shi4 yi2 bu4 nei4 rong2 du2 te4 de5 ming4 yvn4 jiao1 xiang2 qv3
+
+100820 	中国#1文化#1大革命中#3极左#1思潮的#3哲学#1根源
+	中国_ns#1 文化大革命_nz#1 中_nd#3 极左_b#1 思潮_n#0 的_u#3 哲学_n#1 根源_n#4
+	zhong1 guo2 wen2 hua4 da4 ge2 ming4 zhong1 ji2 zuo3 si1 chao2 de5 zhe2 xve2 gen1 yvan2
+
+100821 	马克思#1主义#1哲学#4在#1俄国#1苏联的#3传播#1发展期
+	马克思主义_n#1 哲学_n#4 在_p#1 俄国_ns#1 苏联_ns#0 的_u#3 传播_v#1 发展期_n#4
+	ma3 ke4 si1 zhu3 yi4 zhe2 xve2 zai4 e2 guo2 su1 lian2 de5 chuan2 bo1 fa1 zhan3 qi1
+
+100822 	下午#3酷热的#1阳光#3被#1圆山#1遮挡了
+	下午_nt#3 酷热_a#0 的_u#1 阳光_n#3 被_p#1 圆山_ns#1 遮挡_v#0 了_u#4
+	xia4 wu3 ku4 re4 de5 yang2 guang1 bei4 yvan2 shan1 zhe1 dang3 le5
+
+100823 	端起#1茶杯#3朝向#1大家#2笑着#1说#3诸位#2请先#1喝茶
+	端_v#0 起_v#1 茶杯_n#3 朝向_v#1 大家_r#2 笑_v#0 着_u#1 说_v#3 诸位_r#2 请_v#0 先_d#1 喝茶_v#4
+	duan1 qi3 cha2 bei1 chao2 xiang4 da4 jia1 xiao4 zhe5 shuo1 zhu1 wei4 qing3 xian1 he1 cha2
+
+100824 	不慎#2将#1宫中#2祭坛上的#3一尊#1菩萨#4碰倒#1打碎
+	不慎_d#2 将_p#1 宫中_nl#2 祭坛_n#0 上_nd#0 的_u#3 一_m#0 尊_q#1 菩萨_n#4 碰_v#0 倒_v#1 打碎_v#4
+	bu2 shen4 jiang1 gong1 zhong1 ji4 tan2 shang4 de5 yi4 zun1 pu2 sa5 peng4 dao2 da3 sui4
+
+100825 	一个#1五光#1十色的#1彩团#3穿过#2滚滚#1乌云
+	一个_m#1 五光十色_i#1 的_u#1 彩团_n#3 穿过_v#2 滚滚_z#1 乌云_n#4
+	yi2 ge4 wu3 guang1 shi2 se4 de5 cai3 tuan2 chuan1 guo4 gun2 gun3 wu1 yvn2
+
+100826 	聘请#2世界上#3最#1优秀的#1专家#3作#1技术#1顾问的#1想法
+	聘请_v#2 世界_n#0 上_nd#3 最_d#1 优秀_a#0 的_u#1 专家_n#3 作_v#1 技术_n#1 顾问_n#0 的_u#1 想法_n#4
+	pin4 qing3 shi4 jie4 shang4 zui4 you1 xiu4 de5 zhuan1 jia1 zuo4 ji4 shu4 gu4 wen4 de5 xiang2 fa3
+
+100827 	文盲#3半文盲#4占#1总数的#3百分之#1六十五#1左右
+	文盲_n#3 半文盲_n#4 占_v#1 总数_n#0 的_u#3 百分之六十五_m#1 左右_m#4
+	wen2 mang2 ban4 wen2 mang2 zhan4 zong3 shu4 de5 bai3 fen1 zhi1 liu4 shi2 wu2 zuo3 you4
+
+100828 	感谢#2该所#1干警#3为#1她们#2牵线#1搭桥
+	感谢_v#2 该所_r#1 干警_n#3 为_p#1 她们_r#2 牵线搭桥_i#4
+	gan3 xie4 gai1 suo3 gan4 jing3 wei4 ta1 men5 qian1 xian4 da1 qiao2
+
+100829 	捐赠#1给#2甘肃省#3贫困#1山区的#1妇女
+	捐赠_v#1 给_v#2 甘肃省_ns#3 贫困_a#1 山区_n#0 的_u#1 妇女_n#4
+	jvan1 zeng4 gei3 gan1 su4 sheng3 pin2 kun4 shan1 qv1 de5 fu4 nv3
+
+100830 	先#1走访了#3福寿仙#1有限#1公司#3老总#3张友生#1先生
+	先_d#1 走访_v#0 了_u#3 福寿仙_nz#1 有限公司_n#3 老总_n#3 张友生_nh#1 先生_n#4
+	xian1 zou2 fang3 le5 fu2 shou4 xian1 you3 xian4 gong1 si1 lao2 zong3 zhang1 you3 sheng1 xian1 sheng5
+
+100831 	黑板报#2办了#1虽然#1才#3三四年#1时间
+	黑板报_n#2 办_v#0 了_u#1 虽然_c#1 才_d#3 三四_m#0 年_q#1 时间_n#4
+	hei1 ban3 bao4 ban4 le5 sui1 ran2 cai2 san1 si4 nian2 shi2 jian1
+
+100832 	杭州#1新声路#4综合#1市场的#3这块#1黑板报
+	杭州_ns#1 新声路_ns#4 综合_v#1 市场_n#0 的_u#3 这块_r#1 黑板报_n#4
+	hang2 zhou1 xin1 sheng1 lu4 zong1 he2 shi4 chang3 de5 zhe4 kuai4 hei1 ban3 bao4
+
+100833 	茶楼的#1招牌#3换上了#3春姑#1茶楼
+	茶楼_n#0 的_u#1 招牌_n#3 换上_v#0 了_u#3 春姑_nh#1 茶楼_n#4
+	cha2 lou2 de5 zhao1 pai2 huan4 shang4 le5 chun1 gu1 cha2 lou2
+
+100834 	右边#1是#3自动#1开关的#3电#1热水壶
+	右边_nd#1 是_v#3 自动_b#1 开关_n#0 的_u#3 电热水壶_n#4
+	you4 bian5 shi4 zi4 dong4 kai1 guan1 de5 dian4 re4 shui3 hu2
+
+100835 	接替了#1妈妈#3主持#1茶楼的#2生意了
+	接替_v#0 了_u#1 妈妈_n#3 主持_v#1 茶楼_n#0 的_u#2 生意_n#0 了_u#4
+	jie1 ti4 le5 ma1 ma5 zhu3 chi2 cha2 lou2 de5 sheng1 yi4 le5
+
+100836 	省城#1一家#1报纸#4发表了#1一篇#3尖锐的#1文章
+	省城_n#1 一_m#0 家_q#1 报纸_n#4 发表_v#0 了_u#1 一_m#0 篇_q#3 尖锐_a#0 的_u#1 文章_n#4
+	sheng3 cheng2 yi4 jia1 bao4 zhi3 fa1 biao3 le5 yi4 pian1 jian1 rui4 de5 wen2 zhang1
+
+100837 	从#1陶醉于#3设备#2越#1简陋#3越能#2赚钱的#3小煤窑
+	从_p#1 陶醉_v#0 于_p#3 设备_n#2 越_d#1 简陋_a#3 越_d#0 能_v#2 赚钱_v#0 的_u#3 小_a#0 煤窑_n#4
+	cong2 tao2 zui4 yv2 she4 bei5 yve4 jian3 lou4 yve4 neng2 zhuan4 qian2 de5 xiao3 mei2 yao2
+
+100838 	甘肃#2河西#1走廊#3建成#2我国#1第一条#3千里#1双拥#2模范#1长廊
+	甘肃_ns#2 河西走廊_n#3 建成_v#2 我国_n#1 第一_m#0 条_q#3 千_m#0 里_q#1 双拥_j#2 模范_n#1 长廊_n#4
+	gan1 su4 he2 xi1 zou3 lang2 jian4 cheng2 wo3 guo2 di4 yi1 tiao2 qian1 li3 shuang1 yong1 mo2 fan4 chang2 lang2
+
+100839 	携带#2救灾#1药品#2器械的#3省#1医疗#1救护队#3也#1赶赴#1灾区
+	携带_v#2 救灾_v#1 药品_n#2 器械_n#0 的_u#3 省_n#1 医疗_n#1 救护队_n#3 也_d#1 赶赴_v#1 灾区_n#4
+	xie2 dai4 jiu4 zai1 yao4 pin3 qi4 xie4 de5 sheng3 yi1 liao2 jiu4 hu4 dui4 ye2 gan3 fu4 zai1 qv1
+
+100840 	从#1公路#1对面#3窜出#1七八个#2歹徒的#1同伙
+	从_p#1 公路_n#1 对面_nd#3 窜_v#0 出_v#1 七八_m#0 个_q#2 歹徒_n#0 的_u#1 同伙_n#4
+	cong2 gong1 lu4 dui4 mian4 cuan4 chu1 qi1 ba1 ge5 dai3 tu2 de5 tong2 huo3
+
+100841 	歹徒#1用#1刀片#3将#1邱玲的#1脸部#2嘴唇#2手指#3划伤
+	歹徒_n#1 用_p#1 刀片_n#3 将_p#1 邱玲_nh#0 的_u#1 脸部_n#2 嘴唇_n#2 手指_n#3 划伤_v#4
+	dai3 tu2 yong4 dao1 pian4 jiang1 qiu1 ling2 de5 lian3 bu4 zui3 chun2 shou2 zhi3 hua2 shang1
+
+100842 	奥莫#1教堂的#1雕像#3是有#1灵性的
+	奥莫_nz#1 教堂_n#0 的_u#1 雕像_n#3 是_v#0 有_v#1 灵性_n#0 的_u#4
+	ao4 mo4 jiao4 tang2 de5 diao1 xiang4 shi4 you3 ling2 xing4 de5
+
+100843 	屋顶#2藏着#1一枚#3钉死#1耶稣的#1钉子
+	屋顶_n#2 藏_v#0 着_u#1 一_m#0 枚_q#3 钉_v#0 死_v#1 耶稣_nh#0 的_u#1 钉子_n#4
+	wu1 ding3 cang2 zhe5 yi4 mei2 ding4 si3 ye1 su1 de5 ding1 zi5
+
+100844 	最后#1一个#3刚生#1下来#2就得了#1气管炎#4夭折了
+	最后_nd#1 一个_m#3 刚_d#0 生_v#1 下来_v#2 就_d#0 得_v#0 了_u#1 气管炎_n#4 夭折_v#0 了_u#4
+	zui4 hou4 yi2 ge4 gang1 sheng1 xia4 lai2 jiu4 de2 le5 qi4 guan3 yan2 yao1 zhe2 le5
+
+100845 	孩子的#1多少#3都说#1是#2真主的#1赐予
+	孩子_n#0 的_u#1 多少_r#3 都_d#0 说是_v#2 真主_n#0 的_u#1 赐予_v#4
+	hai2 zi5 de5 duo1 shao3 dou1 shuo1 shi4 zhen1 zhu3 de5 ci4 yv3
+
+100846 	更#1意味着#3这个#1市场#4一个#1重要#2目标的#1转移
+	更_d#1 意味着_v#3 这个_r#1 市场_n#4 一个_m#1 重要_a#2 目标_n#0 的_u#1 转移_v#4
+	geng4 yi4 wei4 zhe5 zhe4 ge5 shi4 chang3 yi2 ge5 zhong4 yao4 mu4 biao1 de5 zhuan3 yi2
+
+100847 	丹田村#1四组的#3鱼池#1挖掘#1工地#3却#1热浪#1滚滚
+	丹田村_ns#1 四_m#0 组_q#0 的_u#3 鱼池_n#1 挖掘_v#1 工地_n#3 却_d#1 热浪_n#1 滚滚_z#4
+	dan1 tian2 cun1 si4 zu3 de5 yv2 chi2 wa1 jve2 gong1 di4 qve4 re4 lang4 gun2 gun3
+
+100848 	过往#1行人#2感慨#1道#4过去#1干部的#3茶水#1酒水
+	过往_v#1 行人_n#2 感慨_v#1 道_v#4 过去_nt#1 干部_n#0 的_u#3 茶水_n#1 酒水_n#4
+	guo4 wang3 xing2 ren2 gan2 kai3 dao4 guo4 qv4 gan4 bu5 de5 cha2 shui3 jiu2 shui3
+
+100849 	就#2内蒙古#2进行#2草业#1开发#4改良#2退化#1草场#4进行#2技术#1咨询
+	就_p#2 内蒙古_ns#2 进行_v#2 草业_n#1 开发_v#4 改良_v#2 退化_v#1 草场_n#4 进行_v#2 技术_n#1 咨询_v#4
+	jiu4 nei4 meng2 gu3 jin4 xing2 cao3 ye4 kai1 fa1 gai3 liang2 tui4 hua4 cao2 chang3 jin4 xing2 ji4 shu5 zi1 xvn2
+
+100850 	探访了#1这些#3被#1广州人#3称为#2走鬼的#3假发票#1贩子
+	探访_v#0 了_u#1 这些_r#3 被_p#1 广州人_n#3 称为_v#2 走_v#0 鬼_n#0 的_u#3 假发_n#0 票贩子_n#4
+	tan4 fang3 le5 zhe4 xie1 bei4 guang3 zhou1 ren2 cheng1 wei2 zou2 gui3 de5 jia3 fa1 piao4 fan4 zi5
+
+100851 	公司#2党总支#1副书记#3钱国清#2介绍#1说
+	公司_n#2 党总支_n#1 副_b#0 书记_n#3 钱国清_nh#2 介绍_v#1 说_v#4
+	gong1 si1 dang2 zong3 zhi1 fu4 shu1 ji4 qian2 guo2 qing1 jie4 shao4 shuo1
+
+100852 	绝不能#2分散#1精力#3放松#3甚至#2忽视#1农业
+	绝不_d#0 能_v#2 分散_v#1 精力_n#3 放松_v#3 甚至_d#2 忽视_v#1 农业_n#4
+	jve2 bu4 neng2 fen1 san4 jing1 li4 fang4 song1 shen4 zhi4 hu1 shi4 nong2 ye4
+
+100853 	拔掉了#1十二个#3拒不#1执行#2政令的#2钉子户
+	拔掉_v#0 了_u#1 十二_m#0 个_q#3 拒_v#0 不_d#1 执行_v#2 政令_n#0 的_u#2 钉子户_n#4
+	ba2 diao4 le5 shi2 er4 ge4 jv4 bu5 zhi2 xing2 zheng4 ling4 de5 ding1 zi5 hu4
+
+100854 	全校的#2少先#1队员#3为了#1感谢#3解放军#1叔叔
+	全校_n#0 的_u#2 少先队员_n#3 为了_p#1 感谢_v#3 解放军_n#1 叔叔_n#4
+	qvan2 xiao4 de5 shao4 xian1 dui4 yvan2 wei4 le5 gan3 xie4 jie3 fang4 jvn1 shu1 shu5
+
+100855 	老百姓#3自动#1就把#2各自#1门前#3打扫得#2干干#1净净
+	老百姓_n#3 自动_d#1 就_d#0 把_p#2 各自_r#1 门前_nl#3 打扫_v#0 得_u#2 干干净净_z#4
+	lao2 bai3 xing4 zi4 dong4 jiu4 ba3 ge4 zi4 men2 qian2 da2 sao3 de5 gan1 gan1 jing4 jing4
+
+100856 	选区的#1大小#3按照#2每一#1选区#3选#1一至#1三名#1代表#2划分
+	选区_n#0 的_u#1 大小_n#3 按照_p#2 每_r#0 一_m#1 选区_n#3 选_v#1 一_m#0 至_p#1 三_m#0 名_q#1 代表_n#2 划分_v#4
+	xvan3 qv1 de5 da4 xiao3 an4 zhao4 mei3 yi2 xvan3 qv1 xvan3 yi1 zhi4 san1 ming2 dai4 biao3 hua4 fen1
+
+100857 	看到了#1师生#3合伙#1种植的#3二十二种#2热带#1水果
+	看到_v#0 了_u#1 师生_n#3 合伙_v#1 种植_v#0 的_u#3 二十二_m#0 种_q#2 热带_n#1 水果_n#4
+	kan4 dao4 le5 shi1 sheng1 he2 huo3 zhong4 zhi2 de5 er4 shi2 er4 zhong3 re4 dai4 shui2 guo3
+
+100858 	学校#1以让#1学生#3学到#2真实#1本领#2为#1目的
+	学校_n#1 以_p#0 让_v#1 学生_n#3 学_v#0 到_v#2 真实_a#1 本领_n#2 为_v#1 目的_n#4
+	xve2 xiao4 yi3 rang4 xve2 sheng1 xve2 dao4 zhen1 shi2 ben2 ling3 wei2 mu4 di4
+
+100859 	相信#2阿政府#3完全#1有#1能力#3解决#2自己#2所#1面临的#1问题
+	相信_v#2 阿_j#0 政府_n#3 完全_a#1 有_v#1 能力_n#3 解决_v#2 自己_r#2 所_u#1 面临_v#0 的_u#1 问题_n#4
+	xiang1 xin4 a1 zheng4 fu3 wan2 qvan2 you3 neng2 li4 jie3 jve2 zi4 ji2 suo3 mian4 lin2 de5 wen4 ti5
+
+100860 	斡旋的#1失败#4将对#2美#2以巴#1三方#1会谈#4带来#2不利#1影响
+	斡旋_v#0 的_u#1 失败_v#4 将_d#0 对_p#2 美_j#2 以_j#0 巴_j#1 三_m#0 方_q#1 会谈_v#4 带来_v#2 不利_a#1 影响_v#4
+	wo4 xvan2 de5 shi1 bai4 jiang1 dui4 mei2 yi3 ba1 san1 fang1 hui4 tan2 dai4 lai2 bu2 li4 ying2 xiang3
+
+100861 	找到了#2两位#1客人的#3一个#1亲戚
+	找到_v#0 了_u#2 两_m#0 位_q#1 客人_n#0 的_u#3 一个_m#1 亲戚_n#4
+	zhao3 dao4 le5 liang3 wei4 ke4 ren2 de5 yi2 ge5 qin1 qi5
+
+100862 	一图#1为#3该校#1汉语#1教师#4萨里赫#3在#1讲解#2汉语#1词汇
+	一_m#0 图_n#1 为_v#3 该校_r#1 汉语_nz#1 教师_n#4 萨里赫_nh#3 在_d#1 讲解_v#2 汉语_nz#1 词汇_n#4
+	yi1 tu2 wei2 gai1 xiao4 han4 yv3 jiao4 shi1 sa4 li3 he4 zai4 jiang2 jie3 han4 yv3 ci2 hui4
+
+100863 	环境的#1改善#3和#1低廉的#3旅游#1消费
+	环境_n#0 的_u#1 改善_v#3 和_c#1 低廉_a#0 的_u#3 旅游_v#1 消费_v#4
+	huan2 jing4 de5 gai3 shan4 he2 di1 lian2 de5 lv3 you2 xiao1 fei4
+
+100864 	宇宙#2没有#1足够的#1物质#3来#1产生#3阻止#1宇宙#1膨胀的#1引力
+	宇宙_n#2 没有_v#1 足够_v#0 的_u#1 物质_n#3 来_v#1 产生_v#3 阻止_v#1 宇宙_n#1 膨胀_v#0 的_u#1 引力_n#4
+	yv3 zhou4 mei2 you3 zu2 gou4 de5 wu4 zhi4 lai2 chan3 sheng1 zu2 zhi2 yv3 zhou4 peng2 zhang4 de5 yin3 li4
+
+100865 	利用#2太空#1望远镜#4和#1地面#2大型#1望远镜
+	利用_v#2 太空_nl#1 望远镜_n#4 和_c#1 地面_n#2 大型_b#1 望远镜_n#4
+	li4 yong4 tai4 kong1 wang4 yvan3 jing4 he2 di4 mian4 da4 xing2 wang4 yvan3 jing4
+
+100866 	后来的#1版本#3写作#1风格#3则#1更#1自由#1一些
+	后来_nt#0 的_u#1 版本_n#3 写作_v#1 风格_n#3 则_d#1 更_d#1 自由_a#1 一些_m#4
+	hou4 lai2 de5 ban2 ben2 xie3 zuo4 feng1 ge2 ze2 geng4 zi4 you2 yi4 xie1
+
+100867 	企业#1必须#1制定#3一个#1明确的#3切实#1可行的#3赞助#1计划
+	企业_n#1 必须_d#1 制定_v#3 一个_m#1 明确_a#0 的_u#3 切实可行_i#1 的_u#3 赞助_v#1 计划_n#4
+	qi3 ye4 bi4 xv1 zhi4 ding4 yi2 ge4 ming2 qve4 de5 qie4 shi2 ke3 xing2 de5 zan4 zhu4 ji4 hua4
+
+100868 	发现#1身上#2盖着#1一张#3软绵绵#3热乎乎的#1毛毯
+	发现_v#1 身上_nl#2 盖_v#0 着_u#1 一_m#0 张_q#3 软绵绵_z#3 热乎乎_z#0 的_u#1 毛毯_n#4
+	fa1 xian4 shen1 shang4 gai4 zhe5 yi4 zhang1 ruan3 mian2 mian2 re4 hu1 hu1 de5 mao2 tan3
+
+100869 	躺在#1温软的#1毛毯下#3酣然#1入梦
+	躺_v#0 在_p#1 温软_a#0 的_u#1 毛毯_n#0 下_nd#3 酣然_d#1 入梦_v#4
+	tang3 zai4 wen1 ruan3 de5 mao2 tan3 xia4 han1 ran2 ru4 meng4
+
+100870 	司机#1从#2车窗里#3撂出#1一句话#4难怪#2抠抠#1搜搜的
+	司机_n#1 从_p#2 车窗_n#0 里_nd#3 撂_v#0 出_v#1 一_m#0 句_q#0 话_n#4 难怪_d#2 抠抠搜搜_i#1 的_u#4
+	si1 ji1 cong2 che1 chuang1 li3 liao4 chu1 yi2 jv4 hua4 nan2 guai4 kou1 kou5 sou1 sou1 de5
+
+100871 	一方面#3可#1提高#2居民的#3住房#2支付#1能力
+	一方面_c#3 可_v#1 提高_v#2 居民_n#0 的_u#3 住房_n#2 支付_v#1 能力_n#4
+	yi1 fang1 mian4 ke3 ti2 gao1 jv1 min2 de5 zhu4 fang2 zhi1 fu4 neng2 li4
+
+100872 	股东#2账户#1号码#3及#1有关#2交易#2信息#1泄密
+	股东_n#2 账户_n#1 号码_n#3 及_c#1 有关_v#2 交易_n#2 信息_n#1 泄密_v#4
+	gu3 dong1 zhang4 hu4 hao4 ma3 ji2 you3 guan1 jiao1 yi4 xin4 xi1 xie4 mi4
+
+100873 	周围#2齐腰#1高的#1冬青#4裹住#1一块块#3碧绿的#1草坪
+	周围_nd#2 齐_v#0 腰_n#1 高_a#0 的_u#1 冬青_n#4 裹_v#0 住_v#1 一块块_m#3 碧绿_z#0 的_u#1 草坪_n#4
+	zhou1 wei2 qi2 yao1 gao1 de5 dong1 qing1 guo3 zhu4 yi2 kuai4 kuai4 bi4 lv4 de5 cao3 ping2
+
+100874 	果木#1园艺#1培训的#3三百#1五十#1九点#1五万人
+	果木_n#1 园艺_n#1 培训_v#0 的_u#3 三百五十九点五万_m#1 人_n#4
+	guo3 mu4 yvan2 yi4 pei2 xvn4 de5 san1 bai2 wu3 shi2 jiu2 dian2 wu3 wan4 ren2
+
+100875 	赴藏#2锻炼的#1同志们#3经过#1培训#1后#3奔赴#1西藏
+	赴_v#0 藏_j#2 锻炼_v#0 的_u#1 同志_n#0 们_k#3 经过_p#1 培训_v#1 后_nd#3 奔赴_v#1 西藏_ns#4
+	fu4 zang4 duan4 lian4 de5 tong2 zhi4 men5 jing1 guo4 pei2 xvn4 hou4 ben1 fu4 xi1 zang4
+
+100876 	走访#1慰问了#3这里的#1敬老院#2困难户#3及#1五保户
+	走访_v#1 慰问_v#0 了_u#3 这里_r#0 的_u#1 敬老院_n#2 困难户_n#3 及_c#1 五保户_n#4
+	zou2 fang3 wei4 wen4 le5 zhe4 li3 de5 jing4 lao3 yvan4 kun4 nan2 hu4 ji2 wu2 bao3 hu4
+
+100877 	西班牙#1客人#3应#2中国#1共产党#1邀请
+	西班牙_ns#1 客人_n#3 应_v#2 中国_ns#1 共产党_n#1 邀请_v#4
+	xi1 ban1 ya2 ke4 ren5 ying4 zhong1 guo2 gong4 chan2 dang3 yao1 qing3
+
+100878 	读者#2也许#1不解#3为什么#1短短#1时间内#3会有#2这般#2奇迹#1出现
+	读者_n#2 也许_d#1 不解_v#3 为什么_r#1 短短_z#1 时间_n#0 内_nd#3 会_v#0 有_v#2 这般_r#2 奇迹_n#1 出现_v#4
+	du2 zhe3 ye2 xv3 bu4 jie3 wei4 shen2 me5 duan2 duan3 shi2 jian1 nei4 hui4 you3 zhe4 ban1 qi2 ji4 chu1 xian4
+
+100879 	要求#2工党#1政府#3进一步#2靠拢#1欧洲
+	要求_v#2 工党_n#1 政府_n#3 进一步_d#2 靠拢_v#1 欧洲_ns#4
+	yao1 qiu2 gong1 dang3 zheng4 fu3 jin4 yi2 bu4 kao4 long3 ou1 zhou1
+
+100880 	华盛顿#3一家#2豪华#1饭店的#1大厅里#3灯火#1辉煌
+	华盛顿_ns#3 一_m#0 家_q#2 豪华_a#1 饭店_n#0 的_u#1 大厅_n#0 里_nd#3 灯火辉煌_i#4
+	hua2 sheng4 dun4 yi4 jia1 hao2 hua2 fan4 dian4 de5 da4 ting1 li3 deng1 huo3 hui1 huang2
+
+100881 	主席#1台上#2悬挂的#3这条#2红底#1白字#1横幅#4格外#1醒目
+	主席台_n#1 上_nd#2 悬挂_v#0 的_u#3 这_r#0 条_q#2 红_a#0 底_n#1 白_a#0 字_n#1 横幅_n#4 格外_d#1 醒目_a#4
+	zhu3 xi2 tai2 shang4 xvan2 gua4 de5 zhe4 tiao2 hong2 di3 bai2 zi4 heng2 fu2 ge2 wai4 xing3 mu4
+
+100882 	四十五#1中学队#3获#2女子#2中学组#1冠军
+	四十五_m#1 中学_n#0 队_n#3 获_v#2 女子_n#2 中学组_n#1 冠军_n#4
+	si4 shi2 wu3 zhong1 xve2 dui4 huo4 nv2 zi3 zhong1 xve2 zu3 guan4 jvn1
+
+100883 	波涛#2滚滚的#1邕江上#3五座#1大桥#2横跨#1而过
+	波涛_n#2 滚滚_z#0 的_u#1 邕江_ns#0 上_nd#3 五_m#0 座_q#1 大桥_n#2 横跨_v#1 而_c#0 过_v#4
+	bo1 tao1 gun2 gun3 de5 yong1 jiang1 shang4 wu3 zuo4 da4 qiao2 heng2 kua4 er2 guo4
+
+100884 	火车#1汽笛声#3唤醒了#1沉睡的#1荒山
+	火车_n#1 汽笛声_n#3 唤醒_v#0 了_u#1 沉睡_v#0 的_u#1 荒山_n#4
+	huo3 che1 qi4 di2 sheng1 huan4 xing3 le5 chen2 shui4 de5 huang1 shan1
+
+100885 	宣告了#2经济#1大发展的#1时代#3来到了
+	宣告_v#0 了_u#2 经济_n#1 大_d#0 发展_v#0 的_u#1 时代_n#3 来到_v#0 了_u#4
+	xvan1 gao4 le5 jing1 ji4 da4 fa1 zhan3 de5 shi2 dai4 lai2 dao4 le5
+
+100886 	云南#2丰富的#1矿藏#1资源#1开发#4从此#1可以#3再上#2新台阶
+	云南_ns#2 丰富_a#0 的_u#1 矿藏_n#1 资源_n#1 开发_v#4 从此_d#1 可以_v#3 再_d#0 上_v#2 新_a#0 台阶_n#4
+	yvn2 nan2 feng1 fu4 de5 kuang4 cang2 zi1 yvan2 kai1 fa1 cong2 ci3 ke2 yi3 zai4 shang4 xin1 tai2 jie1
+
+100887 	刘文凯#2乐呵呵地#1说#3好些了
+	刘文凯_nh#2 乐呵呵_z#0 地_u#1 说_v#3 好_a#0 些_q#0 了_u#4
+	liu2 wen2 kai3 le4 he1 he1 de5 shuo1 hao3 xie1 le5
+
+100888 	某市#2昔日#1荒芜的#1人行道#3立刻#1变得#3绿意#1盎然
+	某市_r#2 昔日_nt#1 荒芜_a#0 的_u#1 人行道_n#3 立刻_d#1 变_v#0 得_u#3 绿意_n#1 盎然_z#4
+	mou3 shi4 xi1 ri4 huang1 wu2 de5 ren2 xing2 dao4 li4 ke4 bian4 de5 lv4 yi4 ang4 ran2
+
+100889 	只是#2交谈时#3压抑#1不住的#1大嗓门#3和#1爽朗的#1笑声
+	只是_d#2 交谈_v#0 时_n#3 压抑_v#1 不_d#0 住_v#0 的_u#1 大嗓门_n#3 和_c#1 爽朗_a#0 的_u#1 笑声_n#4
+	zhi3 shi4 jiao1 tan2 shi2 ya1 yi4 bu2 zhu4 de5 da4 sang3 men2 he2 shuang2 lang3 de5 xiao4 sheng1
+
+100890 	文化的#1主题#3是由#2现实#1提出#3和#1决定的
+	文化_n#0 的_u#1 主题_n#3 是_v#0 由_p#2 现实_n#1 提出_v#3 和_c#1 决定_v#0 的_u#4
+	wen2 hua4 de5 zhu3 ti2 shi4 you2 xian4 shi2 ti2 chu1 he2 jve2 ding4 de5
+
+100891 	传统#1文化#4是为#2旧#1时代的#1经济#3和#1政治#4服务的
+	传统_n#1 文化_n#4 是_v#0 为_p#2 旧_a#1 时代_n#0 的_u#1 经济_n#3 和_c#1 政治_n#4 服务_v#0 的_u#4
+	chuan2 tong3 wen2 hua4 shi4 wei4 jiu4 shi2 dai4 de5 jing1 ji4 he2 zheng4 zhi4 fu2 wu4 de5
+
+100892 	混淆#2淡漠了#1感情#3与#1法纪的#1界线
+	混淆_v#2 淡漠_a#0 了_u#1 感情_n#3 与_c#1 法纪_n#0 的_u#1 界线_n#4
+	hun4 xiao2 dan4 mo4 le5 gan3 qing2 yv2 fa3 ji4 de5 jie4 xian4
+
+100893 	政府的#1脸#3真真#1切切地#1变了
+	政府_n#0 的_u#1 脸真真切切_a#3 地_u#1 变_v#0 了_u#4
+	zheng4 fu3 de5 lian3 zhen1 zhen1 qie4 qie4 de5 bian4 le5
+
+100894 	联网的#1微机#3犹如#2排排#1防护林
+	联网_v#0 的_u#1 微机_n#3 犹如_v#2 排排_q#1 防护林_n#4
+	lian2 wang3 de5 wei1 ji1 you2 ru2 pai2 pai2 fang2 hu4 lin2
+
+100895 	工作#1人员#3企盼着#1这群#2鸿雁#3展翅#1云端
+	工作_v#1 人员_n#3 企盼_v#0 着_u#1 这_r#0 群_q#2 鸿雁_n#3 展翅_v#1 云端_n#4
+	gong1 zuo4 ren2 yvan2 qi3 pan4 zhe5 zhe4 qvn2 hong2 yan4 zhan3 chi4 yvn2 duan1
+
+100896 	说明#1人们#3已经#1知道#2肥胖#3是#1可怕的
+	说明_v#1 人们_n#3 已经_d#1 知道_v#2 肥胖_a#3 是_v#1 可怕_a#0 的_u#4
+	shuo1 ming2 ren2 men5 yi3 jing1 zhi1 dao4 fei2 pang4 shi4 ke3 pa4 de5
+
+100897 	一场#2空前#1激烈的#1战斗#3打响了
+	一_m#0 场_q#2 空前_d#1 激烈_a#0 的_u#1 战斗_v#3 打响_v#0 了_u#4
+	yi4 chang3 kong1 qian2 ji1 lie4 de5 zhan4 dou4 da2 xiang3 le5
+
+100898 	沉溺于#2花天#1酒地#3奢侈#1浪费的#1人
+	沉溺_v#0 于_p#2 花天酒地_i#3 奢侈浪费_i#1 的_u#1 人_n#4
+	chen2 ni4 yv2 hua1 tian1 jiu3 di4 she1 chi3 lang4 fei4 de5 ren2
+
+100899 	只是#2搭建的#1小窝棚#4难以#2抵御#1坝上#3呼啸的#1寒风
+	只是_d#2 搭建_v#0 的_u#1 小_a#0 窝棚_n#4 难以_d#2 抵御_v#1 坝上_nl#3 呼啸_v#0 的_u#1 寒风_n#4
+	zhi3 shi4 da1 jian4 de5 xiao3 wo1 peng5 nan2 yi2 di3 yv4 ba4 shang4 hu1 xiao4 de5 han2 feng1
+
+100900 	危害#2发电#1设施#4变电#1设施#3和#1电力#1线路#1设施的
+	危害_v#2 发电_v#1 设施_n#4 变电_v#1 设施_n#3 和_c#1 电力_n#1 线路_n#1 设施_n#0 的_u#4
+	wei1 hai4 fa1 dian4 she4 shi1 bian4 dian4 she4 shi1 he2 dian4 li4 xian4 lu4 she4 shi1 de5
+
+100901 	牢牢#1把握#3落实#1银行#1债权#4这个#1关键#1环节
+	牢牢_d#1 把握_v#3 落实_v#1 银行_n#1 债权_n#4 这个_r#1 关键_a#1 环节_n#4
+	lao2 lao2 ba3 wo4 luo4 shi2 yin2 hang2 zhai4 qvan2 zhe4 ge5 guan1 jian4 huan2 jie2
+
+100902 	反映出#3反#1腐败的#1底气#3和#1勇气
+	反映_v#0 出_v#3 反_v#1 腐败_a#0 的_u#1 底气_n#3 和_c#1 勇气_n#4
+	fan3 ying4 chu1 fan2 fu3 bai4 de5 di3 qi4 he2 yong3 qi4
+
+100903 	多年来#3致力于#3耳聋#2疾病的#1诊治
+	多_a#0 年_q#0 来_nd#3 致力_v#0 于_p#3 耳聋_v#2 疾病_n#0 的_u#1 诊治_v#4
+	duo1 nian2 lai2 zhi4 li4 yv2 er3 long2 ji2 bing4 de5 zhen3 zhi4
+
+100904 	塔吉#1克斯坦#3正#1处于#2历史的#1转折#1关头
+	塔吉克斯坦_ns#3 正_d#1 处于_v#2 历史_n#0 的_u#1 转折_v#1 关头_n#4
+	ta3 ji2 ke4 si1 tan3 zheng4 chu3 yv2 li4 shi3 de5 zhuan3 zhe2 guan1 tou2
+
+100905 	香港#2橄榄球#1总会#4昨晚#2立即#1作出#1反应
+	香港_ns#2 橄榄球_n#1 总会_n#4 昨晚_nt#2 立即_d#1 作出_v#1 反应_v#4
+	xiang1 gang3 gan2 lan3 qiu2 zong3 hui4 zuo2 wan3 li4 ji2 zuo4 chu1 fan3 ying4
+
+100906 	教研室#2学员队#4有#1乒乓球桌#4台球桌的#2合理#1布局
+	教研室_n#2 学员队_n#4 有_v#1 乒乓球桌_n#4 台球桌_n#0 的_u#2 合理_a#1 布局_n#4
+	jiao4 yan2 shi4 xve2 yvan2 dui4 you3 ping1 pang1 qiu2 zhuo1 tai2 qiu2 zhuo1 de5 he2 li3 bu4 jv2
+
+100907 	在#1车上#3目睹了#1一起#3由#1一伙#1骗子#2操纵的#3连环骗
+	在_p#1 车上_nl#3 目睹_v#0 了_u#1 一_m#0 起_q#3 由_p#1 一_m#0 伙_q#1 骗子_n#2 操纵_v#0 的_u#3 连环_b#0 骗_v#4
+	zai4 che1 shang4 mu4 du3 le5 yi4 qi3 you2 yi4 huo3 pian4 zi5 cao1 zong4 de5 lian2 huan2 pian4
+
+100908 	订出了#2满满#1当当的#3备考#1计划
+	订_v#0 出_v#0 了_u#2 满满当当_z#1 的_u#3 备考_n#1 计划_n#4
+	ding4 chu1 le5 man2 man3 dang1 dang1 de5 bei4 kao3 ji4 hua4
+
+100909 	澄清了#1人们#3对#1周易#1算命的#3糊涂#1认识
+	澄清_v#0 了_u#1 人们_n#3 对_p#1 周易_nh#1 算命_v#0 的_u#3 糊涂_a#1 认识_n#4
+	cheng2 qing1 le5 ren2 men5 dui4 zhou1 yi4 suan4 ming4 de5 hu2 tu5 ren4 shi5
+
+100910 	仍吃#2冬天#1储藏的#3萝卜#2大白菜
+	仍_d#0 吃_v#2 冬天_nt#1 储藏_v#0 的_u#3 萝卜大白菜_n#4
+	reng2 chi1 dong1 tian1 chu3 cang2 de5 luo2 bo5 da4 bai2 cai4
+
+100911 	既有#2西昌#2卫星#1发射#1中心#3火箭#1腾飞#3送#2卫星#2遨游#1苍穹
+	既_c#0 有_v#2 西昌_ns#2 卫星_n#1 发射_v#1 中心_n#3 火箭_n#1 腾飞_v#3 送_v#2 卫星_n#2 遨游_v#1 苍穹_n#4
+	ji4 you3 xi1 chang1 wei4 xing1 fa1 she4 zhong1 xin1 huo3 jian4 teng2 fei1 song4 wei4 xing1 ao2 you2 cang1 qiong2
+
+100912 	用#2本不富裕的#1财力#3和#1勤劳的#1双手
+	用_p#2 本_d#0 不_d#0 富裕_a#0 的_u#1 财力_n#3 和_c#1 勤劳_a#0 的_u#1 双手_n#4
+	yong4 ben3 bu2 fu4 yv5 de5 cai2 li4 he2 qin2 lao2 de5 shuang1 shou3
+
+100913 	需要#1穿#2易于#1散热#3凉爽的#1衣服#1有关
+	需要_v#1 穿_v#2 易于_v#1 散热_v#3 凉爽_a#0 的_u#1 衣服_n#1 有关_v#4
+	xv1 yao4 chuan1 yi4 yv2 san4 re4 liang2 shuang3 de5 yi1 fu5 you3 guan1
+
+100914 	反映了#2民族#1团结的#3时代#1主旋律
+	反映_v#0 了_u#2 民族_n#1 团结_a#0 的_u#3 时代_n#1 主旋律_n#4
+	fan3 ying4 le5 min2 zu2 tuan2 jie2 de5 shi2 dai4 zhu3 xvan2 lv4
+
+100915 	总结#1贯彻#1落实#3十四届#1六中#1全会#3决议的#1经验
+	总结_v#1 贯彻_v#1 落实_v#3 十四_m#0 届_q#1 六中全会_j#3 决议_n#0 的_u#1 经验_n#4
+	zong3 jie2 guan4 che4 luo4 shi2 shi2 si4 jie4 liu4 zhong1 qvan2 hui4 jve2 yi4 de5 jing1 yan4
+
+100916 	销售额#2竟#1同比#1骤增了#3百分之#1四十#1九点#2三四
+	销售额_n#2 竟_d#1 同比_j#1 骤增_v#0 了_u#3 百分之四十九点三四_m#4
+	xiao1 shou4 e2 jing4 tong2 bi3 zhou4 zeng1 le5 bai3 fen1 zhi1 si4 shi2 jiu2 dian3 san1 si4
+
+100917 	宣传#1中央的#3重大#1决策#3和#1工作#1部署
+	宣传_v#1 中央_n#0 的_u#3 重大_a#1 决策_n#3 和_c#1 工作_v#1 部署_v#4
+	xvan1 chuan2 zhong1 yang1 de5 zhong4 da4 jve2 ce4 he2 gong1 zuo4 bu4 shu3
+
+100918 	走向#2腐化#2堕落的#1深渊#4并非#2偶然#1失足
+	走向_v#2 腐化_v#2 堕落_v#0 的_u#1 深渊_n#4 并非_v#2 偶然_a#1 失足_v#4
+	zou3 xiang4 fu3 hua4 duo4 luo4 de5 shen1 yvan1 bing4 fei1 ou3 ran2 shi1 zu2
+
+100919 	安理会#1有关#1决议#3应该#1得到#3全面#2切实的#1执行
+	安理会_j#1 有关_v#1 决议_n#3 应该_v#1 得到_v#3 全面_a#2 切实_a#0 的_u#1 执行_v#4
+	an1 li3 hui4 you3 guan1 jve2 yi4 ying1 gai1 de2 dao4 qvan2 mian4 qie4 shi2 de5 zhi2 xing2
+
+100920 	对于#2渥太华#1市民#1来说#3冬季#1出门#3实在#1太难了
+	对于_p#2 渥太华_ns#1 市民_n#1 来说_u#3 冬季_nt#1 出门_v#3 实在_d#1 太_d#0 难_a#0 了_u#4
+	dui4 yv2 wo4 tai4 hua2 shi4 min2 lai2 shuo1 dong1 ji4 chu1 men2 shi2 zai4 tai4 nan2 le5
+
+100921 	犯罪率#2仍呈#2上升#1趋势#3而#1提出的
+	犯罪率_n#2 仍_d#0 呈_v#2 上升_v#1 趋势_n#3 而_c#1 提出_v#0 的_u#4
+	fan4 zui4 lv4 reng2 cheng2 shang4 sheng1 qv1 shi4 er2 ti2 chu1 de5
+
+100922 	他#1垄断了#3五十米#2和#1一百米#3自由泳#1金牌
+	他_r#1 垄断_v#0 了_u#3 五十_m#0 米_q#2 和_c#1 一百_m#0 米_q#3 自由泳_n#1 金牌_n#4
+	ta1 long3 duan4 le5 wu3 shi2 mi3 he2 yi4 bai2 mi3 zi4 you2 yong3 jin1 pai2
+
+100923 	这些#1晚会#3假如#1只是#1一种#3简朴的#1联欢#1性质
+	这些_r#1 晚会_n#3 假如_c#1 只是_v#1 一_m#0 种_q#3 简朴_a#0 的_u#1 联欢_v#1 性质_n#4
+	zhe4 xie1 wan3 hui4 jia3 ru2 zhi3 shi4 yi4 zhong3 jian2 pu3 de5 lian2 huan1 xing4 zhi4
+
+100924 	群众#2对#1粗制#1滥造#3或#1雷同的#3应景#1晚会#4也是#1反感的
+	群众_n#2 对_p#1 粗制滥造_i#3 或_c#1 雷同_v#0 的_u#3 应景_v#1 晚会_n#4 也_d#0 是_v#1 反感_a#0 的_u#4
+	qvn2 zhong4 dui4 cu1 zhi4 lan4 zao4 huo4 lei2 tong2 de5 ying4 jing2 wan3 hui4 ye3 shi4 fan2 gan3 de5
+
+100925 	但当#1发现#3虚夸的#1溢美#1之词#3便#1立即#1放下了
+	但_c#0 当_p#1 发现_v#3 虚夸_v#0 的_u#1 溢美之词_i#3 便_d#1 立即_d#1 放下_v#0 了_u#4
+	dan4 dang1 fa1 xian4 xv1 kua1 de5 yi4 mei3 zhi1 ci2 bian4 li4 ji2 fang4 xia4 le5
+
+100926 	让人#1感觉到#3心灵的#1纯净#3和#1精神的#1升华
+	让_v#0 人_n#1 感觉_v#0 到_v#3 心灵_n#0 的_u#1 纯净_a#3 和_c#1 精神_n#0 的_u#1 升华_v#4
+	rang4 ren2 gan3 jve2 dao4 xin1 ling2 de5 chun2 jing4 he2 jing1 shen2 de5 sheng1 hua2
+
+100927 	我的#1眼前#3又#1映现出#1南极#3那#1肆虐#1不羁的#1暴风雪
+	我_r#0 的_u#1 眼前_nt#3 又_d#1 映现_v#0 出_v#1 南极_ns#3 那_r#1 肆虐_v#1 不羁_z#0 的_u#1 暴风雪_n#4
+	wo3 de5 yan3 qian2 you4 ying4 xian4 chu1 nan2 ji2 na4 si4 nve4 bu4 ji1 de5 bao4 feng1 xve3
+
+100928 	互相#1打#1呼招#1时#3竟#1戏称#1之为#3抢#1银行#1行动
+	互相_d#1 打呼招_v#1 时_n#3 竟_d#1 戏称_v#1 之_r#0 为_v#3 抢_v#1 银行_n#1 行动_v#4
+	hu4 xiang1 da3 zhao1 hu5 shi2 jing4 xi4 cheng1 zhi1 wei2 qiang3 yin2 hang2 xing2 dong4
+
+100929 	低头#2拿出#2国产#1圆珠笔#4要在#2文件上#1签字
+	低头_v#2 拿_v#0 出_v#2 国产_b#1 圆珠笔_n#4 要_v#0 在_p#2 文件_n#0 上_nd#1 签字_v#4
+	di1 tou2 na2 chu1 guo2 chan3 yvan2 zhu1 bi3 yao4 zai4 wen2 jian4 shang4 qian1 zi4
+
+100930 	也许#1一件#3高昂#1价格的#1名牌#1衬衫#4就此#1毁了
+	也许_d#1 一_m#0 件_q#3 高昂_a#1 价格_n#0 的_u#1 名牌_n#1 衬衫_n#4 就此_d#1 毁_v#0 了_u#4
+	ye2 xv3 yi2 jian4 gao1 ang2 jia4 ge2 de5 ming2 pai2 chen4 shan1 jiu4 ci2 hui3 le5
+
+100931 	她#1已经#3习惯了#1那些#2小#1抽斗的#1位置
+	她_r#1 已经_d#3 习惯_v#0 了_u#1 那些_r#2 小_a#1 抽斗_n#0 的_u#1 位置_n#4
+	ta1 yi3 jing1 xi2 guan4 le5 na4 xie1 xiao3 chou1 dou3 de5 wei4 zhi4
+
+100932 	过#1五关#3斩#1六将#4擂鼓#1三通#4斩#2蔡阳
+	过五关斩六_v#3 将_d#4 擂鼓_v#1 三通斩_j#2 蔡阳_nh#4
+	guo4 wu3 guan1 zhan3 liu4 jiang4 lei2 gu3 san1 tong4 zhan3 cai4 yang2
+
+100933 	适当#1扩大#3对#1商业#1票据的#2贴现#3和#2再#1贴现#1业务
+	适当_a#1 扩大_v#3 对_p#1 商业_n#1 票据_n#0 的_u#2 贴现_v#3 和_c#2 再_d#1 贴现_v#1 业务_n#4
+	shi4 dang4 kuo4 da4 dui4 shang1 ye4 piao4 jv4 de5 tie1 xian4 he2 zai4 tie1 xian4 ye4 wu4
+
+100934 	军旅#1戏剧#3过去#2虽然#1作过#1一些#3有益的#1探讨
+	军旅_n#1 戏剧_n#3 过去_nt#2 虽然_c#1 作_v#0 过_u#1 一些_m#3 有益_a#0 的_u#1 探讨_v#4
+	jvn1 lv3 xi4 jv4 guo4 qv4 sui1 ran2 zuo4 guo4 yi4 xie1 you3 yi4 de5 tan4 tao3
+
+100935 	印度的#1软件#1出口#3现在#2仅次于#1美国
+	印度_ns#0 的_u#1 软件_n#1 出口_v#3 现在_nt#2 仅次于_v#1 美国_ns#4
+	yin4 du4 de5 ruan3 jian4 chu1 kou3 xian4 zai4 jin3 ci4 yv2 mei3 guo2
+
+100936 	而是#1用#2价格#1更低的#3聚丙烯#3聚氯#1乙烯#1等
+	而是_c#1 用_p#2 价格_n#1 更_d#0 低_a#0 的_u#3 聚丙烯_n#3 聚氯乙烯_n#1 等_u#4
+	er2 shi4 yong4 jia4 ge2 geng4 di1 de5 jv4 bing3 xi1 jv4 lv4 yi3 xi1 deng3
+
+100937 	电视台#3几次#1采访#1配的#1翻译#3自感#2力不#1胜任
+	电视台_n#3 几_m#0 次_q#1 采访_v#1 配_v#0 的_u#1 翻译_n#3 自感_v#2 力不胜任_i#4
+	dian4 shi4 tai2 ji3 ci4 cai2 fang3 pei4 de5 fan1 yi4 zi4 gan3 li4 bu2 sheng4 ren4
+
+100938 	用#2看是#1走#3实似#1跑的#1步伐#3气呼呼地#2冲向#1国门
+	用_p#2 看_v#0 是_v#1 走_v#3 实_a#0 似_v#1 跑_v#0 的_u#1 步伐_n#3 气呼呼_z#0 地_u#2 冲_v#0 向_p#1 国门_n#4
+	yong4 kan4 shi4 zou3 shi2 si4 pao3 de5 bu4 fa2 qi4 hu1 hu1 de5 chong1 xiang4 guo2 men2
+
+100939 	开始了#1他#2十四个#1春秋#3痴情#1不移的#3扶贫#2壮举
+	开始_v#0 了_u#1 他_r#2 十四_m#0 个_q#1 春秋_n#3 痴情不移_i#1 的_u#3 扶贫_v#2 壮举_n#4
+	kai1 shi3 le5 ta1 shi2 si4 ge5 chun1 qiu1 chi1 qing2 bu4 yi2 de5 fu2 pin2 zhuang4 jv3
+
+100940 	把#1带有#1体温的#3军用#1棉袄#4裹在了#1老人#1身上
+	把_p#1 带有_v#1 体温_n#0 的_u#3 军用_b#1 棉袄_n#4 裹_v#0 在_v#0 了_u#1 老人_n#1 身上_nl#4
+	ba3 dai4 you2 ti3 wen1 de5 jvn1 yong4 mian2 ao3 guo3 zai4 le5 lao3 ren2 shen1 shang4
+
+100941 	忍不住#1摇醒了#3睡梦中的#1老伴
+	忍不住_v#1 摇_v#0 醒_v#0 了_u#3 睡梦_n#0 中_nd#0 的_u#1 老伴_n#4
+	ren3 bu5 zhu4 yao2 xing3 le5 shui4 meng4 zhong1 de5 lao3 ban4
+
+100942 	刚才#2还#1嚷嚷#3要#1回家#1订份#2科技报的#1陈振兴
+	刚才_nt#2 还_d#1 嚷嚷_v#3 要_v#1 回家_v#1 订_v#0 份_q#2 科技报_n#0 的_u#1 陈振兴_nh#4
+	gang1 cai2 hai2 rang1 rang5 yao4 hui2 jia1 ding4 fen4 ke1 ji4 bao4 de5 chen2 zhen4 xing1
+
+100943 	组织#2科技#1人员#3大力#1开发#2高科技#1新产品#4踏板#1摩托车
+	组织_v#2 科技_n#1 人员_n#3 大力_d#1 开发_v#2 高_a#0 科技_n#1 新_a#0 产品_n#4 踏板_n#1 摩托车_n#4
+	zu3 zhi1 ke1 ji4 ren2 yvan2 da4 li4 kai1 fa1 gao1 ke1 ji4 xin1 chan2 pin3 ta4 ban3 mo2 tuo1 che1
+
+100944 	民主党#2正式#1要求#3乔尔#1贝亚#3及其#1政府#2下台
+	民主党_n#2 正式_a#1 要求_v#3 乔尔贝亚_nh#3 及其_c#1 政府_n#2 下台_v#4
+	min2 zhu2 dang3 zheng4 shi4 yao1 qiu2 qiao2 er3 bei4 ya4 ji2 qi2 zheng4 fu3 xia4 tai2
+
+100945 	举办#2多场#3摄影#2手工#1艺品#1设计#3和#1信息#1技术#1等项#2展览
+	举办_v#2 多_a#0 场_q#3 摄影_v#2 手工艺品_n#1 设计_v#3 和_c#1 信息_n#1 技术_n#1 等_u#0 项_q#2 展览_v#4
+	jv3 ban4 duo1 chang3 she4 ying2 shou3 gong1 yi4 pin3 she4 ji4 he2 xin4 xi1 ji4 shu4 deng3 xiang4 zhan2 lan3
+
+100946 	而#1橄榄油中#3单一#1非饱和#2脂肪酸#4含量#1很大
+	而_c#1 橄榄油_n#0 中_nd#3 单一_a#1 非饱和_b#2 脂肪酸_n#4 含量_n#1 很_d#0 大_a#4
+	er2 gan2 lan3 you2 zhong1 dan1 yi1 fei1 bao3 he2 zhi1 fang2 suan1 han2 liang4 hen3 da4
+
+100947 	包揽了#1女单#2和#1女双#4两项#1比赛的#1冠亚军
+	包揽_v#0 了_u#1 女单_j#2 和_c#1 女双_j#4 两_m#0 项_q#1 比赛_v#0 的_u#1 冠亚军_j#4
+	bao1 lan3 le5 nv3 dan1 he2 nv3 shuang1 liang3 xiang4 bi3 sai4 de5 guan4 ya4 jvn1
+
+100948 	队员的#1信心#3和#1轻松的#1心态#3可见#1一斑
+	队员_n#0 的_u#1 信心_n#3 和_c#1 轻松_a#0 的_u#1 心态_n#3 可见一斑_i#4
+	dui4 yvan2 de5 xin4 xin1 he2 qing1 song1 de5 xin1 tai4 ke3 jian4 yi4 ban1
+
+100949 	宁可#1政府#1承担#1压力#3也#1绝不搞#1摊派
+	宁可_d#1 政府_n#1 承担_v#1 压力_n#3 也_d#1 绝不_d#0 搞_v#1 摊派_v#4
+	ning4 ke3 zheng4 fu3 cheng2 dan1 ya1 li4 ye3 jve2 bu5 gao3 tan1 pai4
+
+100950 	几十年的#3国有#2大锅饭#1体制#4把人#2惯懒了
+	几十_m#0 年_q#0 的_u#3 国有_v#2 大锅饭_n#1 体制_n#4 把_p#0 人_n#2 惯懒_v#0 了_u#4
+	ji3 shi2 nian2 de5 guo2 you3 da4 guo1 fan4 ti3 zhi4 ba3 ren2 guan4 lan3 le5
+
+100951 	销售商#2不仅#2要把#3市场的#1声音#3传到#2厂商的#1耳朵中
+	销售商_n#2 不仅_c#2 要_v#0 把_p#3 市场_n#0 的_u#1 声音_n#3 传到_v#2 厂商_n#0 的_u#1 耳朵_n#0 中_nd#4
+	xiao1 shou4 shang1 bu4 jin3 yao4 ba3 shi4 chang3 de5 sheng1 yin1 chuan2 dao4 chang3 shang1 de5 er3 duo5 zhong1
+
+100952 	著名的#2丰田#1生产#1方式#3是#1不会#1改变的
+	著名_a#0 的_u#2 丰田_nz#1 生产方式_i#3 是_v#1 不_d#0 会_v#1 改变_v#0 的_u#4
+	zhu4 ming2 de5 feng1 tian2 sheng1 chan3 fang1 shi4 shi4 bu2 hui4 gai3 bian4 de5
+
+100953 	只见#2寨子里的#1男女#1老少#4举着#1熊熊#2燃烧的#1火把
+	只见_v#2 寨子_n#0 里_nd#0 的_u#1 男女老少_i#4 举_v#0 着_u#1 熊熊_z#2 燃烧_v#0 的_u#1 火把_n#4
+	zhi3 jian4 zhai4 zi5 li3 de5 nan2 nv2 lao3 shao4 jv3 zhe5 xiong2 xiong2 ran2 shao1 de5 huo2 ba3
+
+100954 	我#1常常#1思考#3人民#1群众#3拥戴#2共产党
+	我_r#1 常常_d#1 思考_v#3 人民_n#1 群众_n#3 拥戴_v#2 共产党_n#4
+	wo3 chang2 chang2 si1 kao3 ren2 min2 qvn2 zhong4 yong1 dai4 gong4 chan2 dang3
+
+100955 	展品的#1征集#3展览的#1布置#1等#1工作#4进展#1顺利
+	展品_n#0 的_u#1 征集_v#3 展览_v#0 的_u#1 布置_v#1 等_u#1 工作_v#4 进展_v#1 顺利_a#4
+	zhan2 pin3 de5 zheng1 ji2 zhan2 lan3 de5 bu4 zhi5 deng3 gong1 zuo4 jin4 zhan3 shun4 li4
+
+100956 	十六座#2高压#2电力#2输送#1铁塔#4在#1积冰的#1重压下#3倒塌
+	十六_m#0 座_q#2 高压_n#2 电力_n#2 输送_v#1 铁塔_n#4 在_p#1 积冰_n#0 的_u#1 重_d#0 压_v#0 下_nd#3 倒塌_v#4
+	shi2 liu4 zuo4 gao1 ya1 dian4 li4 shu1 song4 tie2 ta3 zai4 ji1 bing1 de5 zhong4 ya1 xia4 dao3 ta1
+
+100957 	肉类#2和#1冷冻#1食品#4都因#2冷藏柜#1断电#3而#2无货#1可售
+	肉类_n#2 和_c#1 冷冻_v#1 食品_n#4 都_d#0 因_p#2 冷藏柜_n#1 断电_v#3 而_c#2 无_v#0 货_n#1 可_v#0 售_v#4
+	rou4 lei4 he2 leng3 dong4 shi2 pin3 dou1 yin1 leng3 cang2 gui4 duan4 dian4 er2 wu2 huo4 ke3 shou4
+
+100958 	因为#1有人#3用#1露营的#2取暖#1设备#4在#1室内#1取暖#4而#1中毒
+	因为_c#1 有人_r#3 用_v#1 露营_v#0 的_u#2 取暖_v#1 设备_n#4 在_p#1 室内_nl#1 取暖_v#4 而_c#1 中毒_v#4
+	yin1 wei4 you3 ren2 yong4 lu4 ying2 de5 qv2 nuan3 she4 bei4 zai4 shi4 nei4 qv2 nuan3 er2 zhong4 du2
+
+100959 	这一#1场雪#3不仅#1使#2等待#1春播的#1农民#3喜上#1眉梢
+	这_r#0 一_m#1 场_q#0 雪_n#3 不仅_c#1 使_v#2 等待_v#1 春播_v#0 的_u#1 农民_n#3 喜上眉梢_i#4
+	zhe4 yi4 chang2 xve3 bu4 jin2 shi2 deng3 dai4 chun1 bo1 de5 nong2 min2 xi3 shang4 mei2 shao1
+
+100960 	研制出#3专用于#2熊猫的#3抗#1衰老#2药物#1处方
+	研制_v#0 出_v#3 专_d#0 用于_v#2 熊猫_n#0 的_u#3 抗_v#1 衰老_a#2 药物_n#1 处方_n#4
+	yan2 zhi4 chu1 zhuan1 yong4 yv2 xiong2 mao1 de5 kang4 shuai1 lao3 yao4 wu5 chu3 fang1
+
+100961 	原来#2灵活的#1经营#1机制#4逐步#1降低了#2活力#1等#1原因
+	原来_d#2 灵活_a#0 的_u#1 经营_v#1 机制_n#4 逐步_d#1 降低_v#0 了_u#2 活力_n#1 等_u#1 原因_n#4
+	yvan2 lai2 ling2 huo2 de5 jing1 ying2 ji1 zhi4 zhu2 bu4 jiang4 di1 le5 huo2 li4 deng3 yvan2 yin1
+
+100962 	工业的#1发展#3已经#1把它#2消灭了
+	工业_n#0 的_u#1 发展_v#3 已经_d#1 把_p#0 它_r#2 消灭_v#0 了_u#4
+	gong1 ye4 de5 fa1 zhan3 yi3 jing1 ba3 ta1 xiao1 mie4 le5
+
+100963 	导致了#1一种#3普遍的#3忌讳#1心态
+	导致_v#0 了_u#1 一_m#0 种_q#3 普遍_a#0 的_u#3 忌讳_v#1 心态_n#4
+	dao3 zhi4 le5 yi4 zhong2 pu3 bian4 de5 ji4 hui4 xin1 tai4
+
+100964 	某些#1类型的#1病毒#3不产生#1抗体
+	某些_r#1 类型_n#0 的_u#1 病毒_n#3 不_d#0 产生_v#1 抗体_n#4
+	mou3 xie1 lei4 xing2 de5 bing4 du2 bu4 chan3 sheng1 kang4 ti3
+
+100965 	带回#1美国#2联邦#1法典中#3有关#1药品的#3九大本#1法规
+	带_v#0 回_v#1 美国_ns#2 联邦_n#1 法典_n#0 中_nd#3 有关_p#1 药品_n#0 的_u#3 九_m#0 大_a#0 本_q#1 法规_n#4
+	dai4 hui2 mei3 guo2 lian2 bang1 fa2 dian3 zhong1 you3 guan1 yao4 pin3 de5 jiu3 da4 ben2 fa3 gui1
+
+100966 	七十二岁的#1五保户#4王俊#1大娘#4双目#2失明
+	七十二_m#0 岁_q#0 的_u#1 五保户_n#4 王俊_nh#1 大娘_n#4 双目_n#2 失明_v#4
+	qi1 shi2 er4 sui4 de5 wu2 bao3 hu4 wang2 jvn4 da4 niang2 shuang1 mu4 shi1 ming2
+
+100967 	聘请的#1律师#3可以#1为其#2申请#3取保#1候审
+	聘请_v#0 的_u#1 律师_n#3 可以_v#1 为_p#0 其_r#2 申请_v#3 取保_v#1 候审_v#4
+	pin4 qing3 de5 lv4 shi1 ke2 yi3 wei4 qi2 shen1 qing3 qv2 bao3 hou4 shen3
+
+100968 	四十六#4对于#2人民#2检察院#3抗诉的#1案件
+	四十六_m#4 对于_p#2 人民_n#2 检察院_n#3 抗诉_v#0 的_u#1 案件_n#4
+	si4 shi2 liu4 dui4 yv2 ren2 min2 jian3 cha2 yvan4 kang4 su4 de5 an4 jian4
+
+100969 	其他的#1节目#3也是#1根据#1演出#1对象#3编排的
+	其他_r#0 的_u#1 节目_n#3 也_d#0 是_v#1 根据_p#1 演出_v#1 对象_n#3 编排_v#0 的_u#4
+	qi2 ta1 de5 jie2 mu4 ye3 shi4 gen1 jv4 yan3 chu1 dui4 xiang4 bian1 pai2 de5
+
+100970 	在#1治疗#1糖尿病#3并发症#1方面#4显示出#2独特的#1优势
+	在_p#1 治疗_v#1 糖尿病_n#3 并发症_n#1 方面_n#4 显示_v#0 出_v#2 独特_a#0 的_u#1 优势_n#4
+	zai4 zhi4 liao2 tang2 niao4 bing4 bing4 fa1 zheng4 fang1 mian4 xian3 shi4 chu1 du2 te4 de5 you1 shi4
+
+100971 	糖尿病#1是#3三大#1世界#2疑难病#1之一
+	糖尿病_n#1 是_v#3 三_m#0 大_a#1 世界_n#2 疑难病_n#1 之一_r#4
+	tang2 niao4 bing4 shi4 san1 da4 shi4 jie4 yi2 nan2 bing4 zhi1 yi1
+
+100972 	昔日#3以#1脾气#1火爆#2著称的#3北美#2职业#1冰球#2沙皇
+	昔日_nt#3 以_p#1 脾气_n#1 火爆_a#2 著称_v#0 的_u#3 北美_ns#2 职业_n#1 冰球_n#2 沙皇_n#4
+	xi1 ri4 yi3 pi2 qi4 huo3 bao4 zhu4 cheng1 de5 bei2 mei3 zhi2 ye4 bing1 qiu2 sha1 huang2
+
+100973 	居然#2在#1村里#3办起了#1托儿所
+	居然_d#2 在_p#1 村里_n#3 办_v#0 起_v#0 了_u#1 托儿所_n#4
+	jv1 ran2 zai4 cun1 li3 ban4 qi3 le5 tuo1 er2 suo3
+
+100974 	和平#1车站的#1那几位#1师傅#3还打电话#3到我#1孩子家
+	和平_nz#1 车站_n#0 的_u#1 那_r#0 几_m#0 位_q#1 师傅_n#3 还_d#0 打电话_v#3 到_v#0 我_r#1 孩子家_n#4
+	he2 ping2 che1 zhan4 de5 na4 ji3 wei4 shi1 fu5 hai2 da3 dian4 hua4 dao4 wo3 hai2 zi5 jia1
+
+100975 	这些#2广告的#1书写#1张贴#3一般#3都#1未经#2有关#1部门#1许可
+	这些_r#2 广告_n#0 的_u#1 书写_v#1 张贴_v#3 一般_a#3 都_d#1 未经_d#2 有关_v#1 部门_n#1 许可_v#4
+	zhe4 xie1 guang3 gao4 de5 shu1 xie3 zhang1 tie1 yi4 ban1 dou1 wei4 jing1 you3 guan1 bu4 men2 xv2 ke3
+
+100976 	一个#2雾蒙蒙#3看不见#1太阳的#1冬日
+	一个_m#2 雾蒙蒙_z#3 看_v#0 不_d#0 见_v#1 太阳_n#0 的_u#1 冬日_nt#4
+	yi2 ge4 wu4 meng2 meng2 kan4 bu2 jian4 tai4 yang5 de5 dong1 ri4
+
+100977 	唯一的#1愿望#4就是#2尽己#1之力#4为#1社会#3做一#1点点#2事情
+	唯一_b#0 的_u#1 愿望_n#4 就是_d#2 尽_v#0 己_r#1 之_u#0 力_n#4 为_p#1 社会_n#3 做_v#0 一点点_m#2 事情_n#4
+	wei2 yi1 de5 yvan4 wang4 jiu4 shi4 jin4 ji3 zhi1 li4 wei4 she4 hui4 zuo4 yi4 dian2 dian3 shi4 qing5
+
+100978 	鹤壁市#1电视台#3听说了#1这件事
+	鹤壁市_ns#1 电视台_n#3 听说_v#0 了_u#1 这_r#0 件_q#0 事_n#4
+	he4 bi4 shi4 dian4 shi4 tai2 ting1 shuo1 le5 zhe4 jian4 shi4
+
+100979 	吴习洲#2经常#1碰上的#3是#2异样的#1目光#4丢掉#2铁饭碗
+	吴习洲_nh#2 经常_d#1 碰上_v#0 的_u#3 是_v#2 异样_n#0 的_u#1 目光_n#4 丢掉_v#2 铁饭碗_n#4
+	wu2 xi2 zhou1 jing1 chang2 peng4 shang4 de5 shi4 yi4 yang4 de5 mu4 guang1 diu1 diao4 tie3 fan4 wan3
+
+100980 	再也#2不用#1政府#3为#1俺的#1吃穿#3发愁了
+	再_d#0 也_d#2 不_d#0 用_v#1 政府_n#3 为_p#1 俺_r#0 的_u#1 吃_v#0 穿_v#3 发愁_v#0 了_u#4
+	zai4 ye3 bu2 yong4 zheng4 fu3 wei4 an3 de5 chi1 chuan1 fa1 chou2 le5
+
+100981 	麻烦#1你#2春节#1后#3帮#1刘少宇的#1女儿#3找份#2临时#1工作
+	麻烦_a#1 你_r#2 春节_nt#1 后_nd#3 帮_v#1 刘少宇_nh#0 的_u#1 女儿_n#3 找_v#0 份_q#2 临时_b#1 工作_v#4
+	ma2 fan5 ni3 chun1 jie2 hou4 bang1 liu2 shao4 yv3 de5 nv3 er2 zhao3 fen4 lin2 shi2 gong1 zuo4
+
+100982 	湖州市#2对#1身边的#3这个#1典型#4进行了#3广泛#1深入的#1宣传
+	湖州市_ns#2 对_p#1 身边_nl#0 的_u#3 这个_r#1 典型_n#4 进行_v#0 了_u#3 广泛_a#1 深入_a#0 的_u#1 宣传_v#4
+	hu2 zhou1 shi4 dui4 shen1 bian1 de5 zhe4 ge5 dian3 xing2 jin4 xing2 le5 guang3 fan4 shen1 ru4 de5 xvan1 chuan2
+
+100983 	可把#1俄#3与#1正在#1流血#1冲突的#3阿富汗
+	可_d#0 把_p#1 俄_j#3 与_c#1 正在_d#1 流血_v#1 冲突_v#0 的_u#3 阿富汗_ns#4
+	ke2 ba3 e2 yv3 zheng4 zai4 liu2 xve4 chong1 tu5 de5 a1 fu4 han4
+
+100984 	并#1不像#3有些#1媒介#2渲染的#1那样
+	并_d#1 不_d#0 像_p#3 有些_r#1 媒介_n#2 渲染_v#0 的_u#1 那样_r#4
+	bing4 bu2 xiang4 you3 xie1 mei2 jie4 xvan4 ran3 de5 na4 yang4
+
+100985 	只给#2家庭#1医生#3推荐#1来#2就诊的#1病人#3进行#2免费#1医疗
+	只_d#0 给_p#2 家庭_n#1 医生_n#3 推荐_v#1 来_v#2 就诊_v#0 的_u#1 病人_n#3 进行_v#2 免费_v#1 医疗_n#4
+	zhi2 gei3 jia1 ting2 yi1 sheng5 tui1 jian4 lai2 jiu4 zhen3 de5 bing4 ren5 jin4 xing2 mian3 fei4 yi1 liao2
+
+100986 	近日#2多伦多#1星报#3和#1多伦多#1太阳报#4发表的#1文章#1表明
+	近日_nt#2 多伦多_ns#1 星报_nz#3 和_c#1 多伦多_ns#1 太阳_n#0 报_n#4 发表_v#0 的_u#1 文章_n#1 表明_v#4
+	jin4 ri4 duo1 lun2 duo1 xing1 bao4 he2 duo1 lun2 duo1 tai4 yang2 bao4 fa1 biao3 de5 wen2 zhang1 biao3 ming2
+
+100987 	贪婪#2和#1私心#3毁灭了#1一代#1奇才
+	贪婪_a#2 和_c#1 私心_n#3 毁灭_v#0 了_u#1 一_m#0 代_q#1 奇才_n#4
+	tan1 lan2 he2 si1 xin1 hui3 mie4 le5 yi2 dai4 qi2 cai2
+
+100988 	几内亚#2属于#3全球#2最#1贫困的#1国家#2之一
+	几内亚_ns#2 属于_v#3 全球_n#2 最_d#1 贫困_a#0 的_u#1 国家_n#2 之一_r#4
+	ji3 nei4 ya4 shu3 yv2 qvan2 qiu2 zui4 pin2 kun4 de5 guo2 jia1 zhi1 yi1
+
+100989 	偶尔#2可见#3当地#1居民#2在#1树荫下#4或#1凉棚里#4纳凉#1聊天
+	偶尔_d#2 可见_v#3 当地_nl#1 居民_n#2 在_p#1 树荫_n#0 下_nd#4 或_c#1 凉棚_n#0 里_nd#4 纳凉_v#1 聊天_v#4
+	ou2 er2 ke3 jian4 dang1 di4 jv1 min2 zai4 shu4 yin1 xia4 huo4 liang2 peng2 li3 na4 liang2 liao2 tian1
+
+100990 	太行红#3好像#1燃烧#1在#2天边的#1晚霞
+	太行红_n#3 好像_v#1 燃烧_v#1 在_p#2 天边_nl#0 的_u#1 晚霞_n#4
+	tai4 hang2 hong2 hao3 xiang4 ran2 shao1 zai4 tian1 bian1 de5 wan3 xia2
+
+100991 	共同#2点缀成#3绚丽#1多彩的#3中华#1民族#2大花园
+	共同_d#2 点缀_v#0 成_v#3 绚丽多彩_i#1 的_u#3 中华民族_n#2 大_a#0 花园_n#4
+	gong4 tong2 dian3 zhui4 cheng2 xvan4 li4 duo1 cai3 de5 zhong1 hua2 min2 zu2 da4 hua1 yvan2
+
+100992 	税务#1部门#2也#1同意#3免征#2三年#1所得税
+	税务_n#1 部门_n#2 也_d#1 同意_v#3 免征_v#2 三_m#0 年_q#1 所得税_n#4
+	shui4 wu4 bu4 men2 ye3 tong2 yi4 mian3 zheng1 san1 nian2 suo3 de2 shui4
+
+100993 	英国#1提出#4西班牙#2应#1取消#3这项#1管制
+	英国_ns#1 提出_v#4 西班牙_ns#2 应_v#1 取消_v#3 这_r#0 项_q#1 管制_v#4
+	ying1 guo2 ti2 chu1 xi1 ban1 ya2 ying1 qv3 xiao1 zhe4 xiang4 guan3 zhi4
+
+100994 	比索#1目前#1贬值#3约#1百分之#1五十八
+	比索_n#1 目前_nt#1 贬值_v#3 约_d#1 百分之五十八_m#4
+	bi2 suo3 mu4 qian2 bian3 zhi2 yve1 bai3 fen1 zhi1 wu3 shi2 ba1
+
+100995 	我国#1排球#1运动的#1塔基#3不牢固#4塔顶#2难#1冒尖
+	我国_n#1 排球_n#1 运动_n#0 的_u#1 塔基_n#3 不_d#0 牢固_a#4 塔顶_n#2 难_a#1 冒尖_v#4
+	wo3 guo2 pai2 qiu2 yvn4 dong4 de5 ta3 ji1 bu4 lao2 gu4 ta2 ding3 nan2 mao4 jian1
+
+100996 	于是#3土著#1人们#3就#2习惯地#1称呼#1他#3为#2我是#1谁
+	于是_c#3 土著_nz#1 人们_n#3 就_d#2 习惯_v#0 地_u#1 称呼_v#1 他_r#3 为_p#2 我_r#0 是_v#1 谁_r#4
+	yv2 shi4 tu3 zhu4 ren2 men5 jiu4 xi2 guan4 de5 cheng1 hu1 ta1 wei2 wo3 shi4 shei2
+
+100997 	年年#2给#1咱们#1一份#2欢笑的#3赵丽蓉#1老太太
+	年年_q#2 给_p#1 咱们_r#1 一_m#0 份_q#2 欢笑_v#0 的_u#3 赵丽蓉_nh#1 老太太_n#4
+	nian2 nian2 gei3 zan2 men5 yi2 fen4 huan1 xiao4 de5 zhao4 li4 rong2 lao3 tai4 tai5
+
+100998 	北京#2电视台#4为#1电影#2爱好者#3安排了#3二十多部#1影片
+	北京_ns#2 电视台_n#4 为_p#1 电影_n#2 爱好者_n#3 安排_v#0 了_u#3 二十_m#0 多_m#0 部_q#1 影片_n#4
+	bei3 jing1 dian4 shi4 tai2 wei4 dian4 ying3 ai4 hao4 zhe3 an1 pai2 le5 er4 shi2 duo1 bu4 ying3 pian4
+
+100999 	是#1滇东南#3翡翠般的#2一块#3高原#1湖泊
+	是_v#1 滇_j#0 东南_nd#3 翡翠_n#0 般_u#0 的_u#2 一_m#0 块_q#3 高原_n#1 湖泊_n#4
+	shi4 dian1 dong1 nan2 fei3 cui4 ban1 de5 yi2 kuai4 gao1 yvan2 hu2 po1
+
+101000 	我#1选中的#1小船的#1船主#3是#1彝族的#2两个#1小伙子
+	我_r#1 选中_v#0 的_u#1 小船_n#0 的_u#1 船主_n#3 是_v#1 彝族_nz#0 的_u#2 两_m#0 个_q#1 小伙子_n#4
+	wo2 xvan3 zhong4 de5 xiao3 chuan2 de5 chuan2 zhu3 shi4 yi2 zu2 de5 liang3 ge5 xiao2 huo3 zi5
+
